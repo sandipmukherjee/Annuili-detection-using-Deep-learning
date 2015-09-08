@@ -1,0 +1,6 @@
+- `Preprocessing` contains code to remove artefacts from the dataset. Run this first or ask us for a cleaned version of the dataset.
+- `DataGeneration` contains different approaches for generating the dataset, including training/validation/test sets. Consult the README there for more information.
+- `NeuralNetwork` contains an implementation of a convolutional neural network for the annuli dataset.
+- `Classifier`contains the classification code for unknown samples, it needs jpeg images, learnt weights to predict annulus region in the image.
+- `Logs` contains logs with epoch by epoch training results for different experiments tried.
+- `Docs` contains summary of experiments tried so far.

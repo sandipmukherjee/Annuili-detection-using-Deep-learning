@@ -1,0 +1,1574 @@
+DEBUG:root:training
+DEBUG:root:training error @ iter = 0 : 0.500000
+DEBUG:root:training error @ iter = 1 : 0.508000
+DEBUG:root:training error @ iter = 2 : 0.258000
+DEBUG:root:training error @ iter = 3 : 0.256000
+DEBUG:root:training error @ iter = 4 : 0.290000
+DEBUG:root:training error @ iter = 5 : 0.268000
+DEBUG:root:training error @ iter = 6 : 0.278000
+DEBUG:root:training error @ iter = 7 : 0.246000
+DEBUG:root:training error @ iter = 8 : 0.264000
+DEBUG:root:epoch 1, test error 27.400000 %
+DEBUG:root:training error @ iter = 9 : 0.270000
+DEBUG:root:training error @ iter = 10 : 0.246000
+DEBUG:root:training error @ iter = 11 : 0.274000
+DEBUG:root:training error @ iter = 12 : 0.264000
+DEBUG:root:training error @ iter = 13 : 0.288000
+DEBUG:root:training error @ iter = 14 : 0.262000
+DEBUG:root:training error @ iter = 15 : 0.264000
+DEBUG:root:training error @ iter = 16 : 0.248000
+DEBUG:root:training error @ iter = 17 : 0.238000
+DEBUG:root:epoch 2, test error 25.000000 %
+DEBUG:root:training error @ iter = 18 : 0.236000
+DEBUG:root:training error @ iter = 19 : 0.238000
+DEBUG:root:training error @ iter = 20 : 0.258000
+DEBUG:root:training error @ iter = 21 : 0.250000
+DEBUG:root:training error @ iter = 22 : 0.262000
+DEBUG:root:training error @ iter = 23 : 0.252000
+DEBUG:root:training error @ iter = 24 : 0.250000
+DEBUG:root:training error @ iter = 25 : 0.220000
+DEBUG:root:training error @ iter = 26 : 0.226000
+DEBUG:root:epoch 3, test error 24.533333 %
+DEBUG:root:training error @ iter = 27 : 0.224000
+DEBUG:root:training error @ iter = 28 : 0.230000
+DEBUG:root:training error @ iter = 29 : 0.262000
+DEBUG:root:training error @ iter = 30 : 0.236000
+DEBUG:root:training error @ iter = 31 : 0.252000
+DEBUG:root:training error @ iter = 32 : 0.230000
+DEBUG:root:training error @ iter = 33 : 0.242000
+DEBUG:root:training error @ iter = 34 : 0.204000
+DEBUG:root:training error @ iter = 35 : 0.222000
+DEBUG:root:epoch 4, test error 23.600000 %
+DEBUG:root:training error @ iter = 36 : 0.228000
+DEBUG:root:training error @ iter = 37 : 0.210000
+DEBUG:root:training error @ iter = 38 : 0.234000
+DEBUG:root:training error @ iter = 39 : 0.222000
+DEBUG:root:training error @ iter = 40 : 0.240000
+DEBUG:root:training error @ iter = 41 : 0.230000
+DEBUG:root:training error @ iter = 42 : 0.230000
+DEBUG:root:training error @ iter = 43 : 0.194000
+DEBUG:root:training error @ iter = 44 : 0.202000
+DEBUG:root:epoch 5, test error 22.400000 %
+DEBUG:root:training error @ iter = 45 : 0.206000
+DEBUG:root:training error @ iter = 46 : 0.200000
+DEBUG:root:training error @ iter = 47 : 0.220000
+DEBUG:root:training error @ iter = 48 : 0.208000
+DEBUG:root:training error @ iter = 49 : 0.226000
+DEBUG:root:training error @ iter = 50 : 0.206000
+DEBUG:root:training error @ iter = 51 : 0.210000
+DEBUG:root:training error @ iter = 52 : 0.178000
+DEBUG:root:training error @ iter = 53 : 0.198000
+DEBUG:root:epoch 6, test error 20.733333 %
+DEBUG:root:training error @ iter = 54 : 0.192000
+DEBUG:root:training error @ iter = 55 : 0.188000
+DEBUG:root:training error @ iter = 56 : 0.218000
+DEBUG:root:training error @ iter = 57 : 0.204000
+DEBUG:root:training error @ iter = 58 : 0.206000
+DEBUG:root:training error @ iter = 59 : 0.196000
+DEBUG:root:training error @ iter = 60 : 0.216000
+DEBUG:root:training error @ iter = 61 : 0.166000
+DEBUG:root:training error @ iter = 62 : 0.188000
+DEBUG:root:epoch 7, test error 20.000000 %
+DEBUG:root:training error @ iter = 63 : 0.182000
+DEBUG:root:training error @ iter = 64 : 0.170000
+DEBUG:root:training error @ iter = 65 : 0.204000
+DEBUG:root:training error @ iter = 66 : 0.196000
+DEBUG:root:training error @ iter = 67 : 0.206000
+DEBUG:root:training error @ iter = 68 : 0.186000
+DEBUG:root:training error @ iter = 69 : 0.200000
+DEBUG:root:training error @ iter = 70 : 0.174000
+DEBUG:root:training error @ iter = 71 : 0.184000
+DEBUG:root:epoch 8, test error 19.533333 %
+DEBUG:root:training error @ iter = 72 : 0.170000
+DEBUG:root:training error @ iter = 73 : 0.168000
+DEBUG:root:training error @ iter = 74 : 0.198000
+DEBUG:root:training error @ iter = 75 : 0.182000
+DEBUG:root:training error @ iter = 76 : 0.186000
+DEBUG:root:training error @ iter = 77 : 0.178000
+DEBUG:root:training error @ iter = 78 : 0.212000
+DEBUG:root:training error @ iter = 79 : 0.162000
+DEBUG:root:training error @ iter = 80 : 0.166000
+DEBUG:root:epoch 9, test error 18.333333 %
+DEBUG:root:training error @ iter = 81 : 0.176000
+DEBUG:root:training error @ iter = 82 : 0.162000
+DEBUG:root:training error @ iter = 83 : 0.198000
+DEBUG:root:training error @ iter = 84 : 0.180000
+DEBUG:root:training error @ iter = 85 : 0.174000
+DEBUG:root:training error @ iter = 86 : 0.170000
+DEBUG:root:training error @ iter = 87 : 0.196000
+DEBUG:root:training error @ iter = 88 : 0.168000
+DEBUG:root:training error @ iter = 89 : 0.168000
+DEBUG:root:epoch 10, test error 18.266667 %
+DEBUG:root:training error @ iter = 90 : 0.164000
+DEBUG:root:training error @ iter = 91 : 0.158000
+DEBUG:root:training error @ iter = 92 : 0.192000
+DEBUG:root:training error @ iter = 93 : 0.182000
+DEBUG:root:training error @ iter = 94 : 0.186000
+DEBUG:root:training error @ iter = 95 : 0.172000
+DEBUG:root:training error @ iter = 96 : 0.194000
+DEBUG:root:training error @ iter = 97 : 0.146000
+DEBUG:root:training error @ iter = 98 : 0.160000
+DEBUG:root:epoch 11, test error 18.400000 %
+DEBUG:root:training error @ iter = 99 : 0.166000
+DEBUG:root:training error @ iter = 100 : 0.160000
+DEBUG:root:training error @ iter = 101 : 0.188000
+DEBUG:root:training error @ iter = 102 : 0.174000
+DEBUG:root:training error @ iter = 103 : 0.170000
+DEBUG:root:training error @ iter = 104 : 0.170000
+DEBUG:root:training error @ iter = 105 : 0.190000
+DEBUG:root:training error @ iter = 106 : 0.146000
+DEBUG:root:training error @ iter = 107 : 0.164000
+DEBUG:root:epoch 12, test error 17.466667 %
+DEBUG:root:training error @ iter = 108 : 0.152000
+DEBUG:root:training error @ iter = 109 : 0.150000
+DEBUG:root:training error @ iter = 110 : 0.180000
+DEBUG:root:training error @ iter = 111 : 0.172000
+DEBUG:root:training error @ iter = 112 : 0.172000
+DEBUG:root:training error @ iter = 113 : 0.162000
+DEBUG:root:training error @ iter = 114 : 0.188000
+DEBUG:root:training error @ iter = 115 : 0.148000
+DEBUG:root:training error @ iter = 116 : 0.150000
+DEBUG:root:epoch 13, test error 17.933333 %
+DEBUG:root:training error @ iter = 117 : 0.160000
+DEBUG:root:training error @ iter = 118 : 0.156000
+DEBUG:root:training error @ iter = 119 : 0.174000
+DEBUG:root:training error @ iter = 120 : 0.166000
+DEBUG:root:training error @ iter = 121 : 0.166000
+DEBUG:root:training error @ iter = 122 : 0.166000
+DEBUG:root:training error @ iter = 123 : 0.186000
+DEBUG:root:training error @ iter = 124 : 0.140000
+DEBUG:root:training error @ iter = 125 : 0.162000
+DEBUG:root:epoch 14, test error 17.533333 %
+DEBUG:root:training error @ iter = 126 : 0.154000
+DEBUG:root:training error @ iter = 127 : 0.148000
+DEBUG:root:training error @ iter = 128 : 0.182000
+DEBUG:root:training error @ iter = 129 : 0.158000
+DEBUG:root:training error @ iter = 130 : 0.166000
+DEBUG:root:training error @ iter = 131 : 0.160000
+DEBUG:root:training error @ iter = 132 : 0.188000
+DEBUG:root:training error @ iter = 133 : 0.152000
+DEBUG:root:training error @ iter = 134 : 0.148000
+DEBUG:root:epoch 15, test error 17.000000 %
+DEBUG:root:training error @ iter = 135 : 0.150000
+DEBUG:root:training error @ iter = 136 : 0.146000
+DEBUG:root:training error @ iter = 137 : 0.166000
+DEBUG:root:training error @ iter = 138 : 0.158000
+DEBUG:root:training error @ iter = 139 : 0.168000
+DEBUG:root:training error @ iter = 140 : 0.150000
+DEBUG:root:training error @ iter = 141 : 0.188000
+DEBUG:root:training error @ iter = 142 : 0.136000
+DEBUG:root:training error @ iter = 143 : 0.150000
+DEBUG:root:epoch 16, test error 16.466667 %
+DEBUG:root:training error @ iter = 144 : 0.152000
+DEBUG:root:training error @ iter = 145 : 0.156000
+DEBUG:root:training error @ iter = 146 : 0.174000
+DEBUG:root:training error @ iter = 147 : 0.166000
+DEBUG:root:training error @ iter = 148 : 0.162000
+DEBUG:root:training error @ iter = 149 : 0.144000
+DEBUG:root:training error @ iter = 150 : 0.180000
+DEBUG:root:training error @ iter = 151 : 0.144000
+DEBUG:root:training error @ iter = 152 : 0.152000
+DEBUG:root:epoch 17, test error 16.666667 %
+DEBUG:root:training error @ iter = 153 : 0.154000
+DEBUG:root:training error @ iter = 154 : 0.146000
+DEBUG:root:training error @ iter = 155 : 0.174000
+DEBUG:root:training error @ iter = 156 : 0.162000
+DEBUG:root:training error @ iter = 157 : 0.156000
+DEBUG:root:training error @ iter = 158 : 0.148000
+DEBUG:root:training error @ iter = 159 : 0.182000
+DEBUG:root:training error @ iter = 160 : 0.140000
+DEBUG:root:training error @ iter = 161 : 0.156000
+DEBUG:root:epoch 18, test error 16.400000 %
+DEBUG:root:training error @ iter = 162 : 0.148000
+DEBUG:root:training error @ iter = 163 : 0.140000
+DEBUG:root:training error @ iter = 164 : 0.174000
+DEBUG:root:training error @ iter = 165 : 0.158000
+DEBUG:root:training error @ iter = 166 : 0.152000
+DEBUG:root:training error @ iter = 167 : 0.150000
+DEBUG:root:training error @ iter = 168 : 0.186000
+DEBUG:root:training error @ iter = 169 : 0.140000
+DEBUG:root:training error @ iter = 170 : 0.152000
+DEBUG:root:epoch 19, test error 16.200000 %
+DEBUG:root:training error @ iter = 171 : 0.150000
+DEBUG:root:training error @ iter = 172 : 0.152000
+DEBUG:root:training error @ iter = 173 : 0.174000
+DEBUG:root:training error @ iter = 174 : 0.148000
+DEBUG:root:training error @ iter = 175 : 0.156000
+DEBUG:root:training error @ iter = 176 : 0.144000
+DEBUG:root:training error @ iter = 177 : 0.176000
+DEBUG:root:training error @ iter = 178 : 0.130000
+DEBUG:root:training error @ iter = 179 : 0.146000
+DEBUG:root:epoch 20, test error 15.600000 %
+DEBUG:root:training error @ iter = 180 : 0.150000
+DEBUG:root:training error @ iter = 181 : 0.142000
+DEBUG:root:training error @ iter = 182 : 0.170000
+DEBUG:root:training error @ iter = 183 : 0.148000
+DEBUG:root:training error @ iter = 184 : 0.152000
+DEBUG:root:training error @ iter = 185 : 0.142000
+DEBUG:root:training error @ iter = 186 : 0.172000
+DEBUG:root:training error @ iter = 187 : 0.130000
+DEBUG:root:training error @ iter = 188 : 0.158000
+DEBUG:root:epoch 21, test error 15.866667 %
+DEBUG:root:training error @ iter = 189 : 0.144000
+DEBUG:root:training error @ iter = 190 : 0.142000
+DEBUG:root:training error @ iter = 191 : 0.174000
+DEBUG:root:training error @ iter = 192 : 0.146000
+DEBUG:root:training error @ iter = 193 : 0.140000
+DEBUG:root:training error @ iter = 194 : 0.150000
+DEBUG:root:training error @ iter = 195 : 0.172000
+DEBUG:root:training error @ iter = 196 : 0.142000
+DEBUG:root:training error @ iter = 197 : 0.138000
+DEBUG:root:epoch 22, test error 15.933333 %
+DEBUG:root:training error @ iter = 198 : 0.146000
+DEBUG:root:training error @ iter = 199 : 0.136000
+DEBUG:root:training error @ iter = 200 : 0.168000
+DEBUG:root:training error @ iter = 201 : 0.150000
+DEBUG:root:training error @ iter = 202 : 0.138000
+DEBUG:root:training error @ iter = 203 : 0.144000
+DEBUG:root:training error @ iter = 204 : 0.164000
+DEBUG:root:training error @ iter = 205 : 0.132000
+DEBUG:root:training error @ iter = 206 : 0.144000
+DEBUG:root:epoch 23, test error 15.733333 %
+DEBUG:root:training error @ iter = 207 : 0.146000
+DEBUG:root:training error @ iter = 208 : 0.126000
+DEBUG:root:training error @ iter = 209 : 0.168000
+DEBUG:root:training error @ iter = 210 : 0.138000
+DEBUG:root:training error @ iter = 211 : 0.146000
+DEBUG:root:training error @ iter = 212 : 0.132000
+DEBUG:root:training error @ iter = 213 : 0.174000
+DEBUG:root:training error @ iter = 214 : 0.132000
+DEBUG:root:training error @ iter = 215 : 0.152000
+DEBUG:root:epoch 24, test error 15.600000 %
+DEBUG:root:training error @ iter = 216 : 0.134000
+DEBUG:root:training error @ iter = 217 : 0.146000
+DEBUG:root:training error @ iter = 218 : 0.166000
+DEBUG:root:training error @ iter = 219 : 0.146000
+DEBUG:root:training error @ iter = 220 : 0.138000
+DEBUG:root:training error @ iter = 221 : 0.142000
+DEBUG:root:training error @ iter = 222 : 0.174000
+DEBUG:root:training error @ iter = 223 : 0.130000
+DEBUG:root:training error @ iter = 224 : 0.156000
+DEBUG:root:epoch 25, test error 14.933333 %
+DEBUG:root:training error @ iter = 225 : 0.136000
+DEBUG:root:training error @ iter = 226 : 0.134000
+DEBUG:root:training error @ iter = 227 : 0.160000
+DEBUG:root:training error @ iter = 228 : 0.146000
+DEBUG:root:training error @ iter = 229 : 0.136000
+DEBUG:root:training error @ iter = 230 : 0.142000
+DEBUG:root:training error @ iter = 231 : 0.176000
+DEBUG:root:training error @ iter = 232 : 0.138000
+DEBUG:root:training error @ iter = 233 : 0.148000
+DEBUG:root:epoch 26, test error 15.200000 %
+DEBUG:root:training error @ iter = 234 : 0.138000
+DEBUG:root:training error @ iter = 235 : 0.132000
+DEBUG:root:training error @ iter = 236 : 0.160000
+DEBUG:root:training error @ iter = 237 : 0.146000
+DEBUG:root:training error @ iter = 238 : 0.134000
+DEBUG:root:training error @ iter = 239 : 0.148000
+DEBUG:root:training error @ iter = 240 : 0.164000
+DEBUG:root:training error @ iter = 241 : 0.128000
+DEBUG:root:training error @ iter = 242 : 0.140000
+DEBUG:root:epoch 27, test error 15.266667 %
+DEBUG:root:training error @ iter = 243 : 0.142000
+DEBUG:root:training error @ iter = 244 : 0.132000
+DEBUG:root:training error @ iter = 245 : 0.166000
+DEBUG:root:training error @ iter = 246 : 0.140000
+DEBUG:root:training error @ iter = 247 : 0.142000
+DEBUG:root:training error @ iter = 248 : 0.140000
+DEBUG:root:training error @ iter = 249 : 0.164000
+DEBUG:root:training error @ iter = 250 : 0.132000
+DEBUG:root:training error @ iter = 251 : 0.154000
+DEBUG:root:epoch 28, test error 15.266667 %
+DEBUG:root:training error @ iter = 252 : 0.140000
+DEBUG:root:training error @ iter = 253 : 0.128000
+DEBUG:root:training error @ iter = 254 : 0.158000
+DEBUG:root:training error @ iter = 255 : 0.144000
+DEBUG:root:training error @ iter = 256 : 0.132000
+DEBUG:root:training error @ iter = 257 : 0.136000
+DEBUG:root:training error @ iter = 258 : 0.162000
+DEBUG:root:training error @ iter = 259 : 0.124000
+DEBUG:root:training error @ iter = 260 : 0.148000
+DEBUG:root:epoch 29, test error 15.400000 %
+DEBUG:root:training error @ iter = 261 : 0.130000
+DEBUG:root:training error @ iter = 262 : 0.128000
+DEBUG:root:training error @ iter = 263 : 0.158000
+DEBUG:root:training error @ iter = 264 : 0.148000
+DEBUG:root:training error @ iter = 265 : 0.142000
+DEBUG:root:training error @ iter = 266 : 0.146000
+DEBUG:root:training error @ iter = 267 : 0.172000
+DEBUG:root:training error @ iter = 268 : 0.130000
+DEBUG:root:training error @ iter = 269 : 0.142000
+DEBUG:root:epoch 30, test error 15.133333 %
+DEBUG:root:training error @ iter = 270 : 0.134000
+DEBUG:root:training error @ iter = 271 : 0.140000
+DEBUG:root:training error @ iter = 272 : 0.156000
+DEBUG:root:training error @ iter = 273 : 0.142000
+DEBUG:root:training error @ iter = 274 : 0.130000
+DEBUG:root:training error @ iter = 275 : 0.140000
+DEBUG:root:training error @ iter = 276 : 0.162000
+DEBUG:root:training error @ iter = 277 : 0.126000
+DEBUG:root:training error @ iter = 278 : 0.152000
+DEBUG:root:epoch 31, test error 15.400000 %
+DEBUG:root:training error @ iter = 279 : 0.138000
+DEBUG:root:training error @ iter = 280 : 0.128000
+DEBUG:root:training error @ iter = 281 : 0.166000
+DEBUG:root:training error @ iter = 282 : 0.136000
+DEBUG:root:training error @ iter = 283 : 0.136000
+DEBUG:root:training error @ iter = 284 : 0.136000
+DEBUG:root:training error @ iter = 285 : 0.170000
+DEBUG:root:training error @ iter = 286 : 0.128000
+DEBUG:root:training error @ iter = 287 : 0.140000
+DEBUG:root:epoch 32, test error 14.733333 %
+DEBUG:root:training error @ iter = 288 : 0.134000
+DEBUG:root:training error @ iter = 289 : 0.126000
+DEBUG:root:training error @ iter = 290 : 0.150000
+DEBUG:root:training error @ iter = 291 : 0.146000
+DEBUG:root:training error @ iter = 292 : 0.124000
+DEBUG:root:training error @ iter = 293 : 0.130000
+DEBUG:root:training error @ iter = 294 : 0.158000
+DEBUG:root:training error @ iter = 295 : 0.130000
+DEBUG:root:training error @ iter = 296 : 0.142000
+DEBUG:root:epoch 33, test error 15.266667 %
+DEBUG:root:training error @ iter = 297 : 0.132000
+DEBUG:root:training error @ iter = 298 : 0.126000
+DEBUG:root:training error @ iter = 299 : 0.156000
+DEBUG:root:training error @ iter = 300 : 0.138000
+DEBUG:root:training error @ iter = 301 : 0.124000
+DEBUG:root:training error @ iter = 302 : 0.128000
+DEBUG:root:training error @ iter = 303 : 0.162000
+DEBUG:root:training error @ iter = 304 : 0.124000
+DEBUG:root:training error @ iter = 305 : 0.140000
+DEBUG:root:epoch 34, test error 14.466667 %
+DEBUG:root:training error @ iter = 306 : 0.134000
+DEBUG:root:training error @ iter = 307 : 0.132000
+DEBUG:root:training error @ iter = 308 : 0.158000
+DEBUG:root:training error @ iter = 309 : 0.134000
+DEBUG:root:training error @ iter = 310 : 0.132000
+DEBUG:root:training error @ iter = 311 : 0.134000
+DEBUG:root:training error @ iter = 312 : 0.162000
+DEBUG:root:training error @ iter = 313 : 0.126000
+DEBUG:root:training error @ iter = 314 : 0.134000
+DEBUG:root:epoch 35, test error 14.933333 %
+DEBUG:root:training error @ iter = 315 : 0.126000
+DEBUG:root:training error @ iter = 316 : 0.122000
+DEBUG:root:training error @ iter = 317 : 0.144000
+DEBUG:root:training error @ iter = 318 : 0.152000
+DEBUG:root:training error @ iter = 319 : 0.124000
+DEBUG:root:training error @ iter = 320 : 0.132000
+DEBUG:root:training error @ iter = 321 : 0.160000
+DEBUG:root:training error @ iter = 322 : 0.132000
+DEBUG:root:training error @ iter = 323 : 0.140000
+DEBUG:root:epoch 36, test error 14.666667 %
+DEBUG:root:training error @ iter = 324 : 0.124000
+DEBUG:root:training error @ iter = 325 : 0.128000
+DEBUG:root:training error @ iter = 326 : 0.150000
+DEBUG:root:training error @ iter = 327 : 0.136000
+DEBUG:root:training error @ iter = 328 : 0.130000
+DEBUG:root:training error @ iter = 329 : 0.132000
+DEBUG:root:training error @ iter = 330 : 0.164000
+DEBUG:root:training error @ iter = 331 : 0.134000
+DEBUG:root:training error @ iter = 332 : 0.142000
+DEBUG:root:epoch 37, test error 15.066667 %
+DEBUG:root:training error @ iter = 333 : 0.128000
+DEBUG:root:training error @ iter = 334 : 0.124000
+DEBUG:root:training error @ iter = 335 : 0.156000
+DEBUG:root:training error @ iter = 336 : 0.136000
+DEBUG:root:training error @ iter = 337 : 0.126000
+DEBUG:root:training error @ iter = 338 : 0.126000
+DEBUG:root:training error @ iter = 339 : 0.166000
+DEBUG:root:training error @ iter = 340 : 0.126000
+DEBUG:root:training error @ iter = 341 : 0.142000
+DEBUG:root:epoch 38, test error 14.600000 %
+DEBUG:root:training error @ iter = 342 : 0.124000
+DEBUG:root:training error @ iter = 343 : 0.130000
+DEBUG:root:training error @ iter = 344 : 0.162000
+DEBUG:root:training error @ iter = 345 : 0.142000
+DEBUG:root:training error @ iter = 346 : 0.126000
+DEBUG:root:training error @ iter = 347 : 0.128000
+DEBUG:root:training error @ iter = 348 : 0.166000
+DEBUG:root:training error @ iter = 349 : 0.126000
+DEBUG:root:training error @ iter = 350 : 0.142000
+DEBUG:root:epoch 39, test error 15.133333 %
+DEBUG:root:training error @ iter = 351 : 0.130000
+DEBUG:root:training error @ iter = 352 : 0.116000
+DEBUG:root:training error @ iter = 353 : 0.146000
+DEBUG:root:training error @ iter = 354 : 0.132000
+DEBUG:root:training error @ iter = 355 : 0.122000
+DEBUG:root:training error @ iter = 356 : 0.120000
+DEBUG:root:training error @ iter = 357 : 0.160000
+DEBUG:root:training error @ iter = 358 : 0.136000
+DEBUG:root:training error @ iter = 359 : 0.138000
+DEBUG:root:epoch 40, test error 14.733333 %
+DEBUG:root:training error @ iter = 360 : 0.136000
+DEBUG:root:training error @ iter = 361 : 0.128000
+DEBUG:root:training error @ iter = 362 : 0.166000
+DEBUG:root:training error @ iter = 363 : 0.140000
+DEBUG:root:training error @ iter = 364 : 0.124000
+DEBUG:root:training error @ iter = 365 : 0.134000
+DEBUG:root:training error @ iter = 366 : 0.160000
+DEBUG:root:training error @ iter = 367 : 0.126000
+DEBUG:root:training error @ iter = 368 : 0.136000
+DEBUG:root:epoch 41, test error 14.200000 %
+DEBUG:root:training error @ iter = 369 : 0.126000
+DEBUG:root:training error @ iter = 370 : 0.128000
+DEBUG:root:training error @ iter = 371 : 0.154000
+DEBUG:root:training error @ iter = 372 : 0.134000
+DEBUG:root:training error @ iter = 373 : 0.132000
+DEBUG:root:training error @ iter = 374 : 0.126000
+DEBUG:root:training error @ iter = 375 : 0.160000
+DEBUG:root:training error @ iter = 376 : 0.122000
+DEBUG:root:training error @ iter = 377 : 0.142000
+DEBUG:root:epoch 42, test error 15.133333 %
+DEBUG:root:training error @ iter = 378 : 0.130000
+DEBUG:root:training error @ iter = 379 : 0.122000
+DEBUG:root:training error @ iter = 380 : 0.158000
+DEBUG:root:training error @ iter = 381 : 0.136000
+DEBUG:root:training error @ iter = 382 : 0.122000
+DEBUG:root:training error @ iter = 383 : 0.132000
+DEBUG:root:training error @ iter = 384 : 0.154000
+DEBUG:root:training error @ iter = 385 : 0.122000
+DEBUG:root:training error @ iter = 386 : 0.142000
+DEBUG:root:epoch 43, test error 14.866667 %
+DEBUG:root:training error @ iter = 387 : 0.126000
+DEBUG:root:training error @ iter = 388 : 0.122000
+DEBUG:root:training error @ iter = 389 : 0.160000
+DEBUG:root:training error @ iter = 390 : 0.144000
+DEBUG:root:training error @ iter = 391 : 0.120000
+DEBUG:root:training error @ iter = 392 : 0.126000
+DEBUG:root:training error @ iter = 393 : 0.156000
+DEBUG:root:training error @ iter = 394 : 0.124000
+DEBUG:root:training error @ iter = 395 : 0.138000
+DEBUG:root:epoch 44, test error 14.533333 %
+DEBUG:root:training error @ iter = 396 : 0.118000
+DEBUG:root:training error @ iter = 397 : 0.122000
+DEBUG:root:training error @ iter = 398 : 0.156000
+DEBUG:root:training error @ iter = 399 : 0.132000
+DEBUG:root:training error @ iter = 400 : 0.120000
+DEBUG:root:training error @ iter = 401 : 0.124000
+DEBUG:root:training error @ iter = 402 : 0.154000
+DEBUG:root:training error @ iter = 403 : 0.128000
+DEBUG:root:training error @ iter = 404 : 0.136000
+DEBUG:root:epoch 45, test error 14.466667 %
+DEBUG:root:training error @ iter = 405 : 0.126000
+DEBUG:root:training error @ iter = 406 : 0.132000
+DEBUG:root:training error @ iter = 407 : 0.152000
+DEBUG:root:training error @ iter = 408 : 0.136000
+DEBUG:root:training error @ iter = 409 : 0.118000
+DEBUG:root:training error @ iter = 410 : 0.130000
+DEBUG:root:training error @ iter = 411 : 0.158000
+DEBUG:root:training error @ iter = 412 : 0.128000
+DEBUG:root:training error @ iter = 413 : 0.138000
+DEBUG:root:epoch 46, test error 15.200000 %
+DEBUG:root:training error @ iter = 414 : 0.124000
+DEBUG:root:training error @ iter = 415 : 0.118000
+DEBUG:root:training error @ iter = 416 : 0.158000
+DEBUG:root:training error @ iter = 417 : 0.134000
+DEBUG:root:training error @ iter = 418 : 0.124000
+DEBUG:root:training error @ iter = 419 : 0.122000
+DEBUG:root:training error @ iter = 420 : 0.152000
+DEBUG:root:training error @ iter = 421 : 0.126000
+DEBUG:root:training error @ iter = 422 : 0.132000
+DEBUG:root:epoch 47, test error 14.466667 %
+DEBUG:root:training error @ iter = 423 : 0.126000
+DEBUG:root:training error @ iter = 424 : 0.130000
+DEBUG:root:training error @ iter = 425 : 0.152000
+DEBUG:root:training error @ iter = 426 : 0.134000
+DEBUG:root:training error @ iter = 427 : 0.118000
+DEBUG:root:training error @ iter = 428 : 0.128000
+DEBUG:root:training error @ iter = 429 : 0.162000
+DEBUG:root:training error @ iter = 430 : 0.126000
+DEBUG:root:training error @ iter = 431 : 0.132000
+DEBUG:root:epoch 48, test error 14.866667 %
+DEBUG:root:training error @ iter = 432 : 0.126000
+DEBUG:root:training error @ iter = 433 : 0.118000
+DEBUG:root:training error @ iter = 434 : 0.156000
+DEBUG:root:training error @ iter = 435 : 0.130000
+DEBUG:root:training error @ iter = 436 : 0.122000
+DEBUG:root:training error @ iter = 437 : 0.124000
+DEBUG:root:training error @ iter = 438 : 0.156000
+DEBUG:root:training error @ iter = 439 : 0.120000
+DEBUG:root:training error @ iter = 440 : 0.138000
+DEBUG:root:epoch 49, test error 13.933333 %
+DEBUG:root:training error @ iter = 441 : 0.124000
+DEBUG:root:training error @ iter = 442 : 0.122000
+DEBUG:root:training error @ iter = 443 : 0.154000
+DEBUG:root:training error @ iter = 444 : 0.140000
+DEBUG:root:training error @ iter = 445 : 0.124000
+DEBUG:root:training error @ iter = 446 : 0.128000
+DEBUG:root:training error @ iter = 447 : 0.148000
+DEBUG:root:training error @ iter = 448 : 0.130000
+DEBUG:root:training error @ iter = 449 : 0.142000
+DEBUG:root:epoch 50, test error 14.400000 %
+DEBUG:root:training error @ iter = 450 : 0.126000
+DEBUG:root:training error @ iter = 451 : 0.122000
+DEBUG:root:training error @ iter = 452 : 0.146000
+DEBUG:root:training error @ iter = 453 : 0.142000
+DEBUG:root:training error @ iter = 454 : 0.122000
+DEBUG:root:training error @ iter = 455 : 0.124000
+DEBUG:root:training error @ iter = 456 : 0.160000
+DEBUG:root:training error @ iter = 457 : 0.130000
+DEBUG:root:training error @ iter = 458 : 0.132000
+DEBUG:root:epoch 51, test error 14.200000 %
+DEBUG:root:training error @ iter = 459 : 0.120000
+DEBUG:root:training error @ iter = 460 : 0.116000
+DEBUG:root:training error @ iter = 461 : 0.152000
+DEBUG:root:training error @ iter = 462 : 0.130000
+DEBUG:root:training error @ iter = 463 : 0.122000
+DEBUG:root:training error @ iter = 464 : 0.120000
+DEBUG:root:training error @ iter = 465 : 0.150000
+DEBUG:root:training error @ iter = 466 : 0.124000
+DEBUG:root:training error @ iter = 467 : 0.140000
+DEBUG:root:epoch 52, test error 14.333333 %
+DEBUG:root:training error @ iter = 468 : 0.140000
+DEBUG:root:training error @ iter = 469 : 0.112000
+DEBUG:root:training error @ iter = 470 : 0.144000
+DEBUG:root:training error @ iter = 471 : 0.136000
+DEBUG:root:training error @ iter = 472 : 0.120000
+DEBUG:root:training error @ iter = 473 : 0.128000
+DEBUG:root:training error @ iter = 474 : 0.150000
+DEBUG:root:training error @ iter = 475 : 0.120000
+DEBUG:root:training error @ iter = 476 : 0.144000
+DEBUG:root:epoch 53, test error 14.533333 %
+DEBUG:root:training error @ iter = 477 : 0.118000
+DEBUG:root:training error @ iter = 478 : 0.118000
+DEBUG:root:training error @ iter = 479 : 0.166000
+DEBUG:root:training error @ iter = 480 : 0.130000
+DEBUG:root:training error @ iter = 481 : 0.120000
+DEBUG:root:training error @ iter = 482 : 0.118000
+DEBUG:root:training error @ iter = 483 : 0.158000
+DEBUG:root:training error @ iter = 484 : 0.130000
+DEBUG:root:training error @ iter = 485 : 0.130000
+DEBUG:root:epoch 54, test error 14.400000 %
+DEBUG:root:training error @ iter = 486 : 0.122000
+DEBUG:root:training error @ iter = 487 : 0.120000
+DEBUG:root:training error @ iter = 488 : 0.150000
+DEBUG:root:training error @ iter = 489 : 0.130000
+DEBUG:root:training error @ iter = 490 : 0.130000
+DEBUG:root:training error @ iter = 491 : 0.126000
+DEBUG:root:training error @ iter = 492 : 0.156000
+DEBUG:root:training error @ iter = 493 : 0.124000
+DEBUG:root:training error @ iter = 494 : 0.138000
+DEBUG:root:epoch 55, test error 14.200000 %
+DEBUG:root:training error @ iter = 495 : 0.110000
+DEBUG:root:training error @ iter = 496 : 0.124000
+DEBUG:root:training error @ iter = 497 : 0.152000
+DEBUG:root:training error @ iter = 498 : 0.134000
+DEBUG:root:training error @ iter = 499 : 0.108000
+DEBUG:root:training error @ iter = 500 : 0.132000
+DEBUG:root:training error @ iter = 501 : 0.150000
+DEBUG:root:training error @ iter = 502 : 0.122000
+DEBUG:root:training error @ iter = 503 : 0.136000
+DEBUG:root:epoch 56, test error 14.066667 %
+DEBUG:root:training error @ iter = 504 : 0.122000
+DEBUG:root:training error @ iter = 505 : 0.122000
+DEBUG:root:training error @ iter = 506 : 0.150000
+DEBUG:root:training error @ iter = 507 : 0.132000
+DEBUG:root:training error @ iter = 508 : 0.116000
+DEBUG:root:training error @ iter = 509 : 0.120000
+DEBUG:root:training error @ iter = 510 : 0.158000
+DEBUG:root:training error @ iter = 511 : 0.112000
+DEBUG:root:training error @ iter = 512 : 0.136000
+DEBUG:root:epoch 57, test error 14.400000 %
+DEBUG:root:training error @ iter = 513 : 0.122000
+DEBUG:root:training error @ iter = 514 : 0.120000
+DEBUG:root:training error @ iter = 515 : 0.152000
+DEBUG:root:training error @ iter = 516 : 0.138000
+DEBUG:root:training error @ iter = 517 : 0.122000
+DEBUG:root:training error @ iter = 518 : 0.128000
+DEBUG:root:training error @ iter = 519 : 0.150000
+DEBUG:root:training error @ iter = 520 : 0.128000
+DEBUG:root:training error @ iter = 521 : 0.142000
+DEBUG:root:epoch 58, test error 14.133333 %
+DEBUG:root:training error @ iter = 522 : 0.124000
+DEBUG:root:training error @ iter = 523 : 0.116000
+DEBUG:root:training error @ iter = 524 : 0.144000
+DEBUG:root:training error @ iter = 525 : 0.140000
+DEBUG:root:training error @ iter = 526 : 0.116000
+DEBUG:root:training error @ iter = 527 : 0.126000
+DEBUG:root:training error @ iter = 528 : 0.154000
+DEBUG:root:training error @ iter = 529 : 0.122000
+DEBUG:root:training error @ iter = 530 : 0.138000
+DEBUG:root:epoch 59, test error 14.200000 %
+DEBUG:root:training error @ iter = 531 : 0.134000
+DEBUG:root:training error @ iter = 532 : 0.116000
+DEBUG:root:training error @ iter = 533 : 0.152000
+DEBUG:root:training error @ iter = 534 : 0.132000
+DEBUG:root:training error @ iter = 535 : 0.122000
+DEBUG:root:training error @ iter = 536 : 0.122000
+DEBUG:root:training error @ iter = 537 : 0.168000
+DEBUG:root:training error @ iter = 538 : 0.124000
+DEBUG:root:training error @ iter = 539 : 0.138000
+DEBUG:root:epoch 60, test error 13.666667 %
+DEBUG:root:training error @ iter = 540 : 0.122000
+DEBUG:root:training error @ iter = 541 : 0.118000
+DEBUG:root:training error @ iter = 542 : 0.154000
+DEBUG:root:training error @ iter = 543 : 0.134000
+DEBUG:root:training error @ iter = 544 : 0.118000
+DEBUG:root:training error @ iter = 545 : 0.114000
+DEBUG:root:training error @ iter = 546 : 0.144000
+DEBUG:root:training error @ iter = 547 : 0.128000
+DEBUG:root:training error @ iter = 548 : 0.144000
+DEBUG:root:epoch 61, test error 13.866667 %
+DEBUG:root:training error @ iter = 549 : 0.120000
+DEBUG:root:training error @ iter = 550 : 0.118000
+DEBUG:root:training error @ iter = 551 : 0.150000
+DEBUG:root:training error @ iter = 552 : 0.124000
+DEBUG:root:training error @ iter = 553 : 0.118000
+DEBUG:root:training error @ iter = 554 : 0.116000
+DEBUG:root:training error @ iter = 555 : 0.158000
+DEBUG:root:training error @ iter = 556 : 0.120000
+DEBUG:root:training error @ iter = 557 : 0.132000
+DEBUG:root:epoch 62, test error 13.800000 %
+DEBUG:root:training error @ iter = 558 : 0.120000
+DEBUG:root:training error @ iter = 559 : 0.116000
+DEBUG:root:training error @ iter = 560 : 0.142000
+DEBUG:root:training error @ iter = 561 : 0.136000
+DEBUG:root:training error @ iter = 562 : 0.124000
+DEBUG:root:training error @ iter = 563 : 0.118000
+DEBUG:root:training error @ iter = 564 : 0.146000
+DEBUG:root:training error @ iter = 565 : 0.130000
+DEBUG:root:training error @ iter = 566 : 0.136000
+DEBUG:root:epoch 63, test error 14.000000 %
+DEBUG:root:training error @ iter = 567 : 0.116000
+DEBUG:root:training error @ iter = 568 : 0.120000
+DEBUG:root:training error @ iter = 569 : 0.142000
+DEBUG:root:training error @ iter = 570 : 0.138000
+DEBUG:root:training error @ iter = 571 : 0.118000
+DEBUG:root:training error @ iter = 572 : 0.120000
+DEBUG:root:training error @ iter = 573 : 0.146000
+DEBUG:root:training error @ iter = 574 : 0.116000
+DEBUG:root:training error @ iter = 575 : 0.140000
+DEBUG:root:epoch 64, test error 14.133333 %
+DEBUG:root:training error @ iter = 576 : 0.116000
+DEBUG:root:training error @ iter = 577 : 0.124000
+DEBUG:root:training error @ iter = 578 : 0.146000
+DEBUG:root:training error @ iter = 579 : 0.128000
+DEBUG:root:training error @ iter = 580 : 0.124000
+DEBUG:root:training error @ iter = 581 : 0.124000
+DEBUG:root:training error @ iter = 582 : 0.158000
+DEBUG:root:training error @ iter = 583 : 0.124000
+DEBUG:root:training error @ iter = 584 : 0.128000
+DEBUG:root:epoch 65, test error 14.200000 %
+DEBUG:root:training error @ iter = 585 : 0.106000
+DEBUG:root:training error @ iter = 586 : 0.114000
+DEBUG:root:training error @ iter = 587 : 0.144000
+DEBUG:root:training error @ iter = 588 : 0.130000
+DEBUG:root:training error @ iter = 589 : 0.120000
+DEBUG:root:training error @ iter = 590 : 0.120000
+DEBUG:root:training error @ iter = 591 : 0.146000
+DEBUG:root:training error @ iter = 592 : 0.124000
+DEBUG:root:training error @ iter = 593 : 0.130000
+DEBUG:root:epoch 66, test error 14.000000 %
+DEBUG:root:training error @ iter = 594 : 0.106000
+DEBUG:root:training error @ iter = 595 : 0.126000
+DEBUG:root:training error @ iter = 596 : 0.148000
+DEBUG:root:training error @ iter = 597 : 0.134000
+DEBUG:root:training error @ iter = 598 : 0.126000
+DEBUG:root:training error @ iter = 599 : 0.126000
+DEBUG:root:training error @ iter = 600 : 0.152000
+DEBUG:root:training error @ iter = 601 : 0.118000
+DEBUG:root:training error @ iter = 602 : 0.134000
+DEBUG:root:epoch 67, test error 14.333333 %
+DEBUG:root:training error @ iter = 603 : 0.118000
+DEBUG:root:training error @ iter = 604 : 0.112000
+DEBUG:root:training error @ iter = 605 : 0.140000
+DEBUG:root:training error @ iter = 606 : 0.130000
+DEBUG:root:training error @ iter = 607 : 0.118000
+DEBUG:root:training error @ iter = 608 : 0.118000
+DEBUG:root:training error @ iter = 609 : 0.156000
+DEBUG:root:training error @ iter = 610 : 0.118000
+DEBUG:root:training error @ iter = 611 : 0.124000
+DEBUG:root:epoch 68, test error 14.266667 %
+DEBUG:root:training error @ iter = 612 : 0.112000
+DEBUG:root:training error @ iter = 613 : 0.120000
+DEBUG:root:training error @ iter = 614 : 0.156000
+DEBUG:root:training error @ iter = 615 : 0.130000
+DEBUG:root:training error @ iter = 616 : 0.114000
+DEBUG:root:training error @ iter = 617 : 0.120000
+DEBUG:root:training error @ iter = 618 : 0.156000
+DEBUG:root:training error @ iter = 619 : 0.114000
+DEBUG:root:training error @ iter = 620 : 0.140000
+DEBUG:root:epoch 69, test error 13.933333 %
+DEBUG:root:training error @ iter = 621 : 0.110000
+DEBUG:root:training error @ iter = 622 : 0.114000
+DEBUG:root:training error @ iter = 623 : 0.146000
+DEBUG:root:training error @ iter = 624 : 0.132000
+DEBUG:root:training error @ iter = 625 : 0.120000
+DEBUG:root:training error @ iter = 626 : 0.116000
+DEBUG:root:training error @ iter = 627 : 0.150000
+DEBUG:root:training error @ iter = 628 : 0.118000
+DEBUG:root:training error @ iter = 629 : 0.134000
+DEBUG:root:epoch 70, test error 14.066667 %
+DEBUG:root:training error @ iter = 630 : 0.122000
+DEBUG:root:training error @ iter = 631 : 0.118000
+DEBUG:root:training error @ iter = 632 : 0.146000
+DEBUG:root:training error @ iter = 633 : 0.126000
+DEBUG:root:training error @ iter = 634 : 0.124000
+DEBUG:root:training error @ iter = 635 : 0.126000
+DEBUG:root:training error @ iter = 636 : 0.144000
+DEBUG:root:training error @ iter = 637 : 0.114000
+DEBUG:root:training error @ iter = 638 : 0.138000
+DEBUG:root:epoch 71, test error 13.600000 %
+DEBUG:root:training error @ iter = 639 : 0.112000
+DEBUG:root:training error @ iter = 640 : 0.116000
+DEBUG:root:training error @ iter = 641 : 0.146000
+DEBUG:root:training error @ iter = 642 : 0.146000
+DEBUG:root:training error @ iter = 643 : 0.114000
+DEBUG:root:training error @ iter = 644 : 0.110000
+DEBUG:root:training error @ iter = 645 : 0.140000
+DEBUG:root:training error @ iter = 646 : 0.122000
+DEBUG:root:training error @ iter = 647 : 0.136000
+DEBUG:root:epoch 72, test error 13.866667 %
+DEBUG:root:training error @ iter = 648 : 0.118000
+DEBUG:root:training error @ iter = 649 : 0.122000
+DEBUG:root:training error @ iter = 650 : 0.156000
+DEBUG:root:training error @ iter = 651 : 0.142000
+DEBUG:root:training error @ iter = 652 : 0.124000
+DEBUG:root:training error @ iter = 653 : 0.126000
+DEBUG:root:training error @ iter = 654 : 0.148000
+DEBUG:root:training error @ iter = 655 : 0.120000
+DEBUG:root:training error @ iter = 656 : 0.148000
+DEBUG:root:epoch 73, test error 13.933333 %
+DEBUG:root:training error @ iter = 657 : 0.114000
+DEBUG:root:training error @ iter = 658 : 0.126000
+DEBUG:root:training error @ iter = 659 : 0.154000
+DEBUG:root:training error @ iter = 660 : 0.136000
+DEBUG:root:training error @ iter = 661 : 0.116000
+DEBUG:root:training error @ iter = 662 : 0.124000
+DEBUG:root:training error @ iter = 663 : 0.150000
+DEBUG:root:training error @ iter = 664 : 0.126000
+DEBUG:root:training error @ iter = 665 : 0.140000
+DEBUG:root:epoch 74, test error 13.200000 %
+DEBUG:root:training error @ iter = 666 : 0.112000
+DEBUG:root:training error @ iter = 667 : 0.108000
+DEBUG:root:training error @ iter = 668 : 0.148000
+DEBUG:root:training error @ iter = 669 : 0.130000
+DEBUG:root:training error @ iter = 670 : 0.126000
+DEBUG:root:training error @ iter = 671 : 0.116000
+DEBUG:root:training error @ iter = 672 : 0.146000
+DEBUG:root:training error @ iter = 673 : 0.120000
+DEBUG:root:training error @ iter = 674 : 0.140000
+DEBUG:root:epoch 75, test error 14.200000 %
+DEBUG:root:training error @ iter = 675 : 0.112000
+DEBUG:root:training error @ iter = 676 : 0.114000
+DEBUG:root:training error @ iter = 677 : 0.154000
+DEBUG:root:training error @ iter = 678 : 0.126000
+DEBUG:root:training error @ iter = 679 : 0.126000
+DEBUG:root:training error @ iter = 680 : 0.128000
+DEBUG:root:training error @ iter = 681 : 0.138000
+DEBUG:root:training error @ iter = 682 : 0.122000
+DEBUG:root:training error @ iter = 683 : 0.126000
+DEBUG:root:epoch 76, test error 14.133333 %
+DEBUG:root:training error @ iter = 684 : 0.114000
+DEBUG:root:training error @ iter = 685 : 0.108000
+DEBUG:root:training error @ iter = 686 : 0.140000
+DEBUG:root:training error @ iter = 687 : 0.122000
+DEBUG:root:training error @ iter = 688 : 0.124000
+DEBUG:root:training error @ iter = 689 : 0.120000
+DEBUG:root:training error @ iter = 690 : 0.148000
+DEBUG:root:training error @ iter = 691 : 0.116000
+DEBUG:root:training error @ iter = 692 : 0.132000
+DEBUG:root:epoch 77, test error 14.000000 %
+DEBUG:root:training error @ iter = 693 : 0.118000
+DEBUG:root:training error @ iter = 694 : 0.108000
+DEBUG:root:training error @ iter = 695 : 0.144000
+DEBUG:root:training error @ iter = 696 : 0.128000
+DEBUG:root:training error @ iter = 697 : 0.118000
+DEBUG:root:training error @ iter = 698 : 0.130000
+DEBUG:root:training error @ iter = 699 : 0.130000
+DEBUG:root:training error @ iter = 700 : 0.122000
+DEBUG:root:training error @ iter = 701 : 0.132000
+DEBUG:root:epoch 78, test error 14.000000 %
+DEBUG:root:training error @ iter = 702 : 0.110000
+DEBUG:root:training error @ iter = 703 : 0.106000
+DEBUG:root:training error @ iter = 704 : 0.142000
+DEBUG:root:training error @ iter = 705 : 0.124000
+DEBUG:root:training error @ iter = 706 : 0.128000
+DEBUG:root:training error @ iter = 707 : 0.114000
+DEBUG:root:training error @ iter = 708 : 0.136000
+DEBUG:root:training error @ iter = 709 : 0.118000
+DEBUG:root:training error @ iter = 710 : 0.140000
+DEBUG:root:epoch 79, test error 14.066667 %
+DEBUG:root:training error @ iter = 711 : 0.108000
+DEBUG:root:training error @ iter = 712 : 0.112000
+DEBUG:root:training error @ iter = 713 : 0.138000
+DEBUG:root:training error @ iter = 714 : 0.124000
+DEBUG:root:training error @ iter = 715 : 0.120000
+DEBUG:root:training error @ iter = 716 : 0.124000
+DEBUG:root:training error @ iter = 717 : 0.144000
+DEBUG:root:training error @ iter = 718 : 0.120000
+DEBUG:root:training error @ iter = 719 : 0.130000
+DEBUG:root:epoch 80, test error 13.333333 %
+DEBUG:root:training error @ iter = 720 : 0.120000
+DEBUG:root:training error @ iter = 721 : 0.122000
+DEBUG:root:training error @ iter = 722 : 0.136000
+DEBUG:root:training error @ iter = 723 : 0.142000
+DEBUG:root:training error @ iter = 724 : 0.116000
+DEBUG:root:training error @ iter = 725 : 0.120000
+DEBUG:root:training error @ iter = 726 : 0.140000
+DEBUG:root:training error @ iter = 727 : 0.122000
+DEBUG:root:training error @ iter = 728 : 0.134000
+DEBUG:root:epoch 81, test error 13.733333 %
+DEBUG:root:training error @ iter = 729 : 0.116000
+DEBUG:root:training error @ iter = 730 : 0.120000
+DEBUG:root:training error @ iter = 731 : 0.142000
+DEBUG:root:training error @ iter = 732 : 0.126000
+DEBUG:root:training error @ iter = 733 : 0.120000
+DEBUG:root:training error @ iter = 734 : 0.132000
+DEBUG:root:training error @ iter = 735 : 0.138000
+DEBUG:root:training error @ iter = 736 : 0.124000
+DEBUG:root:training error @ iter = 737 : 0.132000
+DEBUG:root:epoch 82, test error 13.666667 %
+DEBUG:root:training error @ iter = 738 : 0.118000
+DEBUG:root:training error @ iter = 739 : 0.118000
+DEBUG:root:training error @ iter = 740 : 0.160000
+DEBUG:root:training error @ iter = 741 : 0.130000
+DEBUG:root:training error @ iter = 742 : 0.120000
+DEBUG:root:training error @ iter = 743 : 0.128000
+DEBUG:root:training error @ iter = 744 : 0.156000
+DEBUG:root:training error @ iter = 745 : 0.126000
+DEBUG:root:training error @ iter = 746 : 0.136000
+DEBUG:root:epoch 83, test error 14.333333 %
+DEBUG:root:training error @ iter = 747 : 0.110000
+DEBUG:root:training error @ iter = 748 : 0.112000
+DEBUG:root:training error @ iter = 749 : 0.140000
+DEBUG:root:training error @ iter = 750 : 0.126000
+DEBUG:root:training error @ iter = 751 : 0.122000
+DEBUG:root:training error @ iter = 752 : 0.118000
+DEBUG:root:training error @ iter = 753 : 0.136000
+DEBUG:root:training error @ iter = 754 : 0.118000
+DEBUG:root:training error @ iter = 755 : 0.132000
+DEBUG:root:epoch 84, test error 14.266667 %
+DEBUG:root:training error @ iter = 756 : 0.110000
+DEBUG:root:training error @ iter = 757 : 0.114000
+DEBUG:root:training error @ iter = 758 : 0.138000
+DEBUG:root:training error @ iter = 759 : 0.124000
+DEBUG:root:training error @ iter = 760 : 0.108000
+DEBUG:root:training error @ iter = 761 : 0.120000
+DEBUG:root:training error @ iter = 762 : 0.140000
+DEBUG:root:training error @ iter = 763 : 0.118000
+DEBUG:root:training error @ iter = 764 : 0.136000
+DEBUG:root:epoch 85, test error 13.533333 %
+DEBUG:root:training error @ iter = 765 : 0.114000
+DEBUG:root:training error @ iter = 766 : 0.120000
+DEBUG:root:training error @ iter = 767 : 0.142000
+DEBUG:root:training error @ iter = 768 : 0.126000
+DEBUG:root:training error @ iter = 769 : 0.118000
+DEBUG:root:training error @ iter = 770 : 0.126000
+DEBUG:root:training error @ iter = 771 : 0.144000
+DEBUG:root:training error @ iter = 772 : 0.122000
+DEBUG:root:training error @ iter = 773 : 0.126000
+DEBUG:root:epoch 86, test error 14.333333 %
+DEBUG:root:training error @ iter = 774 : 0.102000
+DEBUG:root:training error @ iter = 775 : 0.110000
+DEBUG:root:training error @ iter = 776 : 0.134000
+DEBUG:root:training error @ iter = 777 : 0.134000
+DEBUG:root:training error @ iter = 778 : 0.126000
+DEBUG:root:training error @ iter = 779 : 0.118000
+DEBUG:root:training error @ iter = 780 : 0.140000
+DEBUG:root:training error @ iter = 781 : 0.122000
+DEBUG:root:training error @ iter = 782 : 0.142000
+DEBUG:root:epoch 87, test error 14.200000 %
+DEBUG:root:training error @ iter = 783 : 0.112000
+DEBUG:root:training error @ iter = 784 : 0.112000
+DEBUG:root:training error @ iter = 785 : 0.152000
+DEBUG:root:training error @ iter = 786 : 0.118000
+DEBUG:root:training error @ iter = 787 : 0.116000
+DEBUG:root:training error @ iter = 788 : 0.116000
+DEBUG:root:training error @ iter = 789 : 0.144000
+DEBUG:root:training error @ iter = 790 : 0.120000
+DEBUG:root:training error @ iter = 791 : 0.132000
+DEBUG:root:epoch 88, test error 13.800000 %
+DEBUG:root:training error @ iter = 792 : 0.110000
+DEBUG:root:training error @ iter = 793 : 0.112000
+DEBUG:root:training error @ iter = 794 : 0.134000
+DEBUG:root:training error @ iter = 795 : 0.130000
+DEBUG:root:training error @ iter = 796 : 0.112000
+DEBUG:root:training error @ iter = 797 : 0.118000
+DEBUG:root:training error @ iter = 798 : 0.146000
+DEBUG:root:training error @ iter = 799 : 0.120000
+DEBUG:root:training error @ iter = 800 : 0.134000
+DEBUG:root:epoch 89, test error 13.933333 %
+DEBUG:root:training error @ iter = 801 : 0.120000
+DEBUG:root:training error @ iter = 802 : 0.112000
+DEBUG:root:training error @ iter = 803 : 0.144000
+DEBUG:root:training error @ iter = 804 : 0.126000
+DEBUG:root:training error @ iter = 805 : 0.112000
+DEBUG:root:training error @ iter = 806 : 0.120000
+DEBUG:root:training error @ iter = 807 : 0.144000
+DEBUG:root:training error @ iter = 808 : 0.124000
+DEBUG:root:training error @ iter = 809 : 0.132000
+DEBUG:root:epoch 90, test error 13.866667 %
+DEBUG:root:training error @ iter = 810 : 0.114000
+DEBUG:root:training error @ iter = 811 : 0.114000
+DEBUG:root:training error @ iter = 812 : 0.138000
+DEBUG:root:training error @ iter = 813 : 0.136000
+DEBUG:root:training error @ iter = 814 : 0.124000
+DEBUG:root:training error @ iter = 815 : 0.118000
+DEBUG:root:training error @ iter = 816 : 0.144000
+DEBUG:root:training error @ iter = 817 : 0.116000
+DEBUG:root:training error @ iter = 818 : 0.136000
+DEBUG:root:epoch 91, test error 14.066667 %
+DEBUG:root:training error @ iter = 819 : 0.120000
+DEBUG:root:training error @ iter = 820 : 0.112000
+DEBUG:root:training error @ iter = 821 : 0.138000
+DEBUG:root:training error @ iter = 822 : 0.122000
+DEBUG:root:training error @ iter = 823 : 0.124000
+DEBUG:root:training error @ iter = 824 : 0.120000
+DEBUG:root:training error @ iter = 825 : 0.138000
+DEBUG:root:training error @ iter = 826 : 0.120000
+DEBUG:root:training error @ iter = 827 : 0.126000
+DEBUG:root:epoch 92, test error 14.266667 %
+DEBUG:root:training error @ iter = 828 : 0.104000
+DEBUG:root:training error @ iter = 829 : 0.100000
+DEBUG:root:training error @ iter = 830 : 0.148000
+DEBUG:root:training error @ iter = 831 : 0.128000
+DEBUG:root:training error @ iter = 832 : 0.112000
+DEBUG:root:training error @ iter = 833 : 0.116000
+DEBUG:root:training error @ iter = 834 : 0.138000
+DEBUG:root:training error @ iter = 835 : 0.118000
+DEBUG:root:training error @ iter = 836 : 0.134000
+DEBUG:root:epoch 93, test error 13.600000 %
+DEBUG:root:training error @ iter = 837 : 0.118000
+DEBUG:root:training error @ iter = 838 : 0.108000
+DEBUG:root:training error @ iter = 839 : 0.144000
+DEBUG:root:training error @ iter = 840 : 0.120000
+DEBUG:root:training error @ iter = 841 : 0.128000
+DEBUG:root:training error @ iter = 842 : 0.124000
+DEBUG:root:training error @ iter = 843 : 0.132000
+DEBUG:root:training error @ iter = 844 : 0.104000
+DEBUG:root:training error @ iter = 845 : 0.132000
+DEBUG:root:epoch 94, test error 13.400000 %
+DEBUG:root:training error @ iter = 846 : 0.116000
+DEBUG:root:training error @ iter = 847 : 0.116000
+DEBUG:root:training error @ iter = 848 : 0.142000
+DEBUG:root:training error @ iter = 849 : 0.128000
+DEBUG:root:training error @ iter = 850 : 0.130000
+DEBUG:root:training error @ iter = 851 : 0.108000
+DEBUG:root:training error @ iter = 852 : 0.150000
+DEBUG:root:training error @ iter = 853 : 0.124000
+DEBUG:root:training error @ iter = 854 : 0.130000
+DEBUG:root:epoch 95, test error 13.133333 %
+DEBUG:root:training error @ iter = 855 : 0.120000
+DEBUG:root:training error @ iter = 856 : 0.112000
+DEBUG:root:training error @ iter = 857 : 0.142000
+DEBUG:root:training error @ iter = 858 : 0.118000
+DEBUG:root:training error @ iter = 859 : 0.120000
+DEBUG:root:training error @ iter = 860 : 0.128000
+DEBUG:root:training error @ iter = 861 : 0.144000
+DEBUG:root:training error @ iter = 862 : 0.118000
+DEBUG:root:training error @ iter = 863 : 0.124000
+DEBUG:root:epoch 96, test error 13.600000 %
+DEBUG:root:training error @ iter = 864 : 0.124000
+DEBUG:root:training error @ iter = 865 : 0.110000
+DEBUG:root:training error @ iter = 866 : 0.136000
+DEBUG:root:training error @ iter = 867 : 0.124000
+DEBUG:root:training error @ iter = 868 : 0.120000
+DEBUG:root:training error @ iter = 869 : 0.116000
+DEBUG:root:training error @ iter = 870 : 0.142000
+DEBUG:root:training error @ iter = 871 : 0.120000
+DEBUG:root:training error @ iter = 872 : 0.122000
+DEBUG:root:epoch 97, test error 14.400000 %
+DEBUG:root:training error @ iter = 873 : 0.114000
+DEBUG:root:training error @ iter = 874 : 0.106000
+DEBUG:root:training error @ iter = 875 : 0.136000
+DEBUG:root:training error @ iter = 876 : 0.130000
+DEBUG:root:training error @ iter = 877 : 0.118000
+DEBUG:root:training error @ iter = 878 : 0.112000
+DEBUG:root:training error @ iter = 879 : 0.140000
+DEBUG:root:training error @ iter = 880 : 0.124000
+DEBUG:root:training error @ iter = 881 : 0.132000
+DEBUG:root:epoch 98, test error 13.666667 %
+DEBUG:root:training error @ iter = 882 : 0.112000
+DEBUG:root:training error @ iter = 883 : 0.112000
+DEBUG:root:training error @ iter = 884 : 0.158000
+DEBUG:root:training error @ iter = 885 : 0.132000
+DEBUG:root:training error @ iter = 886 : 0.126000
+DEBUG:root:training error @ iter = 887 : 0.112000
+DEBUG:root:training error @ iter = 888 : 0.128000
+DEBUG:root:training error @ iter = 889 : 0.122000
+DEBUG:root:training error @ iter = 890 : 0.128000
+DEBUG:root:epoch 99, test error 13.266667 %
+DEBUG:root:training error @ iter = 891 : 0.108000
+DEBUG:root:training error @ iter = 892 : 0.124000
+DEBUG:root:training error @ iter = 893 : 0.142000
+DEBUG:root:training error @ iter = 894 : 0.130000
+DEBUG:root:training error @ iter = 895 : 0.116000
+DEBUG:root:training error @ iter = 896 : 0.118000
+DEBUG:root:training error @ iter = 897 : 0.134000
+DEBUG:root:training error @ iter = 898 : 0.114000
+DEBUG:root:training error @ iter = 899 : 0.130000
+DEBUG:root:epoch 100, test error 13.466667 %
+DEBUG:root:training error @ iter = 900 : 0.106000
+DEBUG:root:training error @ iter = 901 : 0.104000
+DEBUG:root:training error @ iter = 902 : 0.144000
+DEBUG:root:training error @ iter = 903 : 0.132000
+DEBUG:root:training error @ iter = 904 : 0.120000
+DEBUG:root:training error @ iter = 905 : 0.112000
+DEBUG:root:training error @ iter = 906 : 0.142000
+DEBUG:root:training error @ iter = 907 : 0.122000
+DEBUG:root:training error @ iter = 908 : 0.130000
+DEBUG:root:epoch 101, test error 13.333333 %
+DEBUG:root:training error @ iter = 909 : 0.112000
+DEBUG:root:training error @ iter = 910 : 0.116000
+DEBUG:root:training error @ iter = 911 : 0.138000
+DEBUG:root:training error @ iter = 912 : 0.124000
+DEBUG:root:training error @ iter = 913 : 0.116000
+DEBUG:root:training error @ iter = 914 : 0.130000
+DEBUG:root:training error @ iter = 915 : 0.150000
+DEBUG:root:training error @ iter = 916 : 0.126000
+DEBUG:root:training error @ iter = 917 : 0.130000
+DEBUG:root:epoch 102, test error 12.866667 %
+DEBUG:root:training error @ iter = 918 : 0.110000
+DEBUG:root:training error @ iter = 919 : 0.114000
+DEBUG:root:training error @ iter = 920 : 0.150000
+DEBUG:root:training error @ iter = 921 : 0.126000
+DEBUG:root:training error @ iter = 922 : 0.112000
+DEBUG:root:training error @ iter = 923 : 0.122000
+DEBUG:root:training error @ iter = 924 : 0.148000
+DEBUG:root:training error @ iter = 925 : 0.110000
+DEBUG:root:training error @ iter = 926 : 0.128000
+DEBUG:root:epoch 103, test error 14.000000 %
+DEBUG:root:training error @ iter = 927 : 0.116000
+DEBUG:root:training error @ iter = 928 : 0.114000
+DEBUG:root:training error @ iter = 929 : 0.144000
+DEBUG:root:training error @ iter = 930 : 0.122000
+DEBUG:root:training error @ iter = 931 : 0.122000
+DEBUG:root:training error @ iter = 932 : 0.116000
+DEBUG:root:training error @ iter = 933 : 0.138000
+DEBUG:root:training error @ iter = 934 : 0.124000
+DEBUG:root:training error @ iter = 935 : 0.132000
+DEBUG:root:epoch 104, test error 13.266667 %
+DEBUG:root:training error @ iter = 936 : 0.116000
+DEBUG:root:training error @ iter = 937 : 0.110000
+DEBUG:root:training error @ iter = 938 : 0.132000
+DEBUG:root:training error @ iter = 939 : 0.130000
+DEBUG:root:training error @ iter = 940 : 0.124000
+DEBUG:root:training error @ iter = 941 : 0.120000
+DEBUG:root:training error @ iter = 942 : 0.146000
+DEBUG:root:training error @ iter = 943 : 0.112000
+DEBUG:root:training error @ iter = 944 : 0.128000
+DEBUG:root:epoch 105, test error 13.200000 %
+DEBUG:root:training error @ iter = 945 : 0.112000
+DEBUG:root:training error @ iter = 946 : 0.114000
+DEBUG:root:training error @ iter = 947 : 0.138000
+DEBUG:root:training error @ iter = 948 : 0.122000
+DEBUG:root:training error @ iter = 949 : 0.120000
+DEBUG:root:training error @ iter = 950 : 0.122000
+DEBUG:root:training error @ iter = 951 : 0.138000
+DEBUG:root:training error @ iter = 952 : 0.116000
+DEBUG:root:training error @ iter = 953 : 0.136000
+DEBUG:root:epoch 106, test error 13.333333 %
+DEBUG:root:training error @ iter = 954 : 0.110000
+DEBUG:root:training error @ iter = 955 : 0.112000
+DEBUG:root:training error @ iter = 956 : 0.144000
+DEBUG:root:training error @ iter = 957 : 0.130000
+DEBUG:root:training error @ iter = 958 : 0.120000
+DEBUG:root:training error @ iter = 959 : 0.104000
+DEBUG:root:training error @ iter = 960 : 0.140000
+DEBUG:root:training error @ iter = 961 : 0.110000
+DEBUG:root:training error @ iter = 962 : 0.126000
+DEBUG:root:epoch 107, test error 13.333333 %
+DEBUG:root:training error @ iter = 963 : 0.102000
+DEBUG:root:training error @ iter = 964 : 0.114000
+DEBUG:root:training error @ iter = 965 : 0.138000
+DEBUG:root:training error @ iter = 966 : 0.122000
+DEBUG:root:training error @ iter = 967 : 0.116000
+DEBUG:root:training error @ iter = 968 : 0.116000
+DEBUG:root:training error @ iter = 969 : 0.130000
+DEBUG:root:training error @ iter = 970 : 0.130000
+DEBUG:root:training error @ iter = 971 : 0.134000
+DEBUG:root:epoch 108, test error 13.666667 %
+DEBUG:root:training error @ iter = 972 : 0.116000
+DEBUG:root:training error @ iter = 973 : 0.108000
+DEBUG:root:training error @ iter = 974 : 0.142000
+DEBUG:root:training error @ iter = 975 : 0.128000
+DEBUG:root:training error @ iter = 976 : 0.120000
+DEBUG:root:training error @ iter = 977 : 0.108000
+DEBUG:root:training error @ iter = 978 : 0.138000
+DEBUG:root:training error @ iter = 979 : 0.116000
+DEBUG:root:training error @ iter = 980 : 0.130000
+DEBUG:root:epoch 109, test error 13.533333 %
+DEBUG:root:training error @ iter = 981 : 0.110000
+DEBUG:root:training error @ iter = 982 : 0.110000
+DEBUG:root:training error @ iter = 983 : 0.146000
+DEBUG:root:training error @ iter = 984 : 0.120000
+DEBUG:root:training error @ iter = 985 : 0.114000
+DEBUG:root:training error @ iter = 986 : 0.116000
+DEBUG:root:training error @ iter = 987 : 0.152000
+DEBUG:root:training error @ iter = 988 : 0.118000
+DEBUG:root:training error @ iter = 989 : 0.122000
+DEBUG:root:epoch 110, test error 13.733333 %
+DEBUG:root:training error @ iter = 990 : 0.112000
+DEBUG:root:training error @ iter = 991 : 0.126000
+DEBUG:root:training error @ iter = 992 : 0.134000
+DEBUG:root:training error @ iter = 993 : 0.122000
+DEBUG:root:training error @ iter = 994 : 0.122000
+DEBUG:root:training error @ iter = 995 : 0.128000
+DEBUG:root:training error @ iter = 996 : 0.138000
+DEBUG:root:training error @ iter = 997 : 0.116000
+DEBUG:root:training error @ iter = 998 : 0.128000
+DEBUG:root:epoch 111, test error 13.866667 %
+DEBUG:root:training error @ iter = 999 : 0.104000
+DEBUG:root:training error @ iter = 1000 : 0.106000
+DEBUG:root:training error @ iter = 1001 : 0.132000
+DEBUG:root:training error @ iter = 1002 : 0.118000
+DEBUG:root:training error @ iter = 1003 : 0.120000
+DEBUG:root:training error @ iter = 1004 : 0.116000
+DEBUG:root:training error @ iter = 1005 : 0.142000
+DEBUG:root:training error @ iter = 1006 : 0.114000
+DEBUG:root:training error @ iter = 1007 : 0.134000
+DEBUG:root:epoch 112, test error 13.733333 %
+DEBUG:root:training error @ iter = 1008 : 0.122000
+DEBUG:root:training error @ iter = 1009 : 0.112000
+DEBUG:root:training error @ iter = 1010 : 0.136000
+DEBUG:root:training error @ iter = 1011 : 0.132000
+DEBUG:root:training error @ iter = 1012 : 0.116000
+DEBUG:root:training error @ iter = 1013 : 0.120000
+DEBUG:root:training error @ iter = 1014 : 0.146000
+DEBUG:root:training error @ iter = 1015 : 0.110000
+DEBUG:root:training error @ iter = 1016 : 0.120000
+DEBUG:root:epoch 113, test error 13.666667 %
+DEBUG:root:training error @ iter = 1017 : 0.108000
+DEBUG:root:training error @ iter = 1018 : 0.104000
+DEBUG:root:training error @ iter = 1019 : 0.138000
+DEBUG:root:training error @ iter = 1020 : 0.124000
+DEBUG:root:training error @ iter = 1021 : 0.126000
+DEBUG:root:training error @ iter = 1022 : 0.112000
+DEBUG:root:training error @ iter = 1023 : 0.140000
+DEBUG:root:training error @ iter = 1024 : 0.104000
+DEBUG:root:training error @ iter = 1025 : 0.124000
+DEBUG:root:epoch 114, test error 12.866667 %
+DEBUG:root:training error @ iter = 1026 : 0.116000
+DEBUG:root:training error @ iter = 1027 : 0.116000
+DEBUG:root:training error @ iter = 1028 : 0.130000
+DEBUG:root:training error @ iter = 1029 : 0.122000
+DEBUG:root:training error @ iter = 1030 : 0.122000
+DEBUG:root:training error @ iter = 1031 : 0.118000
+DEBUG:root:training error @ iter = 1032 : 0.138000
+DEBUG:root:training error @ iter = 1033 : 0.120000
+DEBUG:root:training error @ iter = 1034 : 0.130000
+DEBUG:root:epoch 115, test error 13.600000 %
+DEBUG:root:training error @ iter = 1035 : 0.102000
+DEBUG:root:training error @ iter = 1036 : 0.114000
+DEBUG:root:training error @ iter = 1037 : 0.140000
+DEBUG:root:training error @ iter = 1038 : 0.124000
+DEBUG:root:training error @ iter = 1039 : 0.110000
+DEBUG:root:training error @ iter = 1040 : 0.116000
+DEBUG:root:training error @ iter = 1041 : 0.140000
+DEBUG:root:training error @ iter = 1042 : 0.118000
+DEBUG:root:training error @ iter = 1043 : 0.134000
+DEBUG:root:epoch 116, test error 13.733333 %
+DEBUG:root:training error @ iter = 1044 : 0.112000
+DEBUG:root:training error @ iter = 1045 : 0.116000
+DEBUG:root:training error @ iter = 1046 : 0.140000
+DEBUG:root:training error @ iter = 1047 : 0.122000
+DEBUG:root:training error @ iter = 1048 : 0.118000
+DEBUG:root:training error @ iter = 1049 : 0.102000
+DEBUG:root:training error @ iter = 1050 : 0.132000
+DEBUG:root:training error @ iter = 1051 : 0.124000
+DEBUG:root:training error @ iter = 1052 : 0.126000
+DEBUG:root:epoch 117, test error 13.400000 %
+DEBUG:root:training error @ iter = 1053 : 0.100000
+DEBUG:root:training error @ iter = 1054 : 0.110000
+DEBUG:root:training error @ iter = 1055 : 0.128000
+DEBUG:root:training error @ iter = 1056 : 0.114000
+DEBUG:root:training error @ iter = 1057 : 0.126000
+DEBUG:root:training error @ iter = 1058 : 0.112000
+DEBUG:root:training error @ iter = 1059 : 0.140000
+DEBUG:root:training error @ iter = 1060 : 0.110000
+DEBUG:root:training error @ iter = 1061 : 0.138000
+DEBUG:root:epoch 118, test error 13.666667 %
+DEBUG:root:training error @ iter = 1062 : 0.102000
+DEBUG:root:training error @ iter = 1063 : 0.106000
+DEBUG:root:training error @ iter = 1064 : 0.152000
+DEBUG:root:training error @ iter = 1065 : 0.136000
+DEBUG:root:training error @ iter = 1066 : 0.114000
+DEBUG:root:training error @ iter = 1067 : 0.120000
+DEBUG:root:training error @ iter = 1068 : 0.146000
+DEBUG:root:training error @ iter = 1069 : 0.122000
+DEBUG:root:training error @ iter = 1070 : 0.130000
+DEBUG:root:epoch 119, test error 13.733333 %
+DEBUG:root:training error @ iter = 1071 : 0.114000
+DEBUG:root:training error @ iter = 1072 : 0.110000
+DEBUG:root:training error @ iter = 1073 : 0.134000
+DEBUG:root:training error @ iter = 1074 : 0.128000
+DEBUG:root:training error @ iter = 1075 : 0.120000
+DEBUG:root:training error @ iter = 1076 : 0.108000
+DEBUG:root:training error @ iter = 1077 : 0.130000
+DEBUG:root:training error @ iter = 1078 : 0.122000
+DEBUG:root:training error @ iter = 1079 : 0.118000
+DEBUG:root:epoch 120, test error 13.666667 %
+DEBUG:root:training error @ iter = 1080 : 0.112000
+DEBUG:root:training error @ iter = 1081 : 0.110000
+DEBUG:root:training error @ iter = 1082 : 0.148000
+DEBUG:root:training error @ iter = 1083 : 0.128000
+DEBUG:root:training error @ iter = 1084 : 0.120000
+DEBUG:root:training error @ iter = 1085 : 0.116000
+DEBUG:root:training error @ iter = 1086 : 0.148000
+DEBUG:root:training error @ iter = 1087 : 0.126000
+DEBUG:root:training error @ iter = 1088 : 0.126000
+DEBUG:root:epoch 121, test error 13.066667 %
+DEBUG:root:training error @ iter = 1089 : 0.112000
+DEBUG:root:training error @ iter = 1090 : 0.114000
+DEBUG:root:training error @ iter = 1091 : 0.134000
+DEBUG:root:training error @ iter = 1092 : 0.122000
+DEBUG:root:training error @ iter = 1093 : 0.114000
+DEBUG:root:training error @ iter = 1094 : 0.114000
+DEBUG:root:training error @ iter = 1095 : 0.136000
+DEBUG:root:training error @ iter = 1096 : 0.120000
+DEBUG:root:training error @ iter = 1097 : 0.126000
+DEBUG:root:epoch 122, test error 13.466667 %
+DEBUG:root:training error @ iter = 1098 : 0.104000
+DEBUG:root:training error @ iter = 1099 : 0.110000
+DEBUG:root:training error @ iter = 1100 : 0.146000
+DEBUG:root:training error @ iter = 1101 : 0.134000
+DEBUG:root:training error @ iter = 1102 : 0.112000
+DEBUG:root:training error @ iter = 1103 : 0.106000
+DEBUG:root:training error @ iter = 1104 : 0.138000
+DEBUG:root:training error @ iter = 1105 : 0.114000
+DEBUG:root:training error @ iter = 1106 : 0.128000
+DEBUG:root:epoch 123, test error 13.200000 %
+DEBUG:root:training error @ iter = 1107 : 0.106000
+DEBUG:root:training error @ iter = 1108 : 0.114000
+DEBUG:root:training error @ iter = 1109 : 0.148000
+DEBUG:root:training error @ iter = 1110 : 0.122000
+DEBUG:root:training error @ iter = 1111 : 0.116000
+DEBUG:root:training error @ iter = 1112 : 0.126000
+DEBUG:root:training error @ iter = 1113 : 0.144000
+DEBUG:root:training error @ iter = 1114 : 0.112000
+DEBUG:root:training error @ iter = 1115 : 0.120000
+DEBUG:root:epoch 124, test error 13.333333 %
+DEBUG:root:training error @ iter = 1116 : 0.108000
+DEBUG:root:training error @ iter = 1117 : 0.116000
+DEBUG:root:training error @ iter = 1118 : 0.140000
+DEBUG:root:training error @ iter = 1119 : 0.120000
+DEBUG:root:training error @ iter = 1120 : 0.112000
+DEBUG:root:training error @ iter = 1121 : 0.108000
+DEBUG:root:training error @ iter = 1122 : 0.144000
+DEBUG:root:training error @ iter = 1123 : 0.122000
+DEBUG:root:training error @ iter = 1124 : 0.126000
+DEBUG:root:epoch 125, test error 14.266667 %
+DEBUG:root:training error @ iter = 1125 : 0.110000
+DEBUG:root:training error @ iter = 1126 : 0.112000
+DEBUG:root:training error @ iter = 1127 : 0.132000
+DEBUG:root:training error @ iter = 1128 : 0.122000
+DEBUG:root:training error @ iter = 1129 : 0.118000
+DEBUG:root:training error @ iter = 1130 : 0.112000
+DEBUG:root:training error @ iter = 1131 : 0.134000
+DEBUG:root:training error @ iter = 1132 : 0.112000
+DEBUG:root:training error @ iter = 1133 : 0.126000
+DEBUG:root:epoch 126, test error 14.133333 %
+DEBUG:root:training error @ iter = 1134 : 0.108000
+DEBUG:root:training error @ iter = 1135 : 0.110000
+DEBUG:root:training error @ iter = 1136 : 0.132000
+DEBUG:root:training error @ iter = 1137 : 0.120000
+DEBUG:root:training error @ iter = 1138 : 0.118000
+DEBUG:root:training error @ iter = 1139 : 0.106000
+DEBUG:root:training error @ iter = 1140 : 0.138000
+DEBUG:root:training error @ iter = 1141 : 0.110000
+DEBUG:root:training error @ iter = 1142 : 0.130000
+DEBUG:root:epoch 127, test error 13.733333 %
+DEBUG:root:training error @ iter = 1143 : 0.110000
+DEBUG:root:training error @ iter = 1144 : 0.110000
+DEBUG:root:training error @ iter = 1145 : 0.142000
+DEBUG:root:training error @ iter = 1146 : 0.124000
+DEBUG:root:training error @ iter = 1147 : 0.118000
+DEBUG:root:training error @ iter = 1148 : 0.110000
+DEBUG:root:training error @ iter = 1149 : 0.146000
+DEBUG:root:training error @ iter = 1150 : 0.106000
+DEBUG:root:training error @ iter = 1151 : 0.130000
+DEBUG:root:epoch 128, test error 13.533333 %
+DEBUG:root:training error @ iter = 1152 : 0.110000
+DEBUG:root:training error @ iter = 1153 : 0.118000
+DEBUG:root:training error @ iter = 1154 : 0.136000
+DEBUG:root:training error @ iter = 1155 : 0.118000
+DEBUG:root:training error @ iter = 1156 : 0.110000
+DEBUG:root:training error @ iter = 1157 : 0.112000
+DEBUG:root:training error @ iter = 1158 : 0.138000
+DEBUG:root:training error @ iter = 1159 : 0.114000
+DEBUG:root:training error @ iter = 1160 : 0.124000
+DEBUG:root:epoch 129, test error 13.600000 %
+DEBUG:root:training error @ iter = 1161 : 0.098000
+DEBUG:root:training error @ iter = 1162 : 0.108000
+DEBUG:root:training error @ iter = 1163 : 0.146000
+DEBUG:root:training error @ iter = 1164 : 0.124000
+DEBUG:root:training error @ iter = 1165 : 0.116000
+DEBUG:root:training error @ iter = 1166 : 0.114000
+DEBUG:root:training error @ iter = 1167 : 0.124000
+DEBUG:root:training error @ iter = 1168 : 0.118000
+DEBUG:root:training error @ iter = 1169 : 0.110000
+DEBUG:root:epoch 130, test error 13.333333 %
+DEBUG:root:training error @ iter = 1170 : 0.112000
+DEBUG:root:training error @ iter = 1171 : 0.110000
+DEBUG:root:training error @ iter = 1172 : 0.136000
+DEBUG:root:training error @ iter = 1173 : 0.124000
+DEBUG:root:training error @ iter = 1174 : 0.114000
+DEBUG:root:training error @ iter = 1175 : 0.108000
+DEBUG:root:training error @ iter = 1176 : 0.134000
+DEBUG:root:training error @ iter = 1177 : 0.114000
+DEBUG:root:training error @ iter = 1178 : 0.122000
+DEBUG:root:epoch 131, test error 13.666667 %
+DEBUG:root:training error @ iter = 1179 : 0.124000
+DEBUG:root:training error @ iter = 1180 : 0.112000
+DEBUG:root:training error @ iter = 1181 : 0.126000
+DEBUG:root:training error @ iter = 1182 : 0.124000
+DEBUG:root:training error @ iter = 1183 : 0.116000
+DEBUG:root:training error @ iter = 1184 : 0.114000
+DEBUG:root:training error @ iter = 1185 : 0.130000
+DEBUG:root:training error @ iter = 1186 : 0.114000
+DEBUG:root:training error @ iter = 1187 : 0.118000
+DEBUG:root:epoch 132, test error 14.066667 %
+DEBUG:root:training error @ iter = 1188 : 0.110000
+DEBUG:root:training error @ iter = 1189 : 0.104000
+DEBUG:root:training error @ iter = 1190 : 0.130000
+DEBUG:root:training error @ iter = 1191 : 0.124000
+DEBUG:root:training error @ iter = 1192 : 0.116000
+DEBUG:root:training error @ iter = 1193 : 0.112000
+DEBUG:root:training error @ iter = 1194 : 0.146000
+DEBUG:root:training error @ iter = 1195 : 0.108000
+DEBUG:root:training error @ iter = 1196 : 0.136000
+DEBUG:root:epoch 133, test error 13.133333 %
+DEBUG:root:training error @ iter = 1197 : 0.110000
+DEBUG:root:training error @ iter = 1198 : 0.108000
+DEBUG:root:training error @ iter = 1199 : 0.146000
+DEBUG:root:training error @ iter = 1200 : 0.130000
+DEBUG:root:training error @ iter = 1201 : 0.122000
+DEBUG:root:training error @ iter = 1202 : 0.116000
+DEBUG:root:training error @ iter = 1203 : 0.144000
+DEBUG:root:training error @ iter = 1204 : 0.116000
+DEBUG:root:training error @ iter = 1205 : 0.134000
+DEBUG:root:epoch 134, test error 13.133333 %
+DEBUG:root:training error @ iter = 1206 : 0.112000
+DEBUG:root:training error @ iter = 1207 : 0.122000
+DEBUG:root:training error @ iter = 1208 : 0.142000
+DEBUG:root:training error @ iter = 1209 : 0.114000
+DEBUG:root:training error @ iter = 1210 : 0.122000
+DEBUG:root:training error @ iter = 1211 : 0.124000
+DEBUG:root:training error @ iter = 1212 : 0.140000
+DEBUG:root:training error @ iter = 1213 : 0.112000
+DEBUG:root:training error @ iter = 1214 : 0.136000
+DEBUG:root:epoch 135, test error 13.266667 %
+DEBUG:root:training error @ iter = 1215 : 0.112000
+DEBUG:root:training error @ iter = 1216 : 0.110000
+DEBUG:root:training error @ iter = 1217 : 0.140000
+DEBUG:root:training error @ iter = 1218 : 0.120000
+DEBUG:root:training error @ iter = 1219 : 0.116000
+DEBUG:root:training error @ iter = 1220 : 0.114000
+DEBUG:root:training error @ iter = 1221 : 0.142000
+DEBUG:root:training error @ iter = 1222 : 0.112000
+DEBUG:root:training error @ iter = 1223 : 0.130000
+DEBUG:root:epoch 136, test error 13.733333 %
+DEBUG:root:training error @ iter = 1224 : 0.108000
+DEBUG:root:training error @ iter = 1225 : 0.110000
+DEBUG:root:training error @ iter = 1226 : 0.136000
+DEBUG:root:training error @ iter = 1227 : 0.128000
+DEBUG:root:training error @ iter = 1228 : 0.120000
+DEBUG:root:training error @ iter = 1229 : 0.108000
+DEBUG:root:training error @ iter = 1230 : 0.126000
+DEBUG:root:training error @ iter = 1231 : 0.108000
+DEBUG:root:training error @ iter = 1232 : 0.122000
+DEBUG:root:epoch 137, test error 13.333333 %
+DEBUG:root:training error @ iter = 1233 : 0.118000
+DEBUG:root:training error @ iter = 1234 : 0.118000
+DEBUG:root:training error @ iter = 1235 : 0.142000
+DEBUG:root:training error @ iter = 1236 : 0.106000
+DEBUG:root:training error @ iter = 1237 : 0.118000
+DEBUG:root:training error @ iter = 1238 : 0.110000
+DEBUG:root:training error @ iter = 1239 : 0.130000
+DEBUG:root:training error @ iter = 1240 : 0.110000
+DEBUG:root:training error @ iter = 1241 : 0.126000
+DEBUG:root:epoch 138, test error 13.466667 %
+DEBUG:root:training error @ iter = 1242 : 0.110000
+DEBUG:root:training error @ iter = 1243 : 0.112000
+DEBUG:root:training error @ iter = 1244 : 0.148000
+DEBUG:root:training error @ iter = 1245 : 0.118000
+DEBUG:root:training error @ iter = 1246 : 0.118000
+DEBUG:root:training error @ iter = 1247 : 0.116000
+DEBUG:root:training error @ iter = 1248 : 0.140000
+DEBUG:root:training error @ iter = 1249 : 0.124000
+DEBUG:root:training error @ iter = 1250 : 0.128000
+DEBUG:root:epoch 139, test error 13.800000 %
+DEBUG:root:training error @ iter = 1251 : 0.110000
+DEBUG:root:training error @ iter = 1252 : 0.114000
+DEBUG:root:training error @ iter = 1253 : 0.134000
+DEBUG:root:training error @ iter = 1254 : 0.126000
+DEBUG:root:training error @ iter = 1255 : 0.116000
+DEBUG:root:training error @ iter = 1256 : 0.110000
+DEBUG:root:training error @ iter = 1257 : 0.142000
+DEBUG:root:training error @ iter = 1258 : 0.120000
+DEBUG:root:training error @ iter = 1259 : 0.134000
+DEBUG:root:epoch 140, test error 13.200000 %
+DEBUG:root:training error @ iter = 1260 : 0.102000
+DEBUG:root:training error @ iter = 1261 : 0.118000
+DEBUG:root:training error @ iter = 1262 : 0.142000
+DEBUG:root:training error @ iter = 1263 : 0.124000
+DEBUG:root:training error @ iter = 1264 : 0.122000
+DEBUG:root:training error @ iter = 1265 : 0.114000
+DEBUG:root:training error @ iter = 1266 : 0.146000
+DEBUG:root:training error @ iter = 1267 : 0.124000
+DEBUG:root:training error @ iter = 1268 : 0.120000
+DEBUG:root:epoch 141, test error 13.400000 %
+DEBUG:root:training error @ iter = 1269 : 0.110000
+DEBUG:root:training error @ iter = 1270 : 0.110000
+DEBUG:root:training error @ iter = 1271 : 0.134000
+DEBUG:root:training error @ iter = 1272 : 0.124000
+DEBUG:root:training error @ iter = 1273 : 0.112000
+DEBUG:root:training error @ iter = 1274 : 0.116000
+DEBUG:root:training error @ iter = 1275 : 0.134000
+DEBUG:root:training error @ iter = 1276 : 0.108000
+DEBUG:root:training error @ iter = 1277 : 0.126000
+DEBUG:root:epoch 142, test error 13.600000 %
+DEBUG:root:training error @ iter = 1278 : 0.112000
+DEBUG:root:training error @ iter = 1279 : 0.106000
+DEBUG:root:training error @ iter = 1280 : 0.124000
+DEBUG:root:training error @ iter = 1281 : 0.124000
+DEBUG:root:training error @ iter = 1282 : 0.108000
+DEBUG:root:training error @ iter = 1283 : 0.116000
+DEBUG:root:training error @ iter = 1284 : 0.140000
+DEBUG:root:training error @ iter = 1285 : 0.122000
+DEBUG:root:training error @ iter = 1286 : 0.130000
+DEBUG:root:epoch 143, test error 13.733333 %
+DEBUG:root:training error @ iter = 1287 : 0.112000
+DEBUG:root:training error @ iter = 1288 : 0.114000
+DEBUG:root:training error @ iter = 1289 : 0.138000
+DEBUG:root:training error @ iter = 1290 : 0.122000
+DEBUG:root:training error @ iter = 1291 : 0.120000
+DEBUG:root:training error @ iter = 1292 : 0.108000
+DEBUG:root:training error @ iter = 1293 : 0.144000
+DEBUG:root:training error @ iter = 1294 : 0.116000
+DEBUG:root:training error @ iter = 1295 : 0.132000
+DEBUG:root:epoch 144, test error 13.000000 %
+DEBUG:root:training error @ iter = 1296 : 0.094000
+DEBUG:root:training error @ iter = 1297 : 0.110000
+DEBUG:root:training error @ iter = 1298 : 0.142000
+DEBUG:root:training error @ iter = 1299 : 0.116000
+DEBUG:root:training error @ iter = 1300 : 0.112000
+DEBUG:root:training error @ iter = 1301 : 0.110000
+DEBUG:root:training error @ iter = 1302 : 0.134000
+DEBUG:root:training error @ iter = 1303 : 0.126000
+DEBUG:root:training error @ iter = 1304 : 0.126000
+DEBUG:root:epoch 145, test error 13.333333 %
+DEBUG:root:training error @ iter = 1305 : 0.110000
+DEBUG:root:training error @ iter = 1306 : 0.116000
+DEBUG:root:training error @ iter = 1307 : 0.136000
+DEBUG:root:training error @ iter = 1308 : 0.126000
+DEBUG:root:training error @ iter = 1309 : 0.120000
+DEBUG:root:training error @ iter = 1310 : 0.122000
+DEBUG:root:training error @ iter = 1311 : 0.140000
+DEBUG:root:training error @ iter = 1312 : 0.116000
+DEBUG:root:training error @ iter = 1313 : 0.130000
+DEBUG:root:epoch 146, test error 13.133333 %
+DEBUG:root:training error @ iter = 1314 : 0.116000
+DEBUG:root:training error @ iter = 1315 : 0.112000
+DEBUG:root:training error @ iter = 1316 : 0.136000
+DEBUG:root:training error @ iter = 1317 : 0.122000
+DEBUG:root:training error @ iter = 1318 : 0.120000
+DEBUG:root:training error @ iter = 1319 : 0.106000
+DEBUG:root:training error @ iter = 1320 : 0.132000
+DEBUG:root:training error @ iter = 1321 : 0.122000
+DEBUG:root:training error @ iter = 1322 : 0.128000
+DEBUG:root:epoch 147, test error 13.666667 %
+DEBUG:root:training error @ iter = 1323 : 0.096000
+DEBUG:root:training error @ iter = 1324 : 0.106000
+DEBUG:root:training error @ iter = 1325 : 0.134000
+DEBUG:root:training error @ iter = 1326 : 0.126000
+DEBUG:root:training error @ iter = 1327 : 0.120000
+DEBUG:root:training error @ iter = 1328 : 0.110000
+DEBUG:root:training error @ iter = 1329 : 0.128000
+DEBUG:root:training error @ iter = 1330 : 0.116000
+DEBUG:root:training error @ iter = 1331 : 0.130000
+DEBUG:root:epoch 148, test error 13.466667 %
+DEBUG:root:training error @ iter = 1332 : 0.108000
+DEBUG:root:training error @ iter = 1333 : 0.100000
+DEBUG:root:training error @ iter = 1334 : 0.132000
+DEBUG:root:training error @ iter = 1335 : 0.122000
+DEBUG:root:training error @ iter = 1336 : 0.120000
+DEBUG:root:training error @ iter = 1337 : 0.118000
+DEBUG:root:training error @ iter = 1338 : 0.134000
+DEBUG:root:training error @ iter = 1339 : 0.120000
+DEBUG:root:training error @ iter = 1340 : 0.142000
+DEBUG:root:epoch 149, test error 12.800000 %
+DEBUG:root:training error @ iter = 1341 : 0.100000
+DEBUG:root:training error @ iter = 1342 : 0.104000
+DEBUG:root:training error @ iter = 1343 : 0.140000
+DEBUG:root:training error @ iter = 1344 : 0.116000
+DEBUG:root:training error @ iter = 1345 : 0.114000
+DEBUG:root:training error @ iter = 1346 : 0.118000
+DEBUG:root:training error @ iter = 1347 : 0.122000
+DEBUG:root:training error @ iter = 1348 : 0.116000
+DEBUG:root:training error @ iter = 1349 : 0.132000
+DEBUG:root:epoch 150, test error 13.266667 %
+DEBUG:root:training error @ iter = 1350 : 0.094000
+DEBUG:root:training error @ iter = 1351 : 0.110000
+DEBUG:root:training error @ iter = 1352 : 0.136000
+DEBUG:root:training error @ iter = 1353 : 0.134000
+DEBUG:root:training error @ iter = 1354 : 0.124000
+DEBUG:root:training error @ iter = 1355 : 0.120000
+DEBUG:root:training error @ iter = 1356 : 0.140000
+DEBUG:root:training error @ iter = 1357 : 0.108000
+DEBUG:root:training error @ iter = 1358 : 0.126000
+DEBUG:root:epoch 151, test error 13.066667 %
+DEBUG:root:training error @ iter = 1359 : 0.112000
+DEBUG:root:training error @ iter = 1360 : 0.110000
+DEBUG:root:training error @ iter = 1361 : 0.146000
+DEBUG:root:training error @ iter = 1362 : 0.130000
+DEBUG:root:training error @ iter = 1363 : 0.114000
+DEBUG:root:training error @ iter = 1364 : 0.116000
+DEBUG:root:training error @ iter = 1365 : 0.142000
+DEBUG:root:training error @ iter = 1366 : 0.120000
+DEBUG:root:training error @ iter = 1367 : 0.136000
+DEBUG:root:epoch 152, test error 13.333333 %
+DEBUG:root:training error @ iter = 1368 : 0.108000
+DEBUG:root:training error @ iter = 1369 : 0.120000
+DEBUG:root:training error @ iter = 1370 : 0.142000
+DEBUG:root:training error @ iter = 1371 : 0.124000
+DEBUG:root:training error @ iter = 1372 : 0.118000
+DEBUG:root:training error @ iter = 1373 : 0.118000
+DEBUG:root:training error @ iter = 1374 : 0.140000
+DEBUG:root:training error @ iter = 1375 : 0.114000
+DEBUG:root:training error @ iter = 1376 : 0.132000
+DEBUG:root:epoch 153, test error 13.266667 %
+DEBUG:root:training error @ iter = 1377 : 0.116000
+DEBUG:root:training error @ iter = 1378 : 0.110000
+DEBUG:root:training error @ iter = 1379 : 0.138000
+DEBUG:root:training error @ iter = 1380 : 0.118000
+DEBUG:root:training error @ iter = 1381 : 0.120000
+DEBUG:root:training error @ iter = 1382 : 0.112000
+DEBUG:root:training error @ iter = 1383 : 0.148000
+DEBUG:root:training error @ iter = 1384 : 0.120000
+DEBUG:root:training error @ iter = 1385 : 0.124000
+DEBUG:root:epoch 154, test error 13.466667 %
+DEBUG:root:training error @ iter = 1386 : 0.108000
+DEBUG:root:training error @ iter = 1387 : 0.112000
+DEBUG:root:training error @ iter = 1388 : 0.138000
+DEBUG:root:training error @ iter = 1389 : 0.130000
+DEBUG:root:training error @ iter = 1390 : 0.114000
+DEBUG:root:training error @ iter = 1391 : 0.100000
+DEBUG:root:training error @ iter = 1392 : 0.136000
+DEBUG:root:training error @ iter = 1393 : 0.120000
+DEBUG:root:training error @ iter = 1394 : 0.124000
+DEBUG:root:epoch 155, test error 13.600000 %
+DEBUG:root:training error @ iter = 1395 : 0.108000
+DEBUG:root:training error @ iter = 1396 : 0.096000
+DEBUG:root:training error @ iter = 1397 : 0.140000
+DEBUG:root:training error @ iter = 1398 : 0.116000
+DEBUG:root:training error @ iter = 1399 : 0.110000
+DEBUG:root:training error @ iter = 1400 : 0.128000
+DEBUG:root:training error @ iter = 1401 : 0.134000
+DEBUG:root:training error @ iter = 1402 : 0.122000
+DEBUG:root:training error @ iter = 1403 : 0.118000
+DEBUG:root:epoch 156, test error 14.133333 %
+DEBUG:root:training error @ iter = 1404 : 0.120000
+DEBUG:root:training error @ iter = 1405 : 0.108000
+DEBUG:root:training error @ iter = 1406 : 0.132000
+DEBUG:root:training error @ iter = 1407 : 0.116000
+DEBUG:root:training error @ iter = 1408 : 0.118000
+DEBUG:root:training error @ iter = 1409 : 0.114000
+DEBUG:root:training error @ iter = 1410 : 0.138000
+DEBUG:root:training error @ iter = 1411 : 0.116000
+DEBUG:root:training error @ iter = 1412 : 0.130000
+DEBUG:root:epoch 157, test error 13.333333 %
+DEBUG:root:training error @ iter = 1413 : 0.112000
+DEBUG:root:training error @ iter = 1414 : 0.106000
+DEBUG:root:training error @ iter = 1415 : 0.122000

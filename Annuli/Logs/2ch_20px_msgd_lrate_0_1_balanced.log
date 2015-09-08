@@ -1,0 +1,779 @@
+/usr/bin/python2.7 /home/anupamajha/TUMSecondSemester/2013-DL-MrBlonde/Annuli/NeuralNetwork/ConvolutionalNN.py
+Loading data succeeded
+Normalized data
+Unpacked data
+Patch size: 	20
+Learning rate: 	0.100000
+Momentum: 	0.7
+... building the model
+... training
+0
+training @ iter = 0, cost = 0.693147
+training @ iter = 100, cost = 0.428328
+training @ iter = 200, cost = 0.354613
+training @ iter = 300, cost = 0.332859
+training @ iter = 400, cost = 0.393644
+training @ iter = 500, cost = 0.362952
+training @ iter = 600, cost = 0.325357
+training @ iter = 700, cost = 0.313936
+training @ iter = 800, cost = 0.343622
+training @ iter = 900, cost = 0.357320
+training @ iter = 1000, cost = 0.259681
+training @ iter = 1100, cost = 0.307091
+training @ iter = 1200, cost = 0.307258
+training @ iter = 1300, cost = 0.358623
+training @ iter = 1400, cost = 0.370942
+training @ iter = 1500, cost = 0.249838
+training @ iter = 1600, cost = 0.228160
+training @ iter = 1700, cost = 0.254223
+training @ iter = 1800, cost = 0.254637
+training @ iter = 1900, cost = 0.290608
+training @ iter = 2000, cost = 0.217266
+training @ iter = 2100, cost = 0.212820
+training @ iter = 2200, cost = 0.245698
+training @ iter = 2300, cost = 0.302489
+training @ iter = 2400, cost = 0.182910
+training @ iter = 2500, cost = 0.223858
+training @ iter = 2600, cost = 0.280225
+training @ iter = 2700, cost = 0.183906
+training @ iter = 2800, cost = 0.203700
+Q2 error(Using confusion matrix): epoch 1, training error 5.956778 %, validation error 6.061555 %
+Q2 Error(Using confusion matrix)epoch 1, test error of best model 6.035783 %
+Confusion matrix: Test Set
+[[219891  15118]
+ [ 13220 221271]]
+truePositive(Annuli) 0.471291 %
+trueNegative(Non Annuli) 0.468351 %
+FalsePositive0.032200 %
+FalseNegative 0.028158 %
+1
+training @ iter = 2900, cost = 0.170541
+training @ iter = 3000, cost = 0.185594
+training @ iter = 3100, cost = 0.196643
+training @ iter = 3200, cost = 0.150996
+training @ iter = 3300, cost = 0.130957
+training @ iter = 3400, cost = 0.159586
+training @ iter = 3500, cost = 0.138654
+training @ iter = 3600, cost = 0.082548
+training @ iter = 3700, cost = 0.100376
+training @ iter = 3800, cost = 0.121960
+training @ iter = 3900, cost = 0.121095
+training @ iter = 4000, cost = 0.145668
+training @ iter = 4100, cost = 0.105809
+training @ iter = 4200, cost = 0.112511
+training @ iter = 4300, cost = 0.127671
+training @ iter = 4400, cost = 0.104587
+training @ iter = 4500, cost = 0.103883
+training @ iter = 4600, cost = 0.114420
+training @ iter = 4700, cost = 0.097680
+training @ iter = 4800, cost = 0.113426
+training @ iter = 4900, cost = 0.146003
+training @ iter = 5000, cost = 0.067412
+training @ iter = 5100, cost = 0.065446
+training @ iter = 5200, cost = 0.077950
+training @ iter = 5300, cost = 0.093248
+training @ iter = 5400, cost = 0.063504
+training @ iter = 5500, cost = 0.118280
+training @ iter = 5600, cost = 0.114639
+Q2 error(Using confusion matrix): epoch 2, training error 3.228886 %, validation error 3.294995 %
+Q2 Error(Using confusion matrix)epoch 2, test error of best model 3.339723 %
+Confusion matrix: Test Set
+[[222747  12262]
+ [  3418 231073]]
+truePositive(Annuli) 0.492168 %
+trueNegative(Non Annuli) 0.474435 %
+FalsePositive0.026117 %
+FalseNegative 0.007280 %
+2
+training @ iter = 5700, cost = 0.067079
+training @ iter = 5800, cost = 0.085023
+training @ iter = 5900, cost = 0.072453
+training @ iter = 6000, cost = 0.093460
+training @ iter = 6100, cost = 0.081522
+training @ iter = 6200, cost = 0.106576
+training @ iter = 6300, cost = 0.108340
+training @ iter = 6400, cost = 0.090894
+training @ iter = 6500, cost = 0.066377
+training @ iter = 6600, cost = 0.099300
+training @ iter = 6700, cost = 0.067200
+training @ iter = 6800, cost = 0.069513
+training @ iter = 6900, cost = 0.091387
+training @ iter = 7000, cost = 0.111577
+training @ iter = 7100, cost = 0.095856
+training @ iter = 7200, cost = 0.072069
+training @ iter = 7300, cost = 0.048327
+training @ iter = 7400, cost = 0.088831
+training @ iter = 7500, cost = 0.053938
+training @ iter = 7600, cost = 0.068089
+training @ iter = 7700, cost = 0.100475
+training @ iter = 7800, cost = 0.070300
+training @ iter = 7900, cost = 0.069426
+training @ iter = 8000, cost = 0.094918
+training @ iter = 8100, cost = 0.088233
+training @ iter = 8200, cost = 0.073709
+training @ iter = 8300, cost = 0.078562
+training @ iter = 8400, cost = 0.086724
+Q2 error(Using confusion matrix): epoch 3, training error 2.450319 %, validation error 2.546752 %
+Q2 Error(Using confusion matrix)epoch 3, test error of best model 2.573376 %
+Confusion matrix: Test Set
+[[225701   9308]
+ [  2774 231717]]
+truePositive(Annuli) 0.493540 %
+trueNegative(Non Annuli) 0.480726 %
+FalsePositive0.019825 %
+FalseNegative 0.005908 %
+3
+training @ iter = 8500, cost = 0.054530
+training @ iter = 8600, cost = 0.068552
+training @ iter = 8700, cost = 0.072566
+training @ iter = 8800, cost = 0.054013
+training @ iter = 8900, cost = 0.075166
+training @ iter = 9000, cost = 0.066321
+training @ iter = 9100, cost = 0.069357
+training @ iter = 9200, cost = 0.063385
+training @ iter = 9300, cost = 0.074708
+training @ iter = 9400, cost = 0.046843
+training @ iter = 9500, cost = 0.065655
+training @ iter = 9600, cost = 0.064762
+training @ iter = 9700, cost = 0.042038
+training @ iter = 9800, cost = 0.051533
+training @ iter = 9900, cost = 0.053444
+training @ iter = 10000, cost = 0.044888
+training @ iter = 10100, cost = 0.055793
+training @ iter = 10200, cost = 0.047885
+training @ iter = 10300, cost = 0.061588
+training @ iter = 10400, cost = 0.060314
+training @ iter = 10500, cost = 0.051513
+training @ iter = 10600, cost = 0.044113
+training @ iter = 10700, cost = 0.075069
+training @ iter = 10800, cost = 0.048613
+training @ iter = 10900, cost = 0.083438
+training @ iter = 11000, cost = 0.065486
+training @ iter = 11100, cost = 0.058912
+training @ iter = 11200, cost = 0.081717
+Q2 error(Using confusion matrix): epoch 4, training error 2.008659 %, validation error 2.137167 %
+Q2 Error(Using confusion matrix)epoch 4, test error of best model 2.146539 %
+Confusion matrix: Test Set
+[[226652   8357]
+ [  1721 232770]]
+truePositive(Annuli) 0.495783 %
+trueNegative(Non Annuli) 0.482752 %
+FalsePositive0.017800 %
+FalseNegative 0.003666 %
+4
+training @ iter = 11300, cost = 0.065346
+training @ iter = 11400, cost = 0.060364
+training @ iter = 11500, cost = 0.088164
+training @ iter = 11600, cost = 0.059408
+training @ iter = 11700, cost = 0.063634
+training @ iter = 11800, cost = 0.066279
+training @ iter = 11900, cost = 0.049482
+training @ iter = 12000, cost = 0.058894
+training @ iter = 12100, cost = 0.047980
+training @ iter = 12200, cost = 0.061154
+training @ iter = 12300, cost = 0.075484
+training @ iter = 12400, cost = 0.053115
+training @ iter = 12500, cost = 0.054501
+training @ iter = 12600, cost = 0.073370
+training @ iter = 12700, cost = 0.049318
+training @ iter = 12800, cost = 0.050401
+training @ iter = 12900, cost = 0.053339
+training @ iter = 13000, cost = 0.030618
+training @ iter = 13100, cost = 0.048327
+training @ iter = 13200, cost = 0.045598
+training @ iter = 13300, cost = 0.056762
+training @ iter = 13400, cost = 0.042784
+training @ iter = 13500, cost = 0.063235
+training @ iter = 13600, cost = 0.062475
+training @ iter = 13700, cost = 0.048819
+training @ iter = 13800, cost = 0.042632
+training @ iter = 13900, cost = 0.080892
+training @ iter = 14000, cost = 0.043662
+Q2 error(Using confusion matrix): epoch 5, training error 1.673953 %, validation error 1.799361 %
+Q2 Error(Using confusion matrix)epoch 5, test error of best model 1.828115 %
+Confusion matrix: Test Set
+[[227639   7370]
+ [  1213 233278]]
+truePositive(Annuli) 0.496865 %
+trueNegative(Non Annuli) 0.484854 %
+FalsePositive0.015698 %
+FalseNegative 0.002584 %
+5
+training @ iter = 14100, cost = 0.047237
+training @ iter = 14200, cost = 0.070295
+training @ iter = 14300, cost = 0.085685
+training @ iter = 14400, cost = 0.069585
+training @ iter = 14500, cost = 0.080226
+training @ iter = 14600, cost = 0.055439
+training @ iter = 14700, cost = 0.033715
+training @ iter = 14800, cost = 0.053232
+training @ iter = 14900, cost = 0.051358
+training @ iter = 15000, cost = 0.076317
+training @ iter = 15100, cost = 0.088255
+training @ iter = 15200, cost = 0.062682
+training @ iter = 15300, cost = 0.041385
+training @ iter = 15400, cost = 0.054563
+training @ iter = 15500, cost = 0.056706
+training @ iter = 15600, cost = 0.022379
+training @ iter = 15700, cost = 0.039947
+training @ iter = 15800, cost = 0.038524
+training @ iter = 15900, cost = 0.057740
+training @ iter = 16000, cost = 0.037581
+training @ iter = 16100, cost = 0.033222
+training @ iter = 16200, cost = 0.054583
+training @ iter = 16300, cost = 0.037644
+training @ iter = 16400, cost = 0.021053
+training @ iter = 16500, cost = 0.063044
+training @ iter = 16600, cost = 0.062121
+training @ iter = 16700, cost = 0.047632
+training @ iter = 16800, cost = 0.024947
+training @ iter = 16900, cost = 0.062362
+Q2 error(Using confusion matrix): epoch 6, training error 1.405962 %, validation error 1.537806 %
+Q2 Error(Using confusion matrix)epoch 6, test error of best model 1.570607 %
+Confusion matrix: Test Set
+[[228341   6668]
+ [   706 233785]]
+truePositive(Annuli) 0.497945 %
+trueNegative(Non Annuli) 0.486349 %
+FalsePositive0.014202 %
+FalseNegative 0.001504 %
+6
+training @ iter = 17000, cost = 0.069449
+training @ iter = 17100, cost = 0.046286
+training @ iter = 17200, cost = 0.054429
+training @ iter = 17300, cost = 0.059547
+training @ iter = 17400, cost = 0.047275
+training @ iter = 17500, cost = 0.043990
+training @ iter = 17600, cost = 0.081747
+training @ iter = 17700, cost = 0.070166
+training @ iter = 17800, cost = 0.036742
+training @ iter = 17900, cost = 0.048418
+training @ iter = 18000, cost = 0.068431
+training @ iter = 18100, cost = 0.048861
+training @ iter = 18200, cost = 0.050290
+training @ iter = 18300, cost = 0.025246
+training @ iter = 18400, cost = 0.018451
+training @ iter = 18500, cost = 0.033179
+training @ iter = 18600, cost = 0.048663
+training @ iter = 18700, cost = 0.046003
+training @ iter = 18800, cost = 0.075958
+training @ iter = 18900, cost = 0.046597
+training @ iter = 19000, cost = 0.052490
+training @ iter = 19100, cost = 0.024008
+training @ iter = 19200, cost = 0.038677
+training @ iter = 19300, cost = 0.050264
+training @ iter = 19400, cost = 0.038730
+training @ iter = 19500, cost = 0.060179
+training @ iter = 19600, cost = 0.054895
+training @ iter = 19700, cost = 0.047193
+Q2 error(Using confusion matrix): epoch 7, training error 1.191341 %, validation error 1.342705 %
+Q2 Error(Using confusion matrix)epoch 7, test error of best model 1.365708 %
+Confusion matrix: Test Set
+[[229092   5917]
+ [   495 233996]]
+truePositive(Annuli) 0.498394 %
+trueNegative(Non Annuli) 0.487949 %
+FalsePositive0.012603 %
+FalseNegative 0.001054 %
+7
+training @ iter = 19800, cost = 0.036286
+training @ iter = 19900, cost = 0.026139
+training @ iter = 20000, cost = 0.037890
+training @ iter = 20100, cost = 0.044363
+training @ iter = 20200, cost = 0.042558
+training @ iter = 20300, cost = 0.028502
+training @ iter = 20400, cost = 0.025935
+training @ iter = 20500, cost = 0.039796
+training @ iter = 20600, cost = 0.048795
+training @ iter = 20700, cost = 0.048468
+training @ iter = 20800, cost = 0.016300
+training @ iter = 20900, cost = 0.039716
+training @ iter = 21000, cost = 0.025218
+training @ iter = 21100, cost = 0.014038
+training @ iter = 21200, cost = 0.027722
+training @ iter = 21300, cost = 0.026591
+training @ iter = 21400, cost = 0.076243
+training @ iter = 21500, cost = 0.047073
+training @ iter = 21600, cost = 0.052945
+training @ iter = 21700, cost = 0.039032
+training @ iter = 21800, cost = 0.040369
+training @ iter = 21900, cost = 0.049227
+training @ iter = 22000, cost = 0.057408
+training @ iter = 22100, cost = 0.042173
+training @ iter = 22200, cost = 0.045286
+training @ iter = 22300, cost = 0.027392
+training @ iter = 22400, cost = 0.029200
+training @ iter = 22500, cost = 0.032169
+Q2 error(Using confusion matrix): epoch 8, training error 0.984883 %, validation error 1.146965 %
+Q2 Error(Using confusion matrix)epoch 8, test error of best model 1.166347 %
+Confusion matrix: Test Set
+[[229916   5093]
+ [   383 234108]]
+truePositive(Annuli) 0.498633 %
+trueNegative(Non Annuli) 0.489704 %
+FalsePositive0.010848 %
+FalseNegative 0.000816 %
+8
+training @ iter = 22600, cost = 0.053107
+training @ iter = 22700, cost = 0.020136
+training @ iter = 22800, cost = 0.084634
+training @ iter = 22900, cost = 0.024332
+training @ iter = 23000, cost = 0.047852
+training @ iter = 23100, cost = 0.029619
+training @ iter = 23200, cost = 0.029295
+training @ iter = 23300, cost = 0.035043
+training @ iter = 23400, cost = 0.034209
+training @ iter = 23500, cost = 0.017022
+training @ iter = 23600, cost = 0.028487
+training @ iter = 23700, cost = 0.058013
+training @ iter = 23800, cost = 0.033741
+training @ iter = 23900, cost = 0.028802
+training @ iter = 24000, cost = 0.040269
+training @ iter = 24100, cost = 0.027030
+training @ iter = 24200, cost = 0.020157
+training @ iter = 24300, cost = 0.034256
+training @ iter = 24400, cost = 0.023282
+training @ iter = 24500, cost = 0.025619
+training @ iter = 24600, cost = 0.014230
+training @ iter = 24700, cost = 0.022484
+training @ iter = 24800, cost = 0.040076
+training @ iter = 24900, cost = 0.037820
+training @ iter = 25000, cost = 0.019256
+training @ iter = 25100, cost = 0.021115
+training @ iter = 25200, cost = 0.037271
+training @ iter = 25300, cost = 0.031432
+Q2 error(Using confusion matrix): epoch 9, training error 0.846842 %, validation error 1.018317 %
+Q2 Error(Using confusion matrix)epoch 9, test error of best model 1.036209 %
+Confusion matrix: Test Set
+[[230466   4543]
+ [   322 234169]]
+truePositive(Annuli) 0.498763 %
+trueNegative(Non Annuli) 0.490875 %
+FalsePositive0.009676 %
+FalseNegative 0.000686 %
+9
+training @ iter = 25400, cost = 0.012036
+training @ iter = 25500, cost = 0.019699
+training @ iter = 25600, cost = 0.019498
+training @ iter = 25700, cost = 0.043636
+training @ iter = 25800, cost = 0.031878
+training @ iter = 25900, cost = 0.025677
+training @ iter = 26000, cost = 0.021450
+training @ iter = 26100, cost = 0.021688
+training @ iter = 26200, cost = 0.049601
+training @ iter = 26300, cost = 0.022738
+training @ iter = 26400, cost = 0.023481
+training @ iter = 26500, cost = 0.041644
+training @ iter = 26600, cost = 0.048625
+training @ iter = 26700, cost = 0.040379
+training @ iter = 26800, cost = 0.028818
+training @ iter = 26900, cost = 0.087704
+training @ iter = 27000, cost = 0.013669
+training @ iter = 27100, cost = 0.049965
+training @ iter = 27200, cost = 0.034791
+training @ iter = 27300, cost = 0.036106
+training @ iter = 27400, cost = 0.028194
+training @ iter = 27500, cost = 0.032281
+training @ iter = 27600, cost = 0.026469
+training @ iter = 27700, cost = 0.033571
+training @ iter = 27800, cost = 0.042225
+training @ iter = 27900, cost = 0.019466
+training @ iter = 28000, cost = 0.034156
+training @ iter = 28100, cost = 0.050676
+Q2 error(Using confusion matrix): epoch 10, training error 0.727182 %, validation error 0.908626 %
+Q2 Error(Using confusion matrix)epoch 10, test error of best model 0.923749 %
+Confusion matrix: Test Set
+[[230885   4124]
+ [   213 234278]]
+truePositive(Annuli) 0.498995 %
+trueNegative(Non Annuli) 0.491768 %
+FalsePositive0.008784 %
+FalseNegative 0.000454 %
+10
+training @ iter = 28200, cost = 0.047746
+training @ iter = 28300, cost = 0.024357
+training @ iter = 28400, cost = 0.030977
+training @ iter = 28500, cost = 0.018431
+training @ iter = 28600, cost = 0.040566
+training @ iter = 28700, cost = 0.037184
+training @ iter = 28800, cost = 0.027677
+training @ iter = 28900, cost = 0.019680
+training @ iter = 29000, cost = 0.022882
+training @ iter = 29100, cost = 0.012592
+training @ iter = 29200, cost = 0.047419
+training @ iter = 29300, cost = 0.013743
+training @ iter = 29400, cost = 0.027772
+training @ iter = 29500, cost = 0.055056
+training @ iter = 29600, cost = 0.040974
+training @ iter = 29700, cost = 0.019106
+training @ iter = 29800, cost = 0.023162
+training @ iter = 29900, cost = 0.025423
+training @ iter = 30000, cost = 0.044398
+training @ iter = 30100, cost = 0.033589
+training @ iter = 30200, cost = 0.023216
+training @ iter = 30300, cost = 0.022248
+training @ iter = 30400, cost = 0.045688
+training @ iter = 30500, cost = 0.022581
+training @ iter = 30600, cost = 0.035614
+training @ iter = 30700, cost = 0.045476
+training @ iter = 30800, cost = 0.023575
+training @ iter = 30900, cost = 0.034861
+Q2 error(Using confusion matrix): epoch 11, training error 0.678566 %, validation error 0.874547 %
+Q2 Error(Using confusion matrix)epoch 11, test error of best model 0.872630 %
+Confusion matrix: Test Set
+[[231202   3807]
+ [   290 234201]]
+truePositive(Annuli) 0.498831 %
+trueNegative(Non Annuli) 0.492443 %
+FalsePositive0.008109 %
+FalseNegative 0.000618 %
+11
+training @ iter = 31000, cost = 0.037507
+training @ iter = 31100, cost = 0.013610
+training @ iter = 31200, cost = 0.024855
+training @ iter = 31300, cost = 0.019396
+training @ iter = 31400, cost = 0.017120
+training @ iter = 31500, cost = 0.033117
+training @ iter = 31600, cost = 0.039553
+training @ iter = 31700, cost = 0.025776
+training @ iter = 31800, cost = 0.029361
+training @ iter = 31900, cost = 0.024371
+training @ iter = 32000, cost = 0.008067
+training @ iter = 32100, cost = 0.023608
+training @ iter = 32200, cost = 0.020304
+training @ iter = 32300, cost = 0.023912
+training @ iter = 32400, cost = 0.036427
+training @ iter = 32500, cost = 0.025233
+training @ iter = 32600, cost = 0.041555
+training @ iter = 32700, cost = 0.023813
+training @ iter = 32800, cost = 0.012286
+training @ iter = 32900, cost = 0.026737
+training @ iter = 33000, cost = 0.016267
+training @ iter = 33100, cost = 0.023447
+training @ iter = 33200, cost = 0.041207
+training @ iter = 33300, cost = 0.022182
+training @ iter = 33400, cost = 0.022388
+training @ iter = 33500, cost = 0.022420
+training @ iter = 33600, cost = 0.009057
+training @ iter = 33700, cost = 0.016911
+training @ iter = 33800, cost = 0.031076
+Q2 error(Using confusion matrix): epoch 12, training error 0.622072 %, validation error 0.826198 %
+Q2 Error(Using confusion matrix)epoch 12, test error of best model 0.812780 %
+Confusion matrix: Test Set
+[[231506   3503]
+ [   313 234178]]
+truePositive(Annuli) 0.498782 %
+trueNegative(Non Annuli) 0.493091 %
+FalsePositive0.007461 %
+FalseNegative 0.000667 %
+12
+training @ iter = 33900, cost = 0.045959
+training @ iter = 34000, cost = 0.046433
+training @ iter = 34100, cost = 0.053040
+training @ iter = 34200, cost = 0.043245
+training @ iter = 34300, cost = 0.026155
+training @ iter = 34400, cost = 0.023262
+training @ iter = 34500, cost = 0.021695
+training @ iter = 34600, cost = 0.011151
+training @ iter = 34700, cost = 0.024762
+training @ iter = 34800, cost = 0.027023
+training @ iter = 34900, cost = 0.027375
+training @ iter = 35000, cost = 0.019796
+training @ iter = 35100, cost = 0.036735
+training @ iter = 35200, cost = 0.022134
+training @ iter = 35300, cost = 0.016486
+training @ iter = 35400, cost = 0.022518
+training @ iter = 35500, cost = 0.024250
+training @ iter = 35600, cost = 0.020924
+training @ iter = 35700, cost = 0.029036
+training @ iter = 35800, cost = 0.018998
+training @ iter = 35900, cost = 0.020296
+training @ iter = 36000, cost = 0.016660
+training @ iter = 36100, cost = 0.022377
+training @ iter = 36200, cost = 0.025943
+training @ iter = 36300, cost = 0.029755
+training @ iter = 36400, cost = 0.031507
+training @ iter = 36500, cost = 0.015334
+training @ iter = 36600, cost = 0.020870
+Q2 error(Using confusion matrix): epoch 13, training error 0.581902 %, validation error 0.789776 %
+Q2 Error(Using confusion matrix)epoch 13, test error of best model 0.773589 %
+Confusion matrix: Test Set
+[[231705   3304]
+ [   328 234163]]
+truePositive(Annuli) 0.498750 %
+trueNegative(Non Annuli) 0.493514 %
+FalsePositive0.007037 %
+FalseNegative 0.000699 %
+13
+training @ iter = 36700, cost = 0.015349
+training @ iter = 36800, cost = 0.010667
+training @ iter = 36900, cost = 0.005956
+training @ iter = 37000, cost = 0.023749
+training @ iter = 37100, cost = 0.016488
+training @ iter = 37200, cost = 0.018580
+training @ iter = 37300, cost = 0.010660
+training @ iter = 37400, cost = 0.022992
+training @ iter = 37500, cost = 0.027899
+training @ iter = 37600, cost = 0.024924
+training @ iter = 37700, cost = 0.027812
+training @ iter = 37800, cost = 0.027195
+training @ iter = 37900, cost = 0.029909
+training @ iter = 38000, cost = 0.022528
+training @ iter = 38100, cost = 0.016870
+training @ iter = 38200, cost = 0.016764
+training @ iter = 38300, cost = 0.024785
+training @ iter = 38400, cost = 0.019619
+training @ iter = 38500, cost = 0.020954
+training @ iter = 38600, cost = 0.024725
+training @ iter = 38700, cost = 0.042396
+training @ iter = 38800, cost = 0.026431
+training @ iter = 38900, cost = 0.010362
+training @ iter = 39000, cost = 0.018596
+training @ iter = 39100, cost = 0.015735
+training @ iter = 39200, cost = 0.015752
+training @ iter = 39300, cost = 0.030277
+training @ iter = 39400, cost = 0.022222
+Q2 error(Using confusion matrix): epoch 14, training error 0.533428 %, validation error 0.754633 %
+Q2 Error(Using confusion matrix)epoch 14, test error of best model 0.738232 %
+Confusion matrix: Test Set
+[[231815   3194]
+ [   272 234219]]
+truePositive(Annuli) 0.498869 %
+trueNegative(Non Annuli) 0.493749 %
+FalsePositive0.006803 %
+FalseNegative 0.000579 %
+14
+training @ iter = 39500, cost = 0.014430
+training @ iter = 39600, cost = 0.008771
+training @ iter = 39700, cost = 0.026280
+training @ iter = 39800, cost = 0.036992
+training @ iter = 39900, cost = 0.015554
+training @ iter = 40000, cost = 0.023550
+training @ iter = 40100, cost = 0.021347
+training @ iter = 40200, cost = 0.025913
+training @ iter = 40300, cost = 0.008457
+training @ iter = 40400, cost = 0.012312
+training @ iter = 40500, cost = 0.031957
+training @ iter = 40600, cost = 0.038928
+training @ iter = 40700, cost = 0.028656
+training @ iter = 40800, cost = 0.036775
+training @ iter = 40900, cost = 0.029128
+training @ iter = 41000, cost = 0.049691
+training @ iter = 41100, cost = 0.026159
+training @ iter = 41200, cost = 0.015372
+training @ iter = 41300, cost = 0.033030
+training @ iter = 41400, cost = 0.032026
+training @ iter = 41500, cost = 0.029977
+training @ iter = 41600, cost = 0.017699
+training @ iter = 41700, cost = 0.041061
+training @ iter = 41800, cost = 0.029911
+training @ iter = 41900, cost = 0.013747
+training @ iter = 42000, cost = 0.010181
+training @ iter = 42100, cost = 0.028842
+training @ iter = 42200, cost = 0.006209
+Q2 error(Using confusion matrix): epoch 15, training error 0.490987 %, validation error 0.717572 %
+Q2 Error(Using confusion matrix)epoch 15, test error of best model 0.697551 %
+Confusion matrix: Test Set
+[[231995   3014]
+ [   261 234230]]
+truePositive(Annuli) 0.498892 %
+trueNegative(Non Annuli) 0.494132 %
+FalsePositive0.006420 %
+FalseNegative 0.000556 %
+15
+training @ iter = 42300, cost = 0.029518
+training @ iter = 42400, cost = 0.017487
+training @ iter = 42500, cost = 0.019035
+training @ iter = 42600, cost = 0.028551
+training @ iter = 42700, cost = 0.007219
+training @ iter = 42800, cost = 0.029260
+training @ iter = 42900, cost = 0.047810
+training @ iter = 43000, cost = 0.022673
+training @ iter = 43100, cost = 0.010429
+training @ iter = 43200, cost = 0.015518
+training @ iter = 43300, cost = 0.009910
+training @ iter = 43400, cost = 0.012339
+training @ iter = 43500, cost = 0.021571
+training @ iter = 43600, cost = 0.045657
+training @ iter = 43700, cost = 0.030966
+training @ iter = 43800, cost = 0.006173
+training @ iter = 43900, cost = 0.005837
+training @ iter = 44000, cost = 0.020973
+training @ iter = 44100, cost = 0.012830
+training @ iter = 44200, cost = 0.021783
+training @ iter = 44300, cost = 0.005552
+training @ iter = 44400, cost = 0.026925
+training @ iter = 44500, cost = 0.010594
+training @ iter = 44600, cost = 0.024085
+training @ iter = 44700, cost = 0.005940
+training @ iter = 44800, cost = 0.009834
+training @ iter = 44900, cost = 0.013476
+training @ iter = 45000, cost = 0.022436
+Q2 error(Using confusion matrix): epoch 16, training error 0.461107 %, validation error 0.692652 %
+Q2 Error(Using confusion matrix)epoch 16, test error of best model 0.676890 %
+Confusion matrix: Test Set
+[[232095   2914]
+ [   264 234227]]
+truePositive(Annuli) 0.498886 %
+trueNegative(Non Annuli) 0.494345 %
+FalsePositive0.006207 %
+FalseNegative 0.000562 %
+16
+training @ iter = 45100, cost = 0.015529
+training @ iter = 45200, cost = 0.012336
+training @ iter = 45300, cost = 0.009469
+training @ iter = 45400, cost = 0.022814
+training @ iter = 45500, cost = 0.010480
+training @ iter = 45600, cost = 0.014546
+training @ iter = 45700, cost = 0.009989
+training @ iter = 45800, cost = 0.024497
+training @ iter = 45900, cost = 0.034597
+training @ iter = 46000, cost = 0.016495
+training @ iter = 46100, cost = 0.026219
+training @ iter = 46200, cost = 0.006934
+training @ iter = 46300, cost = 0.021160
+training @ iter = 46400, cost = 0.014472
+training @ iter = 46500, cost = 0.008285
+training @ iter = 46600, cost = 0.034292
+training @ iter = 46700, cost = 0.011430
+training @ iter = 46800, cost = 0.018501
+training @ iter = 46900, cost = 0.066294
+training @ iter = 47000, cost = 0.020158
+training @ iter = 47100, cost = 0.016948
+training @ iter = 47200, cost = 0.015771
+training @ iter = 47300, cost = 0.011334
+training @ iter = 47400, cost = 0.027533
+training @ iter = 47500, cost = 0.011985
+training @ iter = 47600, cost = 0.008037
+training @ iter = 47700, cost = 0.018914
+training @ iter = 47800, cost = 0.021205
+training @ iter = 47900, cost = 0.011303
+Q2 error(Using confusion matrix): epoch 17, training error 0.427679 %, validation error 0.665389 %
+Q2 Error(Using confusion matrix)epoch 17, test error of best model 0.651118 %
+Confusion matrix: Test Set
+[[232164   2845]
+ [   212 234279]]
+truePositive(Annuli) 0.498997 %
+trueNegative(Non Annuli) 0.494492 %
+FalsePositive0.006060 %
+FalseNegative 0.000452 %
+17
+training @ iter = 48000, cost = 0.022652
+training @ iter = 48100, cost = 0.029457
+training @ iter = 48200, cost = 0.005688
+training @ iter = 48300, cost = 0.022372
+training @ iter = 48400, cost = 0.015087
+training @ iter = 48500, cost = 0.010028
+training @ iter = 48600, cost = 0.020320
+training @ iter = 48700, cost = 0.007454
+training @ iter = 48800, cost = 0.012207
+training @ iter = 48900, cost = 0.018509
+training @ iter = 49000, cost = 0.022485
+training @ iter = 49100, cost = 0.016991
+training @ iter = 49200, cost = 0.021971
+training @ iter = 49300, cost = 0.014878
+training @ iter = 49400, cost = 0.005231
+training @ iter = 49500, cost = 0.010981
+training @ iter = 49600, cost = 0.012053
+training @ iter = 49700, cost = 0.012231
+training @ iter = 49800, cost = 0.013587
+training @ iter = 49900, cost = 0.012335
+training @ iter = 50000, cost = 0.008917
+training @ iter = 50100, cost = 0.019277
+training @ iter = 50200, cost = 0.013819
+training @ iter = 50300, cost = 0.018954
+training @ iter = 50400, cost = 0.008030
+training @ iter = 50500, cost = 0.020797
+training @ iter = 50600, cost = 0.029556
+training @ iter = 50700, cost = 0.018335
+Q2 error(Using confusion matrix): epoch 18, training error 0.394890 %, validation error 0.643663 %
+Q2 Error(Using confusion matrix)epoch 18, test error of best model 0.630032 %
+Confusion matrix: Test Set
+[[232279   2730]
+ [   228 234263]]
+truePositive(Annuli) 0.498963 %
+trueNegative(Non Annuli) 0.494737 %
+FalsePositive0.005815 %
+FalseNegative 0.000486 %
+18
+training @ iter = 50800, cost = 0.016933
+training @ iter = 50900, cost = 0.020465
+training @ iter = 51000, cost = 0.009143
+training @ iter = 51100, cost = 0.014872
+training @ iter = 51200, cost = 0.033396
+training @ iter = 51300, cost = 0.012706
+training @ iter = 51400, cost = 0.007348
+training @ iter = 51500, cost = 0.012340
+training @ iter = 51600, cost = 0.010155
+training @ iter = 51700, cost = 0.008540
+training @ iter = 51800, cost = 0.006493
+training @ iter = 51900, cost = 0.017626
+training @ iter = 52000, cost = 0.020864
+training @ iter = 52100, cost = 0.004400
+training @ iter = 52200, cost = 0.004210
+training @ iter = 52300, cost = 0.027750
+training @ iter = 52400, cost = 0.019842
+training @ iter = 52500, cost = 0.006442
+training @ iter = 52600, cost = 0.027688
+training @ iter = 52700, cost = 0.023047
+training @ iter = 52800, cost = 0.004617
+training @ iter = 52900, cost = 0.008496
+training @ iter = 53000, cost = 0.009135
+training @ iter = 53100, cost = 0.018165
+training @ iter = 53200, cost = 0.004028
+training @ iter = 53300, cost = 0.006773
+training @ iter = 53400, cost = 0.010200
+training @ iter = 53500, cost = 0.033459
+Q2 error(Using confusion matrix): epoch 19, training error 0.370476 %, validation error 0.617465 %
+Q2 Error(Using confusion matrix)epoch 19, test error of best model 0.611289 %
+Confusion matrix: Test Set
+[[232310   2699]
+ [   171 234320]]
+truePositive(Annuli) 0.499084 %
+trueNegative(Non Annuli) 0.494803 %
+FalsePositive0.005749 %
+FalseNegative 0.000364 %
+19
+training @ iter = 53600, cost = 0.017860
+training @ iter = 53700, cost = 0.016455
+training @ iter = 53800, cost = 0.050563
+training @ iter = 53900, cost = 0.038157
+training @ iter = 54000, cost = 0.005433
+training @ iter = 54100, cost = 0.012908
+training @ iter = 54200, cost = 0.010069
+training @ iter = 54300, cost = 0.017523
+training @ iter = 54400, cost = 0.023291
+training @ iter = 54500, cost = 0.009041
+training @ iter = 54600, cost = 0.008140
+training @ iter = 54700, cost = 0.016272
+training @ iter = 54800, cost = 0.028340
+training @ iter = 54900, cost = 0.027447
+training @ iter = 55000, cost = 0.006220
+training @ iter = 55100, cost = 0.026188
+training @ iter = 55200, cost = 0.022046
+training @ iter = 55300, cost = 0.016325
+training @ iter = 55400, cost = 0.033057
+training @ iter = 55500, cost = 0.010402
+training @ iter = 55600, cost = 0.010822
+training @ iter = 55700, cost = 0.036130
+training @ iter = 55800, cost = 0.013801
+training @ iter = 55900, cost = 0.028598
+training @ iter = 56000, cost = 0.013232
+training @ iter = 56100, cost = 0.006365
+training @ iter = 56200, cost = 0.004244
+training @ iter = 56300, cost = 0.022892
+Q2 error(Using confusion matrix): epoch 20, training error 0.355075 %, validation error 0.606816 %
+Q2 Error(Using confusion matrix)epoch 20, test error of best model 0.602769 %
+Confusion matrix: Test Set
+[[232287   2722]
+ [   108 234383]]
+truePositive(Annuli) 0.499218 %
+trueNegative(Non Annuli) 0.494754 %
+FalsePositive0.005798 %
+FalseNegative 0.000230 %
+Optimization complete.
+Q2 Error (using confusion matrix)Best validation score of 0.606816 % with test performance 0.602769 %
+The code for file ConvolutionalNN.py ran for 1287.32m
+
+Process finished with exit code 0
+

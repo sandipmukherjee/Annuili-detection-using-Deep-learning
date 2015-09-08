@@ -1,0 +1,32 @@
+Loading data succeeded
+Whitened data
+Unpacked data
+Patch size: 	60
+Learning rate: 	0.033333 (before adjustment for rmsprop)
+Momentum: 	0.7
+... building the model
+... training
+0
+training @ iter =  0
+Cost @ iter 0: 0.693147
+Cost @ iter 1: 0.633705
+Cost @ iter 2: 0.397995
+Cost @ iter 3: 0.300755
+Cost @ iter 4: 0.334030
+Cost @ iter 5: 0.206314
+Cost @ iter 6: 0.237564
+Cost @ iter 7: 0.182456
+Cost @ iter 8: 0.237433
+Cost @ iter 9: 0.237835
+Cost @ iter 10: 0.161762
+Cost @ iter 11: 0.195143
+Cost @ iter 12: 0.217112
+Cost @ iter 13: 0.181398
+Cost @ iter 14: 0.177696
+Cost @ iter 15: 0.173304
+Cost @ iter 16: 0.157523
+Cost @ iter 17: 0.153373
+Cost @ iter 18: 0.184085
+Cost @ iter 19: 0.166988
+Cost @ iter 20: 0.150628
+Cost @ iter 21: 0.145111

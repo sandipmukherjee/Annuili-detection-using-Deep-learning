@@ -1,0 +1,168 @@
+/usr/bin/python2.7 /home/anupamajha/TUMSecondSemester/DeepLearning/2013-DL-MrBlonde/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py
+getting data
+file opened
+data loading successful
+... building the model
+... training
+0
+training @ iter = 0, cost = 0.693147
+training @ iter = 100, cost = 0.376872
+training @ iter = 200, cost = 0.383871
+training @ iter = 300, cost = 0.336898
+training @ iter = 400, cost = 0.319864
+training @ iter = 500, cost = 0.302610
+training @ iter = 600, cost = 0.300547
+training @ iter = 700, cost = 0.310083
+training @ iter = 800, cost = 0.336191
+training @ iter = 900, cost = 0.303565
+training @ iter = 1000, cost = 0.306989
+training @ iter = 1100, cost = 0.306230
+epoch 1, minibatch 1112/1112, validation error 42.800000 %
+Confusion matrix: Validate Set
+[[477 210]
+ [218  95]]
+     epoch 1, minibatch 1112/1112, test error of best model 13.800000 %
+Confusion matrix: Test Set
+[[ 14  64]
+ [ 74 848]]
+1
+training @ iter = 1200, cost = 0.260215
+training @ iter = 1300, cost = 0.247868
+training @ iter = 1400, cost = 0.290516
+training @ iter = 1500, cost = 0.259317
+training @ iter = 1600, cost = 0.259545
+training @ iter = 1700, cost = 0.246940
+training @ iter = 1800, cost = 0.257187
+training @ iter = 1900, cost = 0.231204
+training @ iter = 2000, cost = 0.278799
+training @ iter = 2100, cost = 0.270849
+training @ iter = 2200, cost = 0.240757
+epoch 2, minibatch 1112/1112, validation error 43.700000 %
+Confusion matrix: Validate Set
+[[468 214]
+ [223  95]]
+2
+training @ iter = 2300, cost = 0.250983
+training @ iter = 2400, cost = 0.216283
+training @ iter = 2500, cost = 0.249899
+training @ iter = 2600, cost = 0.226076
+training @ iter = 2700, cost = 0.247485
+training @ iter = 2800, cost = 0.228603
+training @ iter = 2900, cost = 0.216410
+training @ iter = 3000, cost = 0.218452
+training @ iter = 3100, cost = 0.234005
+training @ iter = 3200, cost = 0.193523
+training @ iter = 3300, cost = 0.251844
+epoch 3, minibatch 1112/1112, validation error 43.800000 %
+Confusion matrix: Validate Set
+[[464 213]
+ [225  98]]
+3
+training @ iter = 3400, cost = 0.222951
+training @ iter = 3500, cost = 0.211217
+training @ iter = 3600, cost = 0.249037
+training @ iter = 3700, cost = 0.211760
+training @ iter = 3800, cost = 0.212395
+training @ iter = 3900, cost = 0.217206
+training @ iter = 4000, cost = 0.198897
+training @ iter = 4100, cost = 0.184070
+training @ iter = 4200, cost = 0.231985
+training @ iter = 4300, cost = 0.220144
+training @ iter = 4400, cost = 0.208115
+epoch 4, minibatch 1112/1112, validation error 43.700000 %
+Confusion matrix: Validate Set
+[[461 215]
+ [222 102]]
+4
+training @ iter = 4500, cost = 0.228702
+training @ iter = 4600, cost = 0.189886
+training @ iter = 4700, cost = 0.183820
+training @ iter = 4800, cost = 0.228279
+training @ iter = 4900, cost = 0.196636
+training @ iter = 5000, cost = 0.213818
+training @ iter = 5100, cost = 0.196842
+training @ iter = 5200, cost = 0.247546
+training @ iter = 5300, cost = 0.190773
+training @ iter = 5400, cost = 0.193789
+training @ iter = 5500, cost = 0.196424
+epoch 5, minibatch 1112/1112, validation error 43.500000 %
+Confusion matrix: Validate Set
+[[456 215]
+ [220 109]]
+5
+training @ iter = 5600, cost = 0.210512
+training @ iter = 5700, cost = 0.150730
+training @ iter = 5800, cost = 0.163725
+training @ iter = 5900, cost = 0.211197
+training @ iter = 6000, cost = 0.190781
+training @ iter = 6100, cost = 0.179807
+training @ iter = 6200, cost = 0.157522
+training @ iter = 6300, cost = 0.205601
+training @ iter = 6400, cost = 0.183959
+training @ iter = 6500, cost = 0.164121
+training @ iter = 6600, cost = 0.159822
+epoch 6, minibatch 1112/1112, validation error 43.100000 %
+Confusion matrix: Validate Set
+[[462 211]
+ [220 107]]
+6
+training @ iter = 6700, cost = 0.204428
+training @ iter = 6800, cost = 0.158661
+training @ iter = 6900, cost = 0.157962
+training @ iter = 7000, cost = 0.286963
+training @ iter = 7100, cost = 0.245062
+training @ iter = 7200, cost = 0.166573
+training @ iter = 7300, cost = 0.230054
+training @ iter = 7400, cost = 0.139373
+training @ iter = 7500, cost = 0.162561
+training @ iter = 7600, cost = 0.140110
+training @ iter = 7700, cost = 0.157252
+epoch 7, minibatch 1112/1112, validation error 42.600000 %
+Confusion matrix: Validate Set
+[[466 207]
+ [219 108]]
+     epoch 7, minibatch 1112/1112, test error of best model 6.100000 %
+Confusion matrix: Test Set
+[[  2  28]
+ [ 33 937]]
+7
+training @ iter = 7800, cost = 0.164749
+training @ iter = 7900, cost = 0.125628
+training @ iter = 8000, cost = 0.197483
+training @ iter = 8100, cost = 0.164624
+training @ iter = 8200, cost = 0.167554
+training @ iter = 8300, cost = 0.129946
+training @ iter = 8400, cost = 0.193706
+training @ iter = 8500, cost = 0.171921
+training @ iter = 8600, cost = 0.124215
+training @ iter = 8700, cost = 0.133497
+training @ iter = 8800, cost = 0.187358
+epoch 8, minibatch 1112/1112, validation error 42.700000 %
+Confusion matrix: Validate Set
+[[466 208]
+ [219 107]]
+8
+training @ iter = 8900, cost = 0.141167
+training @ iter = 9000, cost = 0.146870
+training @ iter = 9100, cost = 0.178814
+training @ iter = 9200, cost = 0.178667
+training @ iter = 9300, cost = 0.193511
+training @ iter = 9400, cost = 0.137233
+training @ iter = 9500, cost = 0.126581
+training @ iter = 9600, cost = 0.157439
+training @ iter = 9700, cost = 0.149216
+training @ iter = 9800, cost = 0.187969
+training @ iter = 9900, cost = 0.122055
+The code for file ConvolutionalNNMSGD.py ran for 163.43m
+training @ iter = 10000, cost = 0.145151
+Optimization complete.
+Best validation score of 42.600000 % obtained at iteration 7784,with test performance 6.100000 %
+Traceback (most recent call last):
+  File "/home/anupamajha/TUMSecondSemester/DeepLearning/2013-DL-MrBlonde/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py", line 413, in <module>
+    Visualize_errors(train_errors, "train2ch")
+  File "/home/anupamajha/TUMSecondSemester/DeepLearning/2013-DL-MrBlonde/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py", line 405, in Visualize_errors
+    matplotlib.pyplot.plot(x,errors_array)
+AttributeError: 'module' object has no attribute 'pyplot'
+
+Process finished with exit code 1
+

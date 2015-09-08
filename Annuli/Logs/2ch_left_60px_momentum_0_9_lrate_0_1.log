@@ -1,0 +1,21 @@
+Loading data succeeded
+Unpacked data
+Patch size: 	60
+Learning rate: 	0.1
+Momentum: 	0.9
+... building the model
+... training
+0
+training @ iter =  0
+Cost @ iter 0: 0.693147
+Cost @ iter 1: 0.385419
+Cost @ iter 2: 0.360832
+Cost @ iter 3: 0.259360
+Cost @ iter 4: 0.389180
+Cost @ iter 5: 0.276796
+Cost @ iter 6: 0.358994
+Cost @ iter 7: 0.335068
+Cost @ iter 8: 0.337129
+Cost @ iter 9: 0.387836
+Cost @ iter 10: 0.267710
+Cost @ iter 11: 0.243238

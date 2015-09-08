@@ -1,0 +1,74 @@
+Loading data succeeded
+Unpacked data
+Patch size:  60
+Learning rate: 0.1
+... building the model
+... training
+0
+training @ iter =  0
+Cost @ iter 0: 0.693147
+Cost @ iter 1: 0.453372
+Cost @ iter 2: 0.391583
+Cost @ iter 3: 0.342382
+Cost @ iter 4: 0.309373
+Cost @ iter 5: 0.290135
+Cost @ iter 6: 0.265187
+Cost @ iter 7: 0.233735
+Cost @ iter 8: 0.262154
+Cost @ iter 9: 0.262312
+Cost @ iter 10: 0.206233
+Cost @ iter 11: 0.221082
+Cost @ iter 12: 0.259077
+Cost @ iter 13: 0.228793
+Cost @ iter 14: 0.198727
+Cost @ iter 15: 0.223892
+Cost @ iter 16: 0.212209
+Cost @ iter 17: 0.197482
+Cost @ iter 18: 0.247347
+Cost @ iter 19: 0.228045
+Cost @ iter 20: 0.215569
+Cost @ iter 21: 0.190666
+Cost @ iter 22: 0.184165
+Cost @ iter 23: 0.170645
+Cost @ iter 24: 0.193660
+Cost @ iter 25: 0.203936
+Cost @ iter 26: 0.171846
+Cost @ iter 27: 0.192773
+Cost @ iter 28: 0.161574
+Cost @ iter 29: 0.191056
+Cost @ iter 30: 0.200539
+Cost @ iter 31: 0.159387
+Cost @ iter 32: 0.198776
+Cost @ iter 33: 0.143708
+Cost @ iter 34: 0.211183
+Cost @ iter 35: 0.190495
+Cost @ iter 36: 0.168056
+Cost @ iter 37: 0.196504
+Cost @ iter 38: 0.211708
+Cost @ iter 39: 0.213936
+Cost @ iter 40: 0.163729
+Cost @ iter 41: 0.170632
+Cost @ iter 42: 0.188611
+Cost @ iter 43: 0.148921
+Cost @ iter 44: 0.212514
+Cost @ iter 45: 0.158179
+Cost @ iter 46: 0.180883
+Cost @ iter 47: 0.171638
+Cost @ iter 48: 0.181809
+Cost @ iter 49: 0.173658
+Cost @ iter 50: 0.169433
+Cost @ iter 51: 0.153332
+Cost @ iter 52: 0.200583
+Cost @ iter 53: 0.155857
+Cost @ iter 54: 0.201012
+Cost @ iter 55: 0.174994
+Cost @ iter 56: 0.169839
+Cost @ iter 57: 0.185799
+Cost @ iter 58: 0.183339
+Cost @ iter 59: 0.128786
+Cost @ iter 60: 0.152071
+Cost @ iter 61: 0.151266
+Cost @ iter 62: 0.170125
+Cost @ iter 63: 0.196508
+epoch 1, minibatch 64/64, validation error 6.523810 %
+     epoch 1, minibatch 64/64, test error of best model 6.447619 %

@@ -1,0 +1,36 @@
+Loading data succeeded
+Unpacked data
+Patch size: 	60
+Learning rate: 	0.01
+Momentum: 	0.7
+... building the model
+... training
+0
+training @ iter =  0
+Cost @ iter 0: 0.693147
+Cost @ iter 1: 0.647177
+Cost @ iter 2: 0.588471
+Cost @ iter 3: 0.524669
+Cost @ iter 4: 0.464927
+Cost @ iter 5: 0.427470
+Cost @ iter 6: 0.387925
+Cost @ iter 7: 0.347432
+Cost @ iter 8: 0.356392
+Cost @ iter 9: 0.330261
+Cost @ iter 10: 0.287267
+Cost @ iter 11: 0.276729
+Cost @ iter 12: 0.321205
+Cost @ iter 13: 0.282451
+Cost @ iter 14: 0.238862
+Cost @ iter 15: 0.261144
+Cost @ iter 16: 0.254646
+Cost @ iter 17: 0.231343
+Cost @ iter 18: 0.269838
+Cost @ iter 19: 0.255582
+Cost @ iter 20: 0.248130
+Cost @ iter 21: 0.215249
+Cost @ iter 22: 0.220649
+Cost @ iter 23: 0.198556
+Cost @ iter 24: 0.215970
+Cost @ iter 25: 0.225531
+Cost @ iter 26: 0.200233

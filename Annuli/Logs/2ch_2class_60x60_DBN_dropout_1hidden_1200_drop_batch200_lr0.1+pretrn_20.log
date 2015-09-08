@@ -1,0 +1,30 @@
+DEBUG:root:... building the model
+DEBUG:root:... getting the pretraining functions
+DEBUG:root:... pre-training the model
+DEBUG:root:Pre-training layer 0, epoch 0, cost 84376.601115 
+DEBUG:root:Pre-training layer 0, epoch 1, cost 260013.978369 
+DEBUG:root:Pre-training layer 0, epoch 2, cost 436106.011585 
+DEBUG:root:Pre-training layer 0, epoch 3, cost 612371.187220 
+DEBUG:root:Pre-training layer 0, epoch 4, cost 788736.453013 
+DEBUG:root:Pre-training layer 0, epoch 5, cost 965168.423985 
+DEBUG:root:Pre-training layer 0, epoch 6, cost 1141646.872120 
+DEBUG:root:Pre-training layer 0, epoch 7, cost 1318161.807519 
+DEBUG:root:Pre-training layer 0, epoch 8, cost 1494703.189434 
+DEBUG:root:Pre-training layer 0, epoch 9, cost 1671268.299075 
+DEBUG:root:Pre-training layer 0, epoch 10, cost 1847850.592271 
+DEBUG:root:Pre-training layer 0, epoch 11, cost 2024451.004860 
+DEBUG:root:Pre-training layer 0, epoch 12, cost 2201070.678814 
+DEBUG:root:Pre-training layer 0, epoch 13, cost 2377705.282280 
+DEBUG:root:Pre-training layer 0, epoch 14, cost 2554351.595931 
+DEBUG:root:Pre-training layer 0, epoch 15, cost 2731010.312483 
+DEBUG:root:Pre-training layer 0, epoch 16, cost 2907681.872625 
+DEBUG:root:Pre-training layer 0, epoch 17, cost 3084365.584446 
+DEBUG:root:Pre-training layer 0, epoch 18, cost 3261059.743408 
+DEBUG:root:Pre-training layer 0, epoch 19, cost 3437762.491104 
+DEBUG:root:... getting the finetuning functions
+DEBUG:root:... finetunning the model
+DEBUG:root:epoch 1, minibatch 92/92, validation error 38.200000 %
+DEBUG:root:epoch 2, minibatch 92/92, validation error 36.550000 %
+DEBUG:root:epoch 3, minibatch 92/92, validation error 35.500000 %
+DEBUG:root:epoch 4, minibatch 92/92, validation error 42.716667 %
+DEBUG:root:epoch 5, minibatch 92/92, validation error 36.766667 %

@@ -1,0 +1,110 @@
+/usr/bin/python2.7 /home/anupamajha/TUMSecondSemester/DeepLearning/annuli/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py
+getting data
+file opened
+data loading successful
+... building the model
+... training
+0
+training @ iter = 0, cost = 0.693147
+training @ iter = 100, cost = 0.092801
+training @ iter = 200, cost = 0.104941
+training @ iter = 300, cost = 0.061225
+training @ iter = 400, cost = 0.073485
+training @ iter = 500, cost = 0.088485
+training @ iter = 600, cost = 0.111786
+epoch 1, minibatch 666/666, validation error 3.400000 %
+Confusion matrix: Validate Set
+[[965  23]
+ [ 11   1]]
+     epoch 1, minibatch 666/666, test error of best model 2.100000 %
+Confusion matrix: Test Set
+[[977  13]
+ [  8   2]]
+1
+training @ iter = 700, cost = 0.089096
+training @ iter = 800, cost = 0.067423
+training @ iter = 900, cost = 0.081385
+training @ iter = 1000, cost = 0.075737
+training @ iter = 1100, cost = 0.056583
+training @ iter = 1200, cost = 0.085818
+training @ iter = 1300, cost = 0.086842
+epoch 2, minibatch 666/666, validation error 3.800000 %
+Confusion matrix: Validate Set
+[[961  25]
+ [ 13   1]]
+2
+training @ iter = 1400, cost = 0.074509
+training @ iter = 1500, cost = 0.052694
+training @ iter = 1600, cost = 0.056394
+training @ iter = 1700, cost = 0.055951
+training @ iter = 1800, cost = 0.050581
+training @ iter = 1900, cost = 0.077991
+epoch 3, minibatch 666/666, validation error 4.100000 %
+Confusion matrix: Validate Set
+[[958  26]
+ [ 15   1]]
+3
+training @ iter = 2000, cost = 0.050809
+training @ iter = 2100, cost = 0.070878
+training @ iter = 2200, cost = 0.069075
+training @ iter = 2300, cost = 0.056607
+training @ iter = 2400, cost = 0.061259
+training @ iter = 2500, cost = 0.072615
+training @ iter = 2600, cost = 0.062448
+epoch 4, minibatch 666/666, validation error 4.300000 %
+Confusion matrix: Validate Set
+[[956  28]
+ [ 15   1]]
+4
+training @ iter = 2700, cost = 0.072144
+training @ iter = 2800, cost = 0.052665
+training @ iter = 2900, cost = 0.055274
+training @ iter = 3000, cost = 0.051293
+training @ iter = 3100, cost = 0.061035
+training @ iter = 3200, cost = 0.070362
+training @ iter = 3300, cost = 0.067199
+epoch 5, minibatch 666/666, validation error 4.400000 %
+Confusion matrix: Validate Set
+[[954  29]
+ [ 15   2]]
+5
+training @ iter = 3400, cost = 0.064583
+training @ iter = 3500, cost = 0.044016
+training @ iter = 3600, cost = 0.086737
+training @ iter = 3700, cost = 0.044895
+training @ iter = 3800, cost = 0.074358
+training @ iter = 3900, cost = 0.053447
+epoch 6, minibatch 666/666, validation error 4.900000 %
+Confusion matrix: Validate Set
+[[949  33]
+ [ 16   2]]
+6
+training @ iter = 4000, cost = 0.072623
+training @ iter = 4100, cost = 0.071111
+training @ iter = 4200, cost = 0.054029
+training @ iter = 4300, cost = 0.068707
+training @ iter = 4400, cost = 0.086975
+training @ iter = 4500, cost = 0.035127
+training @ iter = 4600, cost = 0.034277
+epoch 7, minibatch 666/666, validation error 4.900000 %
+Confusion matrix: Validate Set
+[[949  34]
+ [ 15   2]]
+7
+training @ iter = 4700, cost = 0.058393
+training @ iter = 4800, cost = 0.042748
+training @ iter = 4900, cost = 0.044214
+training @ iter = 5000, cost = 0.045799
+Traceback (most recent call last):
+  File "/home/anupamajha/TUMSecondSemester/DeepLearning/annuli/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py", line 411, in <module>
+    best_params, train_errors, test_errors, validate_errors = evaluate_lenet5()
+  File "/home/anupamajha/TUMSecondSemester/DeepLearning/annuli/Annuli/NeuralNetwork/ConvolutionalNNMSGD.py", line 315, in evaluate_lenet5
+    cost_ij = train_model(minibatch_index)
+  File "/usr/local/lib/python2.7/dist-packages/theano/compile/function_module.py", line 580, in __call__
+    outputs = self.fn()
+  File "/usr/local/lib/python2.7/dist-packages/theano/gof/op.py", line 605, in rval
+    def rval(p=p, i=node_input_storage, o=node_output_storage, n=node):
+KeyboardInterrupt
+
+Process finished with exit code 1
+

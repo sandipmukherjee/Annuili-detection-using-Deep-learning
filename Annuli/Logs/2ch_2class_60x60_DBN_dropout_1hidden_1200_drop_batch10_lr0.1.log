@@ -1,0 +1,9 @@
+DEBUG:root:... building the model
+DEBUG:root:... getting the pretraining functions
+DEBUG:root:... pre-training the model
+DEBUG:root:... getting the finetuning functions
+DEBUG:root:... finetunning the model
+DEBUG:root:epoch 1, minibatch 1856/1856, validation error 45.631068 %
+DEBUG:root:epoch 2, minibatch 1856/1856, validation error 42.491909 %
+DEBUG:root:epoch 3, minibatch 1856/1856, validation error 42.766990 %
+DEBUG:root:epoch 4, minibatch 1856/1856, validation error 43.964401 %

@@ -1,0 +1,673 @@
+DEBUG:root:... building the model
+DEBUG:root:... getting the pretraining functions
+DEBUG:root:... pre-training the model
+DEBUG:root:Pre-training layer 0, epoch 0, cost 32000.309021 
+DEBUG:root:Pre-training layer 0, epoch 1, cost 102310.939437 
+DEBUG:root:Pre-training layer 0, epoch 2, cost 172865.206020 
+DEBUG:root:Pre-training layer 0, epoch 3, cost 243527.587392 
+DEBUG:root:Pre-training layer 0, epoch 4, cost 314262.804686 
+DEBUG:root:Pre-training layer 0, epoch 5, cost 385051.929802 
+DEBUG:root:Pre-training layer 0, epoch 6, cost 455879.114982 
+DEBUG:root:Pre-training layer 0, epoch 7, cost 526732.635972 
+DEBUG:root:Pre-training layer 0, epoch 8, cost 597608.412446 
+DEBUG:root:Pre-training layer 0, epoch 9, cost 668502.673124 
+DEBUG:root:Pre-training layer 0, epoch 10, cost 739413.206060 
+DEBUG:root:Pre-training layer 0, epoch 11, cost 810337.973100 
+DEBUG:root:Pre-training layer 0, epoch 12, cost 881274.632991 
+DEBUG:root:Pre-training layer 0, epoch 13, cost 952220.758813 
+DEBUG:root:Pre-training layer 0, epoch 14, cost 1023176.931150 
+DEBUG:root:Pre-training layer 0, epoch 15, cost 1094141.351441 
+DEBUG:root:Pre-training layer 0, epoch 16, cost 1165112.439124 
+DEBUG:root:Pre-training layer 0, epoch 17, cost 1236090.228277 
+DEBUG:root:Pre-training layer 0, epoch 18, cost 1307074.127602 
+DEBUG:root:Pre-training layer 0, epoch 19, cost 1378063.376640 
+DEBUG:root:Pre-training layer 0, epoch 20, cost 1449056.733301 
+DEBUG:root:Pre-training layer 0, epoch 21, cost 1520055.011641 
+DEBUG:root:Pre-training layer 0, epoch 22, cost 1591057.476579 
+DEBUG:root:Pre-training layer 0, epoch 23, cost 1662063.010671 
+DEBUG:root:Pre-training layer 0, epoch 24, cost 1733074.221422 
+DEBUG:root:Pre-training layer 0, epoch 25, cost 1804087.580094 
+DEBUG:root:Pre-training layer 0, epoch 26, cost 1875105.652494 
+DEBUG:root:Pre-training layer 0, epoch 27, cost 1946127.673002 
+DEBUG:root:Pre-training layer 0, epoch 28, cost 2017152.386891 
+DEBUG:root:Pre-training layer 0, epoch 29, cost 2088179.222488 
+DEBUG:root:... getting the finetuning functions
+DEBUG:root:... finetunning the model
+DEBUG:root:epoch 1, minibatch 37/37, validation error 38.450000 %
+DEBUG:root:epoch 2, minibatch 37/37, validation error 36.566667 %
+DEBUG:root:epoch 3, minibatch 37/37, validation error 36.716667 %
+DEBUG:root:epoch 4, minibatch 37/37, validation error 39.316667 %
+DEBUG:root:epoch 5, minibatch 37/37, validation error 36.700000 %
+DEBUG:root:epoch 6, minibatch 37/37, validation error 44.583333 %
+DEBUG:root:epoch 7, minibatch 37/37, validation error 36.966667 %
+DEBUG:root:epoch 8, minibatch 37/37, validation error 36.616667 %
+DEBUG:root:epoch 9, minibatch 37/37, validation error 37.266667 %
+DEBUG:root:epoch 10, minibatch 37/37, validation error 41.850000 %
+DEBUG:root:epoch 11, minibatch 37/37, validation error 36.783333 %
+DEBUG:root:epoch 12, minibatch 37/37, validation error 36.400000 %
+DEBUG:root:epoch 13, minibatch 37/37, validation error 36.916667 %
+DEBUG:root:epoch 14, minibatch 37/37, validation error 44.933333 %
+DEBUG:root:epoch 15, minibatch 37/37, validation error 36.750000 %
+DEBUG:root:epoch 16, minibatch 37/37, validation error 36.433333 %
+DEBUG:root:epoch 17, minibatch 37/37, validation error 36.633333 %
+DEBUG:root:epoch 18, minibatch 37/37, validation error 36.966667 %
+DEBUG:root:epoch 19, minibatch 37/37, validation error 44.266667 %
+DEBUG:root:epoch 20, minibatch 37/37, validation error 44.216667 %
+DEBUG:root:epoch 21, minibatch 37/37, validation error 44.900000 %
+DEBUG:root:epoch 22, minibatch 37/37, validation error 40.566667 %
+DEBUG:root:epoch 23, minibatch 37/37, validation error 36.433333 %
+DEBUG:root:epoch 24, minibatch 37/37, validation error 41.716667 %
+DEBUG:root:epoch 25, minibatch 37/37, validation error 42.166667 %
+DEBUG:root:epoch 26, minibatch 37/37, validation error 39.600000 %
+DEBUG:root:epoch 27, minibatch 37/37, validation error 43.533333 %
+DEBUG:root:epoch 28, minibatch 37/37, validation error 43.600000 %
+DEBUG:root:epoch 29, minibatch 37/37, validation error 43.683333 %
+DEBUG:root:epoch 30, minibatch 37/37, validation error 41.466667 %
+DEBUG:root:epoch 31, minibatch 37/37, validation error 44.300000 %
+DEBUG:root:epoch 32, minibatch 37/37, validation error 43.216667 %
+DEBUG:root:epoch 33, minibatch 37/37, validation error 40.583333 %
+DEBUG:root:epoch 34, minibatch 37/37, validation error 44.050000 %
+DEBUG:root:... building the model
+DEBUG:root:... getting the pretraining functions
+DEBUG:root:... pre-training the model
+DEBUG:root:Pre-training layer 0, epoch 0, cost 32000.309021 
+DEBUG:root:Pre-training layer 0, epoch 1, cost 102310.939437 
+DEBUG:root:Pre-training layer 0, epoch 2, cost 172865.206020 
+DEBUG:root:Pre-training layer 0, epoch 3, cost 243527.587392 
+DEBUG:root:Pre-training layer 0, epoch 4, cost 314262.804686 
+DEBUG:root:Pre-training layer 0, epoch 5, cost 385051.929802 
+DEBUG:root:Pre-training layer 0, epoch 6, cost 455879.114982 
+DEBUG:root:Pre-training layer 0, epoch 7, cost 526732.635972 
+DEBUG:root:Pre-training layer 0, epoch 8, cost 597608.412446 
+DEBUG:root:Pre-training layer 0, epoch 9, cost 668502.673124 
+DEBUG:root:Pre-training layer 0, epoch 10, cost 739413.206060 
+DEBUG:root:Pre-training layer 0, epoch 11, cost 810337.973100 
+DEBUG:root:Pre-training layer 0, epoch 12, cost 881274.632991 
+DEBUG:root:Pre-training layer 0, epoch 13, cost 952220.758813 
+DEBUG:root:Pre-training layer 0, epoch 14, cost 1023176.931150 
+DEBUG:root:Pre-training layer 0, epoch 15, cost 1094141.351441 
+DEBUG:root:Pre-training layer 0, epoch 16, cost 1165112.439124 
+DEBUG:root:Pre-training layer 0, epoch 17, cost 1236090.228277 
+DEBUG:root:Pre-training layer 0, epoch 18, cost 1307074.127602 
+DEBUG:root:Pre-training layer 0, epoch 19, cost 1378063.376640 
+DEBUG:root:Pre-training layer 0, epoch 20, cost 1449056.733301 
+DEBUG:root:Pre-training layer 0, epoch 21, cost 1520055.011641 
+DEBUG:root:Pre-training layer 0, epoch 22, cost 1591057.476579 
+DEBUG:root:Pre-training layer 0, epoch 23, cost 1662063.010671 
+DEBUG:root:Pre-training layer 0, epoch 24, cost 1733074.221422 
+DEBUG:root:Pre-training layer 0, epoch 25, cost 1804087.580094 
+DEBUG:root:Pre-training layer 0, epoch 26, cost 1875105.652494 
+DEBUG:root:Pre-training layer 0, epoch 27, cost 1946127.673002 
+DEBUG:root:Pre-training layer 0, epoch 28, cost 2017152.386891 
+DEBUG:root:Pre-training layer 0, epoch 29, cost 2088179.222488 
+DEBUG:root:Pre-training layer 1, epoch 0, cost -612.164472 
+DEBUG:root:Pre-training layer 1, epoch 1, cost -555.006761 
+DEBUG:root:Pre-training layer 1, epoch 2, cost -550.107355 
+DEBUG:root:Pre-training layer 1, epoch 3, cost -547.570917 
+DEBUG:root:Pre-training layer 1, epoch 4, cost -546.102441 
+DEBUG:root:Pre-training layer 1, epoch 5, cost -545.221819 
+DEBUG:root:Pre-training layer 1, epoch 6, cost -544.474403 
+DEBUG:root:Pre-training layer 1, epoch 7, cost -543.805597 
+DEBUG:root:Pre-training layer 1, epoch 8, cost -543.208037 
+DEBUG:root:Pre-training layer 1, epoch 9, cost -542.676938 
+DEBUG:root:Pre-training layer 1, epoch 10, cost -542.295064 
+DEBUG:root:Pre-training layer 1, epoch 11, cost -542.059123 
+DEBUG:root:Pre-training layer 1, epoch 12, cost -541.798707 
+DEBUG:root:Pre-training layer 1, epoch 13, cost -541.622474 
+DEBUG:root:Pre-training layer 1, epoch 14, cost -541.426251 
+DEBUG:root:Pre-training layer 1, epoch 15, cost -541.271564 
+DEBUG:root:Pre-training layer 1, epoch 16, cost -541.172848 
+DEBUG:root:Pre-training layer 1, epoch 17, cost -541.005404 
+DEBUG:root:Pre-training layer 1, epoch 18, cost -540.969255 
+DEBUG:root:Pre-training layer 1, epoch 19, cost -540.856680 
+DEBUG:root:Pre-training layer 1, epoch 20, cost -540.736284 
+DEBUG:root:Pre-training layer 1, epoch 21, cost -540.651400 
+DEBUG:root:Pre-training layer 1, epoch 22, cost -540.629627 
+DEBUG:root:Pre-training layer 1, epoch 23, cost -540.543039 
+DEBUG:root:Pre-training layer 1, epoch 24, cost -540.550809 
+DEBUG:root:Pre-training layer 1, epoch 25, cost -540.457686 
+DEBUG:root:Pre-training layer 1, epoch 26, cost -540.411765 
+DEBUG:root:Pre-training layer 1, epoch 27, cost -540.413838 
+DEBUG:root:Pre-training layer 1, epoch 28, cost -540.312288 
+DEBUG:root:Pre-training layer 1, epoch 29, cost -540.274958 
+DEBUG:root:... getting the finetuning functions
+DEBUG:root:... finetunning the model
+DEBUG:root:epoch 1, minibatch 37/37, validation error 41.000000 %
+DEBUG:root:epoch 2, minibatch 37/37, validation error 39.900000 %
+DEBUG:root:epoch 3, minibatch 37/37, validation error 41.233333 %
+DEBUG:root:epoch 4, minibatch 37/37, validation error 41.333333 %
+DEBUG:root:epoch 5, minibatch 37/37, validation error 40.433333 %
+DEBUG:root:epoch 6, minibatch 37/37, validation error 40.066667 %
+DEBUG:root:epoch 7, minibatch 37/37, validation error 39.883333 %
+DEBUG:root:epoch 8, minibatch 37/37, validation error 38.750000 %
+DEBUG:root:epoch 9, minibatch 37/37, validation error 40.166667 %
+DEBUG:root:epoch 10, minibatch 37/37, validation error 39.933333 %
+DEBUG:root:epoch 11, minibatch 37/37, validation error 40.216667 %
+DEBUG:root:epoch 12, minibatch 37/37, validation error 39.683333 %
+DEBUG:root:epoch 13, minibatch 37/37, validation error 39.183333 %
+DEBUG:root:epoch 14, minibatch 37/37, validation error 38.433333 %
+DEBUG:root:epoch 15, minibatch 37/37, validation error 39.200000 %
+DEBUG:root:epoch 16, minibatch 37/37, validation error 38.550000 %
+DEBUG:root:epoch 17, minibatch 37/37, validation error 37.983333 %
+DEBUG:root:epoch 18, minibatch 37/37, validation error 38.500000 %
+DEBUG:root:epoch 19, minibatch 37/37, validation error 37.800000 %
+DEBUG:root:epoch 20, minibatch 37/37, validation error 37.816667 %
+DEBUG:root:epoch 21, minibatch 37/37, validation error 37.783333 %
+DEBUG:root:epoch 22, minibatch 37/37, validation error 37.133333 %
+DEBUG:root:epoch 23, minibatch 37/37, validation error 37.483333 %
+DEBUG:root:epoch 24, minibatch 37/37, validation error 37.833333 %
+DEBUG:root:epoch 25, minibatch 37/37, validation error 37.433333 %
+DEBUG:root:epoch 26, minibatch 37/37, validation error 37.300000 %
+DEBUG:root:epoch 27, minibatch 37/37, validation error 36.633333 %
+DEBUG:root:epoch 28, minibatch 37/37, validation error 37.800000 %
+DEBUG:root:epoch 29, minibatch 37/37, validation error 36.500000 %
+DEBUG:root:epoch 30, minibatch 37/37, validation error 37.266667 %
+DEBUG:root:epoch 31, minibatch 37/37, validation error 37.233333 %
+DEBUG:root:epoch 32, minibatch 37/37, validation error 36.000000 %
+DEBUG:root:epoch 33, minibatch 37/37, validation error 36.100000 %
+DEBUG:root:epoch 34, minibatch 37/37, validation error 37.483333 %
+DEBUG:root:epoch 35, minibatch 37/37, validation error 35.766667 %
+DEBUG:root:epoch 36, minibatch 37/37, validation error 36.450000 %
+DEBUG:root:epoch 37, minibatch 37/37, validation error 35.666667 %
+DEBUG:root:epoch 38, minibatch 37/37, validation error 35.216667 %
+DEBUG:root:epoch 39, minibatch 37/37, validation error 37.183333 %
+DEBUG:root:epoch 40, minibatch 37/37, validation error 34.983333 %
+DEBUG:root:epoch 41, minibatch 37/37, validation error 35.683333 %
+DEBUG:root:epoch 42, minibatch 37/37, validation error 35.850000 %
+DEBUG:root:epoch 43, minibatch 37/37, validation error 35.816667 %
+DEBUG:root:epoch 44, minibatch 37/37, validation error 35.050000 %
+DEBUG:root:epoch 45, minibatch 37/37, validation error 35.366667 %
+DEBUG:root:epoch 46, minibatch 37/37, validation error 35.583333 %
+DEBUG:root:epoch 47, minibatch 37/37, validation error 35.383333 %
+DEBUG:root:epoch 48, minibatch 37/37, validation error 35.500000 %
+DEBUG:root:epoch 49, minibatch 37/37, validation error 35.266667 %
+DEBUG:root:epoch 50, minibatch 37/37, validation error 35.300000 %
+DEBUG:root:epoch 51, minibatch 37/37, validation error 34.466667 %
+DEBUG:root:epoch 52, minibatch 37/37, validation error 34.666667 %
+DEBUG:root:epoch 53, minibatch 37/37, validation error 35.500000 %
+DEBUG:root:epoch 54, minibatch 37/37, validation error 34.666667 %
+DEBUG:root:epoch 55, minibatch 37/37, validation error 35.100000 %
+DEBUG:root:epoch 56, minibatch 37/37, validation error 35.250000 %
+DEBUG:root:epoch 57, minibatch 37/37, validation error 35.200000 %
+DEBUG:root:epoch 58, minibatch 37/37, validation error 34.483333 %
+DEBUG:root:epoch 59, minibatch 37/37, validation error 35.450000 %
+DEBUG:root:epoch 60, minibatch 37/37, validation error 33.850000 %
+DEBUG:root:epoch 61, minibatch 37/37, validation error 34.766667 %
+DEBUG:root:epoch 62, minibatch 37/37, validation error 34.116667 %
+DEBUG:root:epoch 63, minibatch 37/37, validation error 33.850000 %
+DEBUG:root:epoch 64, minibatch 37/37, validation error 35.316667 %
+DEBUG:root:epoch 65, minibatch 37/37, validation error 34.666667 %
+DEBUG:root:epoch 66, minibatch 37/37, validation error 34.483333 %
+DEBUG:root:epoch 67, minibatch 37/37, validation error 33.616667 %
+DEBUG:root:epoch 68, minibatch 37/37, validation error 34.666667 %
+DEBUG:root:epoch 69, minibatch 37/37, validation error 34.266667 %
+DEBUG:root:epoch 70, minibatch 37/37, validation error 34.483333 %
+DEBUG:root:epoch 71, minibatch 37/37, validation error 33.216667 %
+DEBUG:root:epoch 72, minibatch 37/37, validation error 33.750000 %
+DEBUG:root:epoch 73, minibatch 37/37, validation error 34.000000 %
+DEBUG:root:epoch 74, minibatch 37/37, validation error 34.650000 %
+DEBUG:root:epoch 75, minibatch 37/37, validation error 35.250000 %
+DEBUG:root:epoch 76, minibatch 37/37, validation error 33.483333 %
+DEBUG:root:epoch 77, minibatch 37/37, validation error 33.266667 %
+DEBUG:root:epoch 78, minibatch 37/37, validation error 34.116667 %
+DEBUG:root:epoch 79, minibatch 37/37, validation error 34.500000 %
+DEBUG:root:epoch 80, minibatch 37/37, validation error 33.766667 %
+DEBUG:root:epoch 81, minibatch 37/37, validation error 33.950000 %
+DEBUG:root:epoch 82, minibatch 37/37, validation error 33.616667 %
+DEBUG:root:epoch 83, minibatch 37/37, validation error 32.683333 %
+DEBUG:root:epoch 84, minibatch 37/37, validation error 33.466667 %
+DEBUG:root:epoch 85, minibatch 37/37, validation error 33.850000 %
+DEBUG:root:epoch 86, minibatch 37/37, validation error 33.716667 %
+DEBUG:root:epoch 87, minibatch 37/37, validation error 33.266667 %
+DEBUG:root:epoch 88, minibatch 37/37, validation error 34.016667 %
+DEBUG:root:epoch 89, minibatch 37/37, validation error 33.733333 %
+DEBUG:root:epoch 90, minibatch 37/37, validation error 33.916667 %
+DEBUG:root:epoch 91, minibatch 37/37, validation error 33.183333 %
+DEBUG:root:epoch 92, minibatch 37/37, validation error 32.683333 %
+DEBUG:root:epoch 93, minibatch 37/37, validation error 33.066667 %
+DEBUG:root:epoch 94, minibatch 37/37, validation error 33.350000 %
+DEBUG:root:epoch 95, minibatch 37/37, validation error 33.866667 %
+DEBUG:root:epoch 96, minibatch 37/37, validation error 33.216667 %
+DEBUG:root:epoch 97, minibatch 37/37, validation error 33.000000 %
+DEBUG:root:epoch 98, minibatch 37/37, validation error 32.700000 %
+DEBUG:root:epoch 99, minibatch 37/37, validation error 32.233333 %
+DEBUG:root:epoch 100, minibatch 37/37, validation error 32.733333 %
+DEBUG:root:epoch 101, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 102, minibatch 37/37, validation error 34.083333 %
+DEBUG:root:epoch 103, minibatch 37/37, validation error 32.783333 %
+DEBUG:root:epoch 104, minibatch 37/37, validation error 33.433333 %
+DEBUG:root:epoch 105, minibatch 37/37, validation error 32.716667 %
+DEBUG:root:epoch 106, minibatch 37/37, validation error 32.866667 %
+DEBUG:root:epoch 107, minibatch 37/37, validation error 33.183333 %
+DEBUG:root:epoch 108, minibatch 37/37, validation error 33.133333 %
+DEBUG:root:epoch 109, minibatch 37/37, validation error 32.783333 %
+DEBUG:root:epoch 110, minibatch 37/37, validation error 32.266667 %
+DEBUG:root:epoch 111, minibatch 37/37, validation error 33.066667 %
+DEBUG:root:epoch 112, minibatch 37/37, validation error 32.966667 %
+DEBUG:root:epoch 113, minibatch 37/37, validation error 32.050000 %
+DEBUG:root:epoch 114, minibatch 37/37, validation error 32.833333 %
+DEBUG:root:epoch 115, minibatch 37/37, validation error 31.883333 %
+DEBUG:root:epoch 116, minibatch 37/37, validation error 32.466667 %
+DEBUG:root:epoch 117, minibatch 37/37, validation error 33.300000 %
+DEBUG:root:epoch 118, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 119, minibatch 37/37, validation error 31.966667 %
+DEBUG:root:epoch 120, minibatch 37/37, validation error 32.850000 %
+DEBUG:root:epoch 121, minibatch 37/37, validation error 32.916667 %
+DEBUG:root:epoch 122, minibatch 37/37, validation error 32.600000 %
+DEBUG:root:epoch 123, minibatch 37/37, validation error 32.866667 %
+DEBUG:root:epoch 124, minibatch 37/37, validation error 32.483333 %
+DEBUG:root:epoch 125, minibatch 37/37, validation error 32.016667 %
+DEBUG:root:epoch 126, minibatch 37/37, validation error 32.283333 %
+DEBUG:root:epoch 127, minibatch 37/37, validation error 32.116667 %
+DEBUG:root:epoch 128, minibatch 37/37, validation error 32.100000 %
+DEBUG:root:epoch 129, minibatch 37/37, validation error 32.833333 %
+DEBUG:root:epoch 130, minibatch 37/37, validation error 32.166667 %
+DEBUG:root:epoch 131, minibatch 37/37, validation error 32.616667 %
+DEBUG:root:epoch 132, minibatch 37/37, validation error 32.366667 %
+DEBUG:root:epoch 133, minibatch 37/37, validation error 32.366667 %
+DEBUG:root:epoch 134, minibatch 37/37, validation error 32.983333 %
+DEBUG:root:epoch 135, minibatch 37/37, validation error 32.666667 %
+DEBUG:root:epoch 136, minibatch 37/37, validation error 32.683333 %
+DEBUG:root:epoch 137, minibatch 37/37, validation error 31.983333 %
+DEBUG:root:epoch 138, minibatch 37/37, validation error 32.133333 %
+DEBUG:root:epoch 139, minibatch 37/37, validation error 32.483333 %
+DEBUG:root:epoch 140, minibatch 37/37, validation error 32.083333 %
+DEBUG:root:epoch 141, minibatch 37/37, validation error 33.183333 %
+DEBUG:root:epoch 142, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 143, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 144, minibatch 37/37, validation error 32.550000 %
+DEBUG:root:epoch 145, minibatch 37/37, validation error 32.850000 %
+DEBUG:root:epoch 146, minibatch 37/37, validation error 32.683333 %
+DEBUG:root:epoch 147, minibatch 37/37, validation error 31.933333 %
+DEBUG:root:epoch 148, minibatch 37/37, validation error 33.066667 %
+DEBUG:root:epoch 149, minibatch 37/37, validation error 32.150000 %
+DEBUG:root:epoch 150, minibatch 37/37, validation error 31.866667 %
+DEBUG:root:epoch 151, minibatch 37/37, validation error 32.966667 %
+DEBUG:root:epoch 152, minibatch 37/37, validation error 32.000000 %
+DEBUG:root:epoch 153, minibatch 37/37, validation error 32.716667 %
+DEBUG:root:epoch 154, minibatch 37/37, validation error 32.633333 %
+DEBUG:root:epoch 155, minibatch 37/37, validation error 32.150000 %
+DEBUG:root:epoch 156, minibatch 37/37, validation error 32.966667 %
+DEBUG:root:epoch 157, minibatch 37/37, validation error 31.700000 %
+DEBUG:root:epoch 158, minibatch 37/37, validation error 32.150000 %
+DEBUG:root:epoch 159, minibatch 37/37, validation error 32.016667 %
+DEBUG:root:epoch 160, minibatch 37/37, validation error 31.250000 %
+DEBUG:root:epoch 161, minibatch 37/37, validation error 32.516667 %
+DEBUG:root:epoch 162, minibatch 37/37, validation error 32.233333 %
+DEBUG:root:epoch 163, minibatch 37/37, validation error 32.266667 %
+DEBUG:root:epoch 164, minibatch 37/37, validation error 32.350000 %
+DEBUG:root:epoch 165, minibatch 37/37, validation error 31.666667 %
+DEBUG:root:epoch 166, minibatch 37/37, validation error 31.433333 %
+DEBUG:root:epoch 167, minibatch 37/37, validation error 31.700000 %
+DEBUG:root:epoch 168, minibatch 37/37, validation error 32.216667 %
+DEBUG:root:epoch 169, minibatch 37/37, validation error 31.950000 %
+DEBUG:root:epoch 170, minibatch 37/37, validation error 32.100000 %
+DEBUG:root:epoch 171, minibatch 37/37, validation error 32.383333 %
+DEBUG:root:epoch 172, minibatch 37/37, validation error 32.183333 %
+DEBUG:root:epoch 173, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 174, minibatch 37/37, validation error 32.050000 %
+DEBUG:root:epoch 175, minibatch 37/37, validation error 32.050000 %
+DEBUG:root:epoch 176, minibatch 37/37, validation error 32.066667 %
+DEBUG:root:epoch 177, minibatch 37/37, validation error 32.450000 %
+DEBUG:root:epoch 178, minibatch 37/37, validation error 32.583333 %
+DEBUG:root:epoch 179, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 180, minibatch 37/37, validation error 32.650000 %
+DEBUG:root:epoch 181, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 182, minibatch 37/37, validation error 31.483333 %
+DEBUG:root:epoch 183, minibatch 37/37, validation error 31.683333 %
+DEBUG:root:epoch 184, minibatch 37/37, validation error 32.150000 %
+DEBUG:root:epoch 185, minibatch 37/37, validation error 32.383333 %
+DEBUG:root:epoch 186, minibatch 37/37, validation error 31.400000 %
+DEBUG:root:epoch 187, minibatch 37/37, validation error 32.466667 %
+DEBUG:root:epoch 188, minibatch 37/37, validation error 32.116667 %
+DEBUG:root:epoch 189, minibatch 37/37, validation error 31.616667 %
+DEBUG:root:epoch 190, minibatch 37/37, validation error 31.866667 %
+DEBUG:root:epoch 191, minibatch 37/37, validation error 31.816667 %
+DEBUG:root:epoch 192, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 193, minibatch 37/37, validation error 32.016667 %
+DEBUG:root:epoch 194, minibatch 37/37, validation error 31.650000 %
+DEBUG:root:epoch 195, minibatch 37/37, validation error 32.166667 %
+DEBUG:root:epoch 196, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 197, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 198, minibatch 37/37, validation error 32.033333 %
+DEBUG:root:epoch 199, minibatch 37/37, validation error 32.266667 %
+DEBUG:root:epoch 200, minibatch 37/37, validation error 32.350000 %
+DEBUG:root:epoch 201, minibatch 37/37, validation error 31.983333 %
+DEBUG:root:epoch 202, minibatch 37/37, validation error 32.216667 %
+DEBUG:root:epoch 203, minibatch 37/37, validation error 31.733333 %
+DEBUG:root:epoch 204, minibatch 37/37, validation error 31.650000 %
+DEBUG:root:epoch 205, minibatch 37/37, validation error 32.133333 %
+DEBUG:root:epoch 206, minibatch 37/37, validation error 32.100000 %
+DEBUG:root:epoch 207, minibatch 37/37, validation error 31.733333 %
+DEBUG:root:epoch 208, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 209, minibatch 37/37, validation error 30.583333 %
+DEBUG:root:epoch 210, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 211, minibatch 37/37, validation error 32.066667 %
+DEBUG:root:epoch 212, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 213, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 214, minibatch 37/37, validation error 31.650000 %
+DEBUG:root:epoch 215, minibatch 37/37, validation error 31.550000 %
+DEBUG:root:epoch 216, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 217, minibatch 37/37, validation error 32.266667 %
+DEBUG:root:epoch 218, minibatch 37/37, validation error 31.866667 %
+DEBUG:root:epoch 219, minibatch 37/37, validation error 32.000000 %
+DEBUG:root:epoch 220, minibatch 37/37, validation error 31.966667 %
+DEBUG:root:epoch 221, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 222, minibatch 37/37, validation error 31.433333 %
+DEBUG:root:epoch 223, minibatch 37/37, validation error 31.450000 %
+DEBUG:root:epoch 224, minibatch 37/37, validation error 32.116667 %
+DEBUG:root:epoch 225, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 226, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 227, minibatch 37/37, validation error 30.850000 %
+DEBUG:root:epoch 228, minibatch 37/37, validation error 32.450000 %
+DEBUG:root:epoch 229, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 230, minibatch 37/37, validation error 32.333333 %
+DEBUG:root:epoch 231, minibatch 37/37, validation error 31.900000 %
+DEBUG:root:epoch 232, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 233, minibatch 37/37, validation error 32.050000 %
+DEBUG:root:epoch 234, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 235, minibatch 37/37, validation error 30.516667 %
+DEBUG:root:epoch 236, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 237, minibatch 37/37, validation error 31.833333 %
+DEBUG:root:epoch 238, minibatch 37/37, validation error 31.133333 %
+DEBUG:root:epoch 239, minibatch 37/37, validation error 30.400000 %
+DEBUG:root:epoch 240, minibatch 37/37, validation error 31.866667 %
+DEBUG:root:epoch 241, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 242, minibatch 37/37, validation error 32.166667 %
+DEBUG:root:epoch 243, minibatch 37/37, validation error 31.416667 %
+DEBUG:root:epoch 244, minibatch 37/37, validation error 31.933333 %
+DEBUG:root:epoch 245, minibatch 37/37, validation error 31.566667 %
+DEBUG:root:epoch 246, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 247, minibatch 37/37, validation error 31.833333 %
+DEBUG:root:epoch 248, minibatch 37/37, validation error 31.483333 %
+DEBUG:root:epoch 249, minibatch 37/37, validation error 31.850000 %
+DEBUG:root:epoch 250, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 251, minibatch 37/37, validation error 32.200000 %
+DEBUG:root:epoch 252, minibatch 37/37, validation error 31.150000 %
+DEBUG:root:epoch 253, minibatch 37/37, validation error 31.550000 %
+DEBUG:root:epoch 254, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 255, minibatch 37/37, validation error 32.000000 %
+DEBUG:root:epoch 256, minibatch 37/37, validation error 32.100000 %
+DEBUG:root:epoch 257, minibatch 37/37, validation error 32.333333 %
+DEBUG:root:epoch 258, minibatch 37/37, validation error 31.450000 %
+DEBUG:root:epoch 259, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 260, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 261, minibatch 37/37, validation error 31.933333 %
+DEBUG:root:epoch 262, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 263, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 264, minibatch 37/37, validation error 32.233333 %
+DEBUG:root:epoch 265, minibatch 37/37, validation error 32.066667 %
+DEBUG:root:epoch 266, minibatch 37/37, validation error 31.450000 %
+DEBUG:root:epoch 267, minibatch 37/37, validation error 30.916667 %
+DEBUG:root:epoch 268, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 269, minibatch 37/37, validation error 31.033333 %
+DEBUG:root:epoch 270, minibatch 37/37, validation error 31.916667 %
+DEBUG:root:epoch 271, minibatch 37/37, validation error 30.950000 %
+DEBUG:root:epoch 272, minibatch 37/37, validation error 30.700000 %
+DEBUG:root:epoch 273, minibatch 37/37, validation error 31.566667 %
+DEBUG:root:epoch 274, minibatch 37/37, validation error 31.816667 %
+DEBUG:root:epoch 275, minibatch 37/37, validation error 31.550000 %
+DEBUG:root:epoch 276, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 277, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 278, minibatch 37/37, validation error 31.950000 %
+DEBUG:root:epoch 279, minibatch 37/37, validation error 30.650000 %
+DEBUG:root:epoch 280, minibatch 37/37, validation error 31.150000 %
+DEBUG:root:epoch 281, minibatch 37/37, validation error 32.283333 %
+DEBUG:root:epoch 282, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 283, minibatch 37/37, validation error 31.400000 %
+DEBUG:root:epoch 284, minibatch 37/37, validation error 30.750000 %
+DEBUG:root:epoch 285, minibatch 37/37, validation error 30.750000 %
+DEBUG:root:epoch 286, minibatch 37/37, validation error 31.416667 %
+DEBUG:root:epoch 287, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 288, minibatch 37/37, validation error 32.116667 %
+DEBUG:root:epoch 289, minibatch 37/37, validation error 31.150000 %
+DEBUG:root:epoch 290, minibatch 37/37, validation error 31.683333 %
+DEBUG:root:epoch 291, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 292, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 293, minibatch 37/37, validation error 31.816667 %
+DEBUG:root:epoch 294, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 295, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 296, minibatch 37/37, validation error 31.116667 %
+DEBUG:root:epoch 297, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 298, minibatch 37/37, validation error 31.966667 %
+DEBUG:root:epoch 299, minibatch 37/37, validation error 31.416667 %
+DEBUG:root:epoch 300, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 301, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 302, minibatch 37/37, validation error 32.266667 %
+DEBUG:root:epoch 303, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 304, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 305, minibatch 37/37, validation error 30.933333 %
+DEBUG:root:epoch 306, minibatch 37/37, validation error 31.666667 %
+DEBUG:root:epoch 307, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 308, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 309, minibatch 37/37, validation error 32.133333 %
+DEBUG:root:epoch 310, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 311, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 312, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 313, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 314, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 315, minibatch 37/37, validation error 30.900000 %
+DEBUG:root:epoch 316, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 317, minibatch 37/37, validation error 31.683333 %
+DEBUG:root:epoch 318, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 319, minibatch 37/37, validation error 32.233333 %
+DEBUG:root:epoch 320, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 321, minibatch 37/37, validation error 31.483333 %
+DEBUG:root:epoch 322, minibatch 37/37, validation error 30.950000 %
+DEBUG:root:epoch 323, minibatch 37/37, validation error 30.316667 %
+DEBUG:root:epoch 324, minibatch 37/37, validation error 31.100000 %
+DEBUG:root:epoch 325, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 326, minibatch 37/37, validation error 31.450000 %
+DEBUG:root:epoch 327, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 328, minibatch 37/37, validation error 30.966667 %
+DEBUG:root:epoch 329, minibatch 37/37, validation error 30.966667 %
+DEBUG:root:epoch 330, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 331, minibatch 37/37, validation error 31.900000 %
+DEBUG:root:epoch 332, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 333, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 334, minibatch 37/37, validation error 30.466667 %
+DEBUG:root:epoch 335, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 336, minibatch 37/37, validation error 31.200000 %
+DEBUG:root:epoch 337, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 338, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 339, minibatch 37/37, validation error 31.733333 %
+DEBUG:root:epoch 340, minibatch 37/37, validation error 31.033333 %
+DEBUG:root:epoch 341, minibatch 37/37, validation error 31.600000 %
+DEBUG:root:epoch 342, minibatch 37/37, validation error 31.216667 %
+DEBUG:root:epoch 343, minibatch 37/37, validation error 31.283333 %
+DEBUG:root:epoch 344, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 345, minibatch 37/37, validation error 32.083333 %
+DEBUG:root:epoch 346, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 347, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 348, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 349, minibatch 37/37, validation error 30.983333 %
+DEBUG:root:epoch 350, minibatch 37/37, validation error 31.283333 %
+DEBUG:root:epoch 351, minibatch 37/37, validation error 31.683333 %
+DEBUG:root:epoch 352, minibatch 37/37, validation error 31.200000 %
+DEBUG:root:epoch 353, minibatch 37/37, validation error 31.283333 %
+DEBUG:root:epoch 354, minibatch 37/37, validation error 31.050000 %
+DEBUG:root:epoch 355, minibatch 37/37, validation error 30.966667 %
+DEBUG:root:epoch 356, minibatch 37/37, validation error 31.316667 %
+DEBUG:root:epoch 357, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 358, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 359, minibatch 37/37, validation error 31.566667 %
+DEBUG:root:epoch 360, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 361, minibatch 37/37, validation error 30.516667 %
+DEBUG:root:epoch 362, minibatch 37/37, validation error 30.716667 %
+DEBUG:root:epoch 363, minibatch 37/37, validation error 31.366667 %
+DEBUG:root:epoch 364, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 365, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 366, minibatch 37/37, validation error 29.916667 %
+DEBUG:root:epoch 367, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 368, minibatch 37/37, validation error 30.800000 %
+DEBUG:root:epoch 369, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 370, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 371, minibatch 37/37, validation error 31.100000 %
+DEBUG:root:epoch 372, minibatch 37/37, validation error 31.650000 %
+DEBUG:root:epoch 373, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 374, minibatch 37/37, validation error 31.600000 %
+DEBUG:root:epoch 375, minibatch 37/37, validation error 31.150000 %
+DEBUG:root:epoch 376, minibatch 37/37, validation error 30.783333 %
+DEBUG:root:epoch 377, minibatch 37/37, validation error 30.833333 %
+DEBUG:root:epoch 378, minibatch 37/37, validation error 30.750000 %
+DEBUG:root:epoch 379, minibatch 37/37, validation error 30.716667 %
+DEBUG:root:epoch 380, minibatch 37/37, validation error 31.683333 %
+DEBUG:root:epoch 381, minibatch 37/37, validation error 30.800000 %
+DEBUG:root:epoch 382, minibatch 37/37, validation error 31.016667 %
+DEBUG:root:epoch 383, minibatch 37/37, validation error 31.100000 %
+DEBUG:root:epoch 384, minibatch 37/37, validation error 31.450000 %
+DEBUG:root:epoch 385, minibatch 37/37, validation error 31.783333 %
+DEBUG:root:epoch 386, minibatch 37/37, validation error 30.066667 %
+DEBUG:root:epoch 387, minibatch 37/37, validation error 31.316667 %
+DEBUG:root:epoch 388, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 389, minibatch 37/37, validation error 31.050000 %
+DEBUG:root:epoch 390, minibatch 37/37, validation error 30.933333 %
+DEBUG:root:epoch 391, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 392, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 393, minibatch 37/37, validation error 31.033333 %
+DEBUG:root:epoch 394, minibatch 37/37, validation error 30.733333 %
+DEBUG:root:epoch 395, minibatch 37/37, validation error 31.266667 %
+DEBUG:root:epoch 396, minibatch 37/37, validation error 30.350000 %
+DEBUG:root:epoch 397, minibatch 37/37, validation error 31.183333 %
+DEBUG:root:epoch 398, minibatch 37/37, validation error 31.616667 %
+DEBUG:root:epoch 399, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 400, minibatch 37/37, validation error 31.050000 %
+DEBUG:root:epoch 401, minibatch 37/37, validation error 31.216667 %
+DEBUG:root:epoch 402, minibatch 37/37, validation error 31.000000 %
+DEBUG:root:epoch 403, minibatch 37/37, validation error 30.716667 %
+DEBUG:root:epoch 404, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 405, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 406, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 407, minibatch 37/37, validation error 30.983333 %
+DEBUG:root:epoch 408, minibatch 37/37, validation error 30.983333 %
+DEBUG:root:epoch 409, minibatch 37/37, validation error 31.500000 %
+DEBUG:root:epoch 410, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 411, minibatch 37/37, validation error 31.566667 %
+DEBUG:root:epoch 412, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 413, minibatch 37/37, validation error 30.316667 %
+DEBUG:root:epoch 414, minibatch 37/37, validation error 31.466667 %
+DEBUG:root:epoch 415, minibatch 37/37, validation error 30.500000 %
+DEBUG:root:epoch 416, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 417, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 418, minibatch 37/37, validation error 31.266667 %
+DEBUG:root:epoch 419, minibatch 37/37, validation error 30.900000 %
+DEBUG:root:epoch 420, minibatch 37/37, validation error 31.116667 %
+DEBUG:root:epoch 421, minibatch 37/37, validation error 31.550000 %
+DEBUG:root:epoch 422, minibatch 37/37, validation error 31.266667 %
+DEBUG:root:epoch 423, minibatch 37/37, validation error 31.150000 %
+DEBUG:root:epoch 424, minibatch 37/37, validation error 31.250000 %
+DEBUG:root:epoch 425, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 426, minibatch 37/37, validation error 30.933333 %
+DEBUG:root:epoch 427, minibatch 37/37, validation error 30.983333 %
+DEBUG:root:epoch 428, minibatch 37/37, validation error 30.550000 %
+DEBUG:root:epoch 429, minibatch 37/37, validation error 31.200000 %
+DEBUG:root:epoch 430, minibatch 37/37, validation error 31.383333 %
+DEBUG:root:epoch 431, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 432, minibatch 37/37, validation error 30.933333 %
+DEBUG:root:epoch 433, minibatch 37/37, validation error 30.750000 %
+DEBUG:root:epoch 434, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 435, minibatch 37/37, validation error 31.600000 %
+DEBUG:root:epoch 436, minibatch 37/37, validation error 30.500000 %
+DEBUG:root:epoch 437, minibatch 37/37, validation error 30.300000 %
+DEBUG:root:epoch 438, minibatch 37/37, validation error 31.100000 %
+DEBUG:root:epoch 439, minibatch 37/37, validation error 30.583333 %
+DEBUG:root:epoch 440, minibatch 37/37, validation error 31.316667 %
+DEBUG:root:epoch 441, minibatch 37/37, validation error 31.716667 %
+DEBUG:root:epoch 442, minibatch 37/37, validation error 31.016667 %
+DEBUG:root:epoch 443, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 444, minibatch 37/37, validation error 30.866667 %
+DEBUG:root:epoch 445, minibatch 37/37, validation error 30.800000 %
+DEBUG:root:epoch 446, minibatch 37/37, validation error 31.783333 %
+DEBUG:root:epoch 447, minibatch 37/37, validation error 30.383333 %
+DEBUG:root:epoch 448, minibatch 37/37, validation error 30.916667 %
+DEBUG:root:epoch 449, minibatch 37/37, validation error 31.366667 %
+DEBUG:root:epoch 450, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 451, minibatch 37/37, validation error 31.433333 %
+DEBUG:root:epoch 452, minibatch 37/37, validation error 31.433333 %
+DEBUG:root:epoch 453, minibatch 37/37, validation error 30.383333 %
+DEBUG:root:epoch 454, minibatch 37/37, validation error 30.900000 %
+DEBUG:root:epoch 455, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 456, minibatch 37/37, validation error 31.733333 %
+DEBUG:root:epoch 457, minibatch 37/37, validation error 30.633333 %
+DEBUG:root:epoch 458, minibatch 37/37, validation error 31.533333 %
+DEBUG:root:epoch 459, minibatch 37/37, validation error 31.266667 %
+DEBUG:root:epoch 460, minibatch 37/37, validation error 29.883333 %
+DEBUG:root:epoch 461, minibatch 37/37, validation error 30.983333 %
+DEBUG:root:epoch 462, minibatch 37/37, validation error 31.366667 %
+DEBUG:root:epoch 463, minibatch 37/37, validation error 31.200000 %
+DEBUG:root:epoch 464, minibatch 37/37, validation error 31.050000 %
+DEBUG:root:epoch 465, minibatch 37/37, validation error 30.800000 %
+DEBUG:root:epoch 466, minibatch 37/37, validation error 30.766667 %
+DEBUG:root:epoch 467, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 468, minibatch 37/37, validation error 31.550000 %
+DEBUG:root:epoch 469, minibatch 37/37, validation error 31.800000 %
+DEBUG:root:epoch 470, minibatch 37/37, validation error 31.800000 %
+DEBUG:root:epoch 471, minibatch 37/37, validation error 30.633333 %
+DEBUG:root:epoch 472, minibatch 37/37, validation error 30.550000 %
+DEBUG:root:epoch 473, minibatch 37/37, validation error 31.266667 %
+DEBUG:root:epoch 474, minibatch 37/37, validation error 31.133333 %
+DEBUG:root:epoch 475, minibatch 37/37, validation error 30.916667 %
+DEBUG:root:epoch 476, minibatch 37/37, validation error 31.483333 %
+DEBUG:root:epoch 477, minibatch 37/37, validation error 31.033333 %
+DEBUG:root:epoch 478, minibatch 37/37, validation error 31.016667 %
+DEBUG:root:epoch 479, minibatch 37/37, validation error 31.950000 %
+DEBUG:root:epoch 480, minibatch 37/37, validation error 32.000000 %
+DEBUG:root:epoch 481, minibatch 37/37, validation error 30.533333 %
+DEBUG:root:epoch 482, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 483, minibatch 37/37, validation error 31.350000 %
+DEBUG:root:epoch 484, minibatch 37/37, validation error 31.000000 %
+DEBUG:root:epoch 485, minibatch 37/37, validation error 30.716667 %
+DEBUG:root:epoch 486, minibatch 37/37, validation error 31.000000 %
+DEBUG:root:epoch 487, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 488, minibatch 37/37, validation error 30.750000 %
+DEBUG:root:epoch 489, minibatch 37/37, validation error 30.533333 %
+DEBUG:root:epoch 490, minibatch 37/37, validation error 30.950000 %
+DEBUG:root:epoch 491, minibatch 37/37, validation error 30.883333 %
+DEBUG:root:epoch 492, minibatch 37/37, validation error 30.900000 %
+DEBUG:root:epoch 493, minibatch 37/37, validation error 30.850000 %
+DEBUG:root:epoch 494, minibatch 37/37, validation error 30.233333 %
+DEBUG:root:epoch 495, minibatch 37/37, validation error 30.533333 %
+DEBUG:root:epoch 496, minibatch 37/37, validation error 31.050000 %
+DEBUG:root:epoch 497, minibatch 37/37, validation error 31.583333 %
+DEBUG:root:epoch 498, minibatch 37/37, validation error 30.950000 %
+DEBUG:root:epoch 499, minibatch 37/37, validation error 30.883333 %
+DEBUG:root:epoch 500, minibatch 37/37, validation error 31.083333 %
+DEBUG:root:epoch 501, minibatch 37/37, validation error 31.300000 %
+DEBUG:root:epoch 502, minibatch 37/37, validation error 30.716667 %
+DEBUG:root:epoch 503, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 504, minibatch 37/37, validation error 31.100000 %
+DEBUG:root:epoch 505, minibatch 37/37, validation error 31.066667 %
+DEBUG:root:epoch 506, minibatch 37/37, validation error 30.766667 %
+DEBUG:root:epoch 507, minibatch 37/37, validation error 31.750000 %
+DEBUG:root:epoch 508, minibatch 37/37, validation error 31.666667 %
+DEBUG:root:epoch 509, minibatch 37/37, validation error 31.416667 %
+DEBUG:root:epoch 510, minibatch 37/37, validation error 30.533333 %
+DEBUG:root:epoch 511, minibatch 37/37, validation error 30.516667 %
+DEBUG:root:epoch 512, minibatch 37/37, validation error 31.333333 %
+DEBUG:root:epoch 513, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 514, minibatch 37/37, validation error 30.516667 %
+DEBUG:root:epoch 515, minibatch 37/37, validation error 30.633333 %
+DEBUG:root:epoch 516, minibatch 37/37, validation error 31.483333 %
+DEBUG:root:epoch 517, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 518, minibatch 37/37, validation error 32.133333 %
+DEBUG:root:epoch 519, minibatch 37/37, validation error 30.633333 %
+DEBUG:root:epoch 520, minibatch 37/37, validation error 31.016667 %
+DEBUG:root:epoch 521, minibatch 37/37, validation error 31.316667 %
+DEBUG:root:epoch 522, minibatch 37/37, validation error 31.116667 %
+DEBUG:root:epoch 523, minibatch 37/37, validation error 31.566667 %
+DEBUG:root:epoch 524, minibatch 37/37, validation error 31.600000 %
+DEBUG:root:epoch 525, minibatch 37/37, validation error 31.633333 %
+DEBUG:root:epoch 526, minibatch 37/37, validation error 31.000000 %
+DEBUG:root:epoch 527, minibatch 37/37, validation error 31.233333 %
+DEBUG:root:epoch 528, minibatch 37/37, validation error 31.200000 %
+DEBUG:root:epoch 529, minibatch 37/37, validation error 31.033333 %
+DEBUG:root:epoch 530, minibatch 37/37, validation error 30.950000 %
+DEBUG:root:epoch 531, minibatch 37/37, validation error 30.366667 %
+DEBUG:root:epoch 532, minibatch 37/37, validation error 31.516667 %
+DEBUG:root:epoch 533, minibatch 37/37, validation error 31.166667 %
+DEBUG:root:epoch 534, minibatch 37/37, validation error 30.533333 %
+DEBUG:root:epoch 535, minibatch 37/37, validation error 31.316667 %
+DEBUG:root:epoch 536, minibatch 37/37, validation error 30.833333 %
+DEBUG:root:epoch 537, minibatch 37/37, validation error 30.416667 %
+DEBUG:root:epoch 538, minibatch 37/37, validation error 31.650000 %
+DEBUG:root:epoch 539, minibatch 37/37, validation error 31.200000 %
